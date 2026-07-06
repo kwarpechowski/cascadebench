@@ -50,6 +50,11 @@ temporal GNN + attention \cite{xu2020inductive} & 0.87 & 0.75 \\
 \end{tabular}
 \end{table}
 
+Reading the two columns makes the point concrete: the temporal GNN leads under the naive attacker
+($0.87$) but drops to $0.75$ against the stealthy one, while the static GCN \emph{rises} from $0.80$ to
+$0.84$---so the best detector is regime-dependent, and the ranking a fixed corpus would report is an artefact of
+the single attacker it happened to contain.
+
 \subsection{Auditing for leakage}
 The \texttt{leak-audit} command applies the time-shuffle control and reports, as a first-class
 number, how much of a detector's advantage survives permuting the timestamps
@@ -73,6 +78,11 @@ temporal GNN (time-shuffled) & 0.77 & 0.049 \\
 \bottomrule
 \end{tabular}
 \end{table}
+
+The gap between the first two rows is the diagnostic: shuffling timestamps costs the temporal GNN
+$0.85\!\to\!0.77$ AUC (and $0.072\!\to\!0.049$ Recall@FPR=1\%), so roughly that much of its advantage was
+genuine temporal dynamics and the residual over the $0.65$ baseline is what survives as timing-independent
+signal---a decomposition a single unaudited score would hide.
 
 \subsection{Sweeping the attacker}
 \texttt{pareto} and \texttt{adaptive} sweep the attacker's reach and record a curve rather than
