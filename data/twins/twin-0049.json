@@ -1,0 +1,196 @@
+{
+  "c1": {
+    "company": "Helvetia Insurance",
+    "department": "Executive Board",
+    "industry": "Insurance",
+    "responsibilities": [
+      "Strategic oversight of European market expansion",
+      "Quarterly financial reporting to shareholders",
+      "High-level risk management and underwriting policy",
+      "Managing corporate governance and regulatory compliance"
+    ],
+    "role": "Managing Director",
+    "seniority": "Executive"
+  },
+  "c2": {
+    "coworkers": [
+      "Greta Wojcik",
+      "Bartek Brandt",
+      "Daniel Keller",
+      "Felix Dvorak",
+      "Viktor Falk",
+      "Marek Dvorak",
+      "Eva Dvorak"
+    ],
+    "direct_reports": [
+      "Greta Wojcik",
+      "Bartek Brandt"
+    ],
+    "external_contacts": [
+      "Marek Sokolov",
+      "Oskar Adamczyk"
+    ],
+    "manager": "",
+    "recruiters": [
+      "Executive Search Global",
+      "HeadHunter Elite"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "Fellow of the Casualty Actuarial Society (FCAS)",
+      "MBA - INSEAD"
+    ],
+    "security_awareness": "Moderate; understands high-level risks but often bypasses strict protocols for the sake of operational speed.",
+    "skills": [
+      "Strategic Planning",
+      "Actuarial Analysis",
+      "Corporate Finance",
+      "Crisis Management"
+    ],
+    "tech_stack": [
+      "Microsoft 365",
+      "SAP S/4HANA",
+      "Bloomberg Terminal",
+      "Salesforce"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "World Insurance Congress",
+      "Davos World Economic Forum"
+    ],
+    "interests": [
+      "Sailing",
+      "Classical Music",
+      "Macroeconomics",
+      "Vintage Watches"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "The Future of Parametric Insurance (2022)",
+      "Risk Mitigation in Volatile Markets (2020)"
+    ],
+    "recent_posts": [
+      "Discussing the impact of AI on underwriting efficiency",
+      "Thoughts on the current EU regulatory landscape for insurers"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "viktor.lindholm@helvetia-insure.com",
+      "v.lindholm.private@protonmail.com"
+    ],
+    "phone": "+41-44-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "X (Twitter)",
+      "Clubhouse"
+    ],
+    "social_handles": "@VLindholm_Exec",
+    "websites": [
+      "lindholm-consulting.me"
+    ]
+  },
+  "c6": {
+    "deadlines": [
+      "Annual Fiscal Audit - End of Month",
+      "Q3 Strategic Review - Next Friday"
+    ],
+    "recent_activity": [
+      "Negotiating a merger with a mid-sized brokerage",
+      "Reviewing new compliance frameworks for GDPR"
+    ],
+    "recent_role_change": "Promoted to Managing Director 18 months ago",
+    "travel": "Frequent travel between Zurich, London, and Frankfurt",
+    "upcoming_events": [
+      "Zurich Insurance Summit",
+      "Board of Directors Annual Retreat"
+    ]
+  },
+  "c7": {
+    "authority": 0.95,
+    "commitment": 0.8,
+    "known_triggers": [
+      "Regulatory threats",
+      "Shareholder dissatisfaction",
+      "Urgent legal notices",
+      "Exclusive industry invitations"
+    ],
+    "liking": 0.5,
+    "reciprocity": 0.4,
+    "scarcity": 0.6,
+    "social_proof": 0.7
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "CEO fraud/Business Email Compromise (BEC) targeting his subordinates",
+      "Phishing via a fake 'Confidential Board Memo' attachment",
+      "Credential harvesting via a fake 'Executive Portal' login"
+    ],
+    "likely_senders": [
+      "Marek Sokolov",
+      "Oskar Adamczyk",
+      "Greta Wojcik",
+      "External Legal Counsel"
+    ],
+    "plausible_pretexts": [
+      "Urgent request for signature on a confidential merger document",
+      "Notification of a regulatory audit from the Financial Conduct Authority",
+      "Invitation to a private executive roundtable on AI in Insurance"
+    ],
+    "routine_communications": [
+      "Weekly executive summaries",
+      "Approval of high-value claims",
+      "Quarterly budget reviews"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0049",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

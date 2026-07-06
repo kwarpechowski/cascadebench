@@ -1,0 +1,180 @@
+{
+  "c1": {
+    "company": "Greenfield Industries",
+    "department": "Regulatory Affairs & Sustainability",
+    "industry": "Manufacturing/Energy",
+    "responsibilities": [
+      "Monitoring carbon emission levels",
+      "Preparing quarterly environmental impact reports",
+      "Ensuring adherence to ISO 14001 standards",
+      "Coordinating waste management audits",
+      "Liaising with regional energy regulators"
+    ],
+    "role": "Environmental Compliance Specialist",
+    "seniority": "Mid-level"
+  },
+  "c2": {
+    "coworkers": [
+      "Sophie Novak",
+      "Adrian Reuter",
+      "Tomas Marchetti",
+      "Adrian Sundqvist",
+      "Hannah Marchetti",
+      "Greta Dvorak",
+      "Greta Dvorak"
+    ],
+    "direct_reports": [],
+    "external_contacts": [],
+    "manager": "Adrian Reuter",
+    "recruiters": []
+  },
+  "c3": {
+    "certifications": [
+      "Certified Environmental Professional (CEP)",
+      "ISO 14001 Internal Auditor"
+    ],
+    "security_awareness": "Moderate; follows basic corporate training but tends to trust internal-looking communications from management.",
+    "skills": [
+      "Environmental auditing",
+      "Regulatory reporting",
+      "Data analysis",
+      "Sustainability mapping"
+    ],
+    "tech_stack": [
+      "Microsoft Excel",
+      "SAP EHS",
+      "SharePoint",
+      "Tableau"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "Global Energy Transition Summit",
+      "Green Manufacturing Expo"
+    ],
+    "interests": [
+      "Renewable energy trends",
+      "Urban gardening",
+      "Industrial architecture",
+      "Hiking"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "Internal Whitepaper on Emission Reduction 2023"
+    ],
+    "recent_posts": [
+      "Thoughts on the new carbon tax regulations in the EU",
+      "Sharing a photo of the new solar array at the plant"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "sophie.dvorak@greenfield-ind.com"
+    ],
+    "phone": "+49-176-555-0129",
+    "platforms": [
+      "LinkedIn",
+      "Industry-specific forums"
+    ],
+    "social_handles": "@sophie_dvorak_env",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Emission Report submission",
+      "Annual Sustainability Audit"
+    ],
+    "recent_activity": [
+      "Updating the waste disposal logs",
+      "Reviewing new energy efficiency guidelines"
+    ],
+    "recent_role_change": "Promoted to Specialist 14 months ago",
+    "travel": "Occasional site visits to regional manufacturing plants",
+    "upcoming_events": [
+      "Quarterly Compliance Review Meeting"
+    ]
+  },
+  "c7": {
+    "authority": 0.75,
+    "commitment": 0.8,
+    "known_triggers": [
+      "Urgent regulatory deadlines",
+      "Direct requests from Adrian Reuter",
+      "Compliance failure warnings"
+    ],
+    "liking": 0.65,
+    "reciprocity": 0.5,
+    "scarcity": 0.4,
+    "social_proof": 0.6
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "An email appearing to be from Adrian Reuter requesting an immediate review of a 'confidential' regulatory breach document",
+      "A notification about a missed deadline for a mandatory environmental certification"
+    ],
+    "likely_senders": [
+      "Adrian Reuter",
+      "Tomas Marchetti",
+      "Corporate HR",
+      "IT Support"
+    ],
+    "plausible_pretexts": [
+      "Urgent update required for the Q3 Environmental Report",
+      "New mandatory compliance training module",
+      "Updated safety protocols for plant visits"
+    ],
+    "routine_communications": [
+      "Weekly status updates on emissions",
+      "Audit schedule coordination",
+      "Document approvals for regulatory filing"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0035",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

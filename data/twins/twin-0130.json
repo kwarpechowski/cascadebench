@@ -1,0 +1,194 @@
+{
+  "c1": {
+    "company": "Atlas Mining Corporation",
+    "department": "Supply Chain & Operations",
+    "industry": "Mining and Natural Resources",
+    "responsibilities": [
+      "Overseeing heavy machinery procurement",
+      "Managing cross-border mineral transport logistics",
+      "Optimizing site-to-port supply chains",
+      "Budgetary oversight for regional extraction sites",
+      "Compliance with international mining safety standards"
+    ],
+    "role": "Senior Manager of Operational Logistics",
+    "seniority": "Senior"
+  },
+  "c2": {
+    "coworkers": [
+      "Lena Falk",
+      "Viktor Schmidt",
+      "Pawel Falk",
+      "Sophie Wojcik",
+      "Iris Adamczyk",
+      "Tomas Dvorak",
+      "Oskar Lindqvist"
+    ],
+    "direct_reports": [
+      "Logistics Coordinators",
+      "Fleet Managers",
+      "Procurement Officers"
+    ],
+    "external_contacts": [],
+    "manager": "Lena Falk",
+    "recruiters": [
+      "Global Mining Talent Search",
+      "ResourceExec Search"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "CSCP (Certified Supply Chain Professional)",
+      "PMP (Project Management Professional)"
+    ],
+    "security_awareness": "Moderate; follows corporate policy but tends to prioritize operational speed over strict verification during high-pressure deadlines.",
+    "skills": [
+      "Strategic Sourcing",
+      "ERP Management",
+      "Risk Mitigation",
+      "Lean Six Sigma",
+      "Contract Negotiation"
+    ],
+    "tech_stack": [
+      "SAP S/4HANA",
+      "Microsoft Excel (Advanced)",
+      "Oracle NetSuite",
+      "Microsoft Teams",
+      "SharePoint"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "International Mining Congress",
+      "Global Logistics Summit 2023"
+    ],
+    "interests": [
+      "Sustainable Mining Practices",
+      "Industrial Automation",
+      "Mountain Hiking",
+      "Geopolitics of Rare Earth Elements"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "Optimizing Ore Transport in Remote Terrains (Internal Whitepaper)"
+    ],
+    "recent_posts": [
+      "Discussing the impact of autonomous hauling on workforce safety",
+      "Sharing insights on green hydrogen in mining operations"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "hannah.janssen@atlas-mining.com"
+    ],
+    "phone": "+49-172-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "Industry-specific forums"
+    ],
+    "social_handles": "@h_janssen_ops",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Logistics Budget Approval",
+      "Annual Safety Audit Submission",
+      "Vendor Contract Renewal - Heavy Equipment"
+    ],
+    "recent_activity": [
+      "Reviewing new fleet maintenance schedules",
+      "Coordinating with Lena Falk on budget cuts"
+    ],
+    "recent_role_change": "Promoted to Senior Manager 14 months ago",
+    "travel": "Frequent travel between corporate HQ and remote mining sites",
+    "upcoming_events": [
+      "Quarterly Operations Review",
+      "Site Visit to Northern Extraction Zone"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.75,
+    "known_triggers": [
+      "Urgent operational delays",
+      "Direct requests from Lena Falk",
+      "Compliance warnings",
+      "Budgetary discrepancies"
+    ],
+    "liking": 0.5,
+    "reciprocity": 0.4,
+    "scarcity": 0.6,
+    "social_proof": 0.7
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "An 'urgent' email from Lena Falk requesting a quick review of a document while Hannah is traveling",
+      "A notification about a failed shipment that requires immediate login to a logistics portal",
+      "A request from HR to update payroll details for the new fiscal year"
+    ],
+    "likely_senders": [
+      "Lena Falk",
+      "Viktor Schmidt",
+      "Corporate Finance Department",
+      "HR Compliance Team"
+    ],
+    "plausible_pretexts": [
+      "Urgent update to the Q3 budget spreadsheet",
+      "Required signature for a new vendor contract",
+      "Mandatory safety compliance training update",
+      "Confidential memo regarding organizational restructuring"
+    ],
+    "routine_communications": [
+      "Weekly logistics status reports",
+      "Budget approval requests",
+      "Equipment maintenance logs"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0130",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

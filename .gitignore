@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.egg
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+
+# Local LLM config (may hold endpoint/keys) — use config.example.py as a template
+config.py
+
+# Logs / test output
+*.log
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Figure previews (generated)
+*.png
+# ...but keep the curated README figures
+!docs/figures/*.png
+
+# LaTeX build artifacts (paper/)
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.toc
+paper/*.bbl
+paper/*.blg
+paper/*.synctex.gz
+paper/*.fdb_latexmk
+paper/*.fls
+paper/*.spl
+paper/*.pdf
+
+# Downloaded / cached large data (keep generated data/twins/ and results/*.csv tracked)
+data/realgraphs/
+data/enron/
+data/cache/
+*.tmp

@@ -1,0 +1,188 @@
+{
+  "c1": {
+    "company": "Northwind Capital Partners",
+    "department": "Equity Research",
+    "industry": "Finance/Banking",
+    "responsibilities": [
+      "Financial modeling and valuation",
+      "Market trend analysis",
+      "Preparing quarterly performance reports",
+      "Data scrubbing for portfolio managers",
+      "Monitoring sector-specific news feeds"
+    ],
+    "role": "Junior Analyst",
+    "seniority": "Entry-level"
+  },
+  "c2": {
+    "coworkers": [
+      "Oskar Moreau",
+      "Felix Vogel",
+      "Iris Sundqvist",
+      "Anna Novak",
+      "Felix Marchetti",
+      "Marek Berger",
+      "Greta Lindholm"
+    ],
+    "direct_reports": [],
+    "external_contacts": [],
+    "manager": "Felix Vogel",
+    "recruiters": [
+      "HeadHunter Finance Global",
+      "Elite Banking Talent"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "CFA Level I Candidate"
+    ],
+    "security_awareness": "Moderate; follows basic corporate guidelines but tends to trust internal-looking communications from superiors due to hierarchy.",
+    "skills": [
+      "DCF Modeling",
+      "Quantitative Analysis",
+      "Advanced Excel",
+      "Bloomberg Terminal",
+      "Financial Statement Analysis"
+    ],
+    "tech_stack": [
+      "Microsoft Excel",
+      "Power BI",
+      "Bloomberg",
+      "Reuters Eikon",
+      "Microsoft Outlook"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "Global Finance Summit 2023",
+      "FinTech Innovate"
+    ],
+    "interests": [
+      "Algorithmic trading",
+      "Macroeconomics",
+      "Mountain biking",
+      "Vintage watches"
+    ],
+    "oss_projects": [],
+    "publications": [],
+    "recent_posts": [
+      "Thoughts on the current inflation hedge strategies",
+      "Review of the latest Q3 sector outlook"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "oskar.vogel@northwind-capital.com",
+      "ovogel.private@webmail.com"
+    ],
+    "phone": "+49-176-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "X",
+      "Bloomberg Terminal"
+    ],
+    "social_handles": "@ovogel_finance",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Quarterly Sector Review - Friday",
+      "CFA Exam Registration - End of month"
+    ],
+    "recent_activity": [
+      "Updating the valuation model for the energy sector",
+      "Onboarding for the new risk management software"
+    ],
+    "recent_role_change": "Promoted from Intern to Junior Analyst 4 months ago",
+    "travel": "None planned",
+    "upcoming_events": [
+      "Internal Portfolio Review Meeting",
+      "Annual Compliance Training"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.6,
+    "known_triggers": [
+      "Direct requests from Felix Vogel",
+      "Urgent compliance deadlines",
+      "Career advancement opportunities",
+      "Industry-standard benchmarking reports"
+    ],
+    "liking": 0.7,
+    "reciprocity": 0.5,
+    "scarcity": 0.4,
+    "social_proof": 0.6
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "Email from 'Felix Vogel' requesting a quick file review during a busy deadline",
+      "Notification of a 'security breach' requiring password reset via a fake portal",
+      "HR email regarding a bonus structure change requiring a login"
+    ],
+    "likely_senders": [
+      "Felix Vogel",
+      "HR Department",
+      "IT Support",
+      "Compliance Office"
+    ],
+    "plausible_pretexts": [
+      "Urgent request for a revised financial model",
+      "Mandatory compliance policy update",
+      "Internal payroll adjustment notification",
+      "Invitation to a private sector-analysis webinar"
+    ],
+    "routine_communications": [
+      "Daily morning briefing notes",
+      "Model update submissions",
+      "Expense report filings"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0008",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

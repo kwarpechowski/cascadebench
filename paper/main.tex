@@ -1,0 +1,77 @@
+% ============================================================
+% CascadeBench — SoftwareX Original Software Publication
+% Class: elsarticle (SoftwareX template). Compile:
+%   pdflatex main ; bibtex main ; pdflatex main ; pdflatex main
+% On Overleaf: set this file as the main document (elsarticle ships with TeX Live).
+% ============================================================
+\documentclass[final,5p,times]{elsarticle}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amssymb}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{listings}
+\usepackage{enumitem}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning,fit,backgrounds}
+\usepackage{xspace}
+\usepackage{hyperref}
+
+\lstset{
+  basicstyle=\ttfamily\footnotesize,
+  breaklines=true,
+  columns=fullflexible,
+  keepspaces=true,
+  frame=single,
+  framesep=4pt,
+  xleftmargin=4pt,
+  showstringspaces=false,
+  language=Python
+}
+
+\newcommand{\tool}{CascadeBench\xspace}
+
+\journal{SoftwareX}
+
+\begin{document}
+
+\begin{frontmatter}
+
+\title{CascadeBench: A Leak-Aware Benchmark for Graph-Based\\
+Spear-Phishing and Lateral-Movement Detection}
+
+\author[koz]{Kamil Warpechowski\corref{cor}}
+\ead{kamil.warpechowski@kozminski.edu.pl}
+\author[koz,nask]{Bogdan Ksi\k{e}\.zopolski}
+\ead{bogdan.ksiezopolski@kozminski.edu.pl}
+
+\address[koz]{Kozminski University, Jagiello\'nska 57/59, 03-301 Warsaw, Poland}
+\address[nask]{NASK National Research Institute, Warsaw, Poland}
+\cortext[cor]{Corresponding author.}
+
+\input{abstract}
+
+\begin{keyword}
+spear phishing \sep lateral movement \sep graph neural networks \sep
+adversarial evaluation \sep benchmark \sep data leakage
+\end{keyword}
+
+\end{frontmatter}
+
+\input{introduction}
+\input{related_work}
+\input{methodology}
+\input{results}
+\input{discussion}
+\input{conclusion}
+
+\bibliographystyle{elsarticle-num}
+\bibliography{refs}
+
+\end{document}

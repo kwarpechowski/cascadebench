@@ -1,0 +1,42 @@
+\section{Impact}
+\label{sec:discussion}
+
+\subsection{What the tool enables}
+\tool changes how graph-based targeted-attack detectors can be studied by supplying an open,
+controllable, confounder-controlled evaluation instrument. Its impact is as \emph{research
+infrastructure} rather than a single new score. Most directly, it is the instrument behind the
+authors' companion studies on graph-based spear-phishing and BEC detection (in preparation),
+which use it to run the analyses A1--A4---which structures carry signal, whether an advantage
+is mechanism or leakage, how detection degrades under an adaptive attacker, and whether
+robustness transfers across conditions---reproducibly and under audited conditions. Beyond that
+programme, it improves the pursuit of \emph{existing} questions for the community: for
+COMPA-style heuristics \cite{egele2013compa}, lateral-phishing features
+\cite{ho2019detecting}, and GNN fraud detectors \cite{dou2020enhancing}, it offers a common,
+leakage-audited harness so that claims become falsifiable and comparable rather than
+optimistic point estimates on private data \cite{arp2022dos}. Third, it lowers the cost of
+contribution: a new detector, attack, or graph is a few lines against one interface, so a
+group can drop in its own model and obtain a leakage-controlled comparison the same day.
+
+\subsection{Threats to validity and limitations}
+The most important limitation is \emph{synthetic realism}. The procedural organization model
+captures hierarchy, partners, and rhythm, but not the full messiness of real correspondence;
+we mitigate this by supporting real graphs (Enron, SNAP) and by using synthetic-to-real
+concordance (Section~\ref{sec:results}) as an explicit validity check, but the tool validates
+\emph{mechanism and topology}, not the detection of any specific real-world incident.
+Second, the Enron and SNAP graphs supply real \emph{structure} but the attack \emph{labels}
+are injected, not observed; \tool is therefore a controlled testbed, not a substitute for a
+labelled operational corpus, and results should be read as evidence about detector behaviour
+under known conditions. Third, the detector panel, while spanning heuristics to temporal
+GNNs, is not exhaustive; the single-interface design is precisely what makes extending it
+inexpensive. Finally, the leak-aware controls remove the confounders we identified (rhythm,
+degree, volume, identity), but no control set is complete---the tool makes leakage
+\emph{auditable and explicit}, which is the prerequisite for finding the next confounder,
+not a guarantee of its absence.
+
+\subsection{Ethics and data}
+All experiments use either a fully synthetic population, which contains no personal data and
+raises no GDPR concerns, or public graphs whose structure is real but whose attack labels are
+controlled injections. The toolkit is designed for defensive research---measuring and
+improving detectors---and does not generate deployable attack content. This makes \tool
+freely shareable in settings where real phishing corpora, bound by privacy and
+confidentiality, cannot be distributed.

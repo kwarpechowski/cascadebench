@@ -1,0 +1,193 @@
+{
+  "c1": {
+    "company": "Helvetia Insurance",
+    "department": "Claims & Risk Management",
+    "industry": "Insurance",
+    "responsibilities": [
+      "Overseeing high-value claim settlements",
+      "Optimizing claims processing workflows",
+      "Managing departmental budget and resource allocation",
+      "Ensuring regulatory compliance with insurance laws",
+      "Reporting operational KPIs to executive leadership"
+    ],
+    "role": "Senior Manager of Claims Operations",
+    "seniority": "Senior"
+  },
+  "c2": {
+    "coworkers": [
+      "Viktor Lindholm",
+      "Bartek Brandt",
+      "Daniel Keller",
+      "Felix Dvorak",
+      "Viktor Falk",
+      "Marek Dvorak",
+      "Eva Dvorak"
+    ],
+    "direct_reports": [
+      "Claims Adjusters",
+      "Case Managers",
+      "Audit Specialists"
+    ],
+    "external_contacts": [],
+    "manager": "Viktor Lindholm",
+    "recruiters": [
+      "Global Insurance Talent Search",
+      "ExecSearch Partners"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "AICP (Associate in Claims)",
+      "CPCU (Chartered Property Casualty Underwriter)"
+    ],
+    "security_awareness": "Moderate; follows corporate policy but tends to trust internal-looking communications from senior management.",
+    "skills": [
+      "Risk Assessment",
+      "Strategic Planning",
+      "Conflict Resolution",
+      "Financial Forecasting",
+      "Operational Excellence"
+    ],
+    "tech_stack": [
+      "Guidewire",
+      "SAP for Insurance",
+      "Microsoft Excel (Advanced)",
+      "SharePoint",
+      "Microsoft Teams"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "International Insurance Forum",
+      "Risk Management Summit 2023"
+    ],
+    "interests": [
+      "Corporate Governance",
+      "Mountain Hiking",
+      "Classical Music",
+      "Sustainable Investing"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "The Future of Automated Claims Processing (Internal Whitepaper)"
+    ],
+    "recent_posts": [
+      "Discussing the impact of AI on risk underwriting in the insurance sector."
+    ]
+  },
+  "c5": {
+    "emails": [
+      "greta.wojcik@helvetia-insure.com"
+    ],
+    "phone": "+41-44-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "X"
+    ],
+    "social_handles": "@gwojcik_claims",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Claims Audit Report",
+      "Annual Budget Review"
+    ],
+    "recent_activity": [
+      "Reviewing new policy guidelines for commercial liability",
+      "Approving quarterly bonuses for the claims team"
+    ],
+    "recent_role_change": "Promoted to Senior Manager 14 months ago",
+    "travel": "Zurich to Frankfurt for regional alignment",
+    "upcoming_events": [
+      "Quarterly Operational Review Meeting",
+      "Compliance Training Workshop"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.6,
+    "known_triggers": [
+      "Urgent requests from Viktor Lindholm",
+      "Compliance warnings",
+      "Budgetary discrepancies",
+      "Employee performance issues"
+    ],
+    "liking": 0.7,
+    "reciprocity": 0.5,
+    "scarcity": 0.4,
+    "social_proof": 0.6
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "An 'urgent' email from Viktor Lindholm requesting a quick review of a confidential PDF via a shared link",
+      "A notification from 'IT' regarding a security breach in the Guidewire system requiring password verification",
+      "An HR alert regarding a grievance filed by a direct report requiring immediate attention"
+    ],
+    "likely_senders": [
+      "Viktor Lindholm",
+      "HR Department",
+      "Internal Audit Team",
+      "IT Support"
+    ],
+    "plausible_pretexts": [
+      "Urgent request to review a modified claims policy document",
+      "Notification of a discrepancy in the Q3 budget report",
+      "Mandatory update to the internal insurance regulatory handbook",
+      "Request for approval on a sensitive employee payroll adjustment"
+    ],
+    "routine_communications": [
+      "Weekly status reports",
+      "Claim approval requests",
+      "Budgetary updates",
+      "Compliance checklists"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0050",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

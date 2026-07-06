@@ -1,0 +1,186 @@
+{
+  "c1": {
+    "company": "Sterling Construction",
+    "department": "Operations & Logistics",
+    "industry": "Construction/Real Estate",
+    "responsibilities": [
+      "Coordinating material deliveries to active construction sites",
+      "Managing subcontractor access schedules",
+      "Overseeing equipment rental agreements",
+      "Ensuring compliance with site safety regulations",
+      "Tracking inventory of heavy machinery"
+    ],
+    "role": "Site Logistics Specialist",
+    "seniority": "Mid-level"
+  },
+  "c2": {
+    "coworkers": [
+      "Viktor Lindholm",
+      "Sophie Haas",
+      "Eva Brandt",
+      "Nina Adamczyk",
+      "Bartek Marchetti",
+      "Marta Haas",
+      "Lukas Vogel"
+    ],
+    "direct_reports": [],
+    "external_contacts": [],
+    "manager": "Sophie Haas",
+    "recruiters": []
+  },
+  "c3": {
+    "certifications": [
+      "OSHA 30-Hour Construction Safety",
+      "Certified Logistics Professional (CLP)"
+    ],
+    "security_awareness": "Moderate; follows basic password policies but tends to click links in urgent operational emails to avoid site delays.",
+    "skills": [
+      "Supply Chain Management",
+      "Resource Scheduling",
+      "Blueprint Reading",
+      "Vendor Management"
+    ],
+    "tech_stack": [
+      "Microsoft Excel",
+      "AutoCAD",
+      "Procore",
+      "SAP ERP"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "BuildTech Expo 2023",
+      "International Construction Logistics Forum"
+    ],
+    "interests": [
+      "Modular Architecture",
+      "Sustainable Building Materials",
+      "Mountain Biking",
+      "Industrial Design"
+    ],
+    "oss_projects": [],
+    "publications": [],
+    "recent_posts": [
+      "Thoughts on the impact of prefabricated concrete on project timelines",
+      "Review of the new site-safety tracking app"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "jonas.berger@sterling-build.com"
+    ],
+    "phone": "+49-176-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "Industry-specific forums"
+    ],
+    "social_handles": "@jberger_builds",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Quarterly equipment audit due Friday",
+      "Site B delivery schedule finalization"
+    ],
+    "recent_activity": [
+      "Updated the subcontractor onboarding checklist",
+      "Negotiated new terms with a crane rental provider"
+    ],
+    "recent_role_change": "Promoted to Specialist 14 months ago",
+    "travel": "Frequent travel between regional construction sites",
+    "upcoming_events": [
+      "Annual Safety Review Meeting",
+      "Quarterly Logistics Sync"
+    ]
+  },
+  "c7": {
+    "authority": 0.6,
+    "commitment": 0.6,
+    "known_triggers": [
+      "Urgent delivery delays",
+      "Safety compliance warnings",
+      "Managerial requests for immediate reports",
+      "Equipment failure notifications"
+    ],
+    "liking": 0.7,
+    "reciprocity": 0.4,
+    "scarcity": 0.8,
+    "social_proof": 0.5
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "An email appearing to be from Sophie Haas requesting an immediate review of a 'critical' budget spreadsheet",
+      "A fake notification from a logistics partner claiming a shipment is blocked due to missing documentation",
+      "An urgent alert regarding a safety violation at one of the sites requiring immediate login to a portal"
+    ],
+    "likely_senders": [
+      "Sophie Haas",
+      "Viktor Lindholm",
+      "Eva Brandt",
+      "Nina Adamczyk",
+      "Bartek Marchetti",
+      "Marta Haas",
+      "Lukas Vogel"
+    ],
+    "plausible_pretexts": [
+      "Urgent update to the site safety manual",
+      "Revised delivery schedule for the current project",
+      "Request for signature on a rental agreement",
+      "Notification of a missing shipment"
+    ],
+    "routine_communications": [
+      "Daily site status updates",
+      "Delivery confirmation emails",
+      "Equipment maintenance logs",
+      "Scheduling conflicts with subcontractors"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0083",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

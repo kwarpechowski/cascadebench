@@ -1,0 +1,181 @@
+{
+  "c1": {
+    "company": "Sterling Construction",
+    "department": "Supply Chain & Logistics",
+    "industry": "Construction/Real Estate",
+    "responsibilities": [
+      "Managing vendor contracts for raw materials",
+      "Coordinating delivery schedules for active build sites",
+      "Auditing supplier invoices",
+      "Sourcing sustainable building materials",
+      "Maintaining inventory levels for heavy machinery parts"
+    ],
+    "role": "Procurement Specialist",
+    "seniority": "Mid-level"
+  },
+  "c2": {
+    "coworkers": [
+      "Viktor Lindholm",
+      "Sophie Haas",
+      "Jonas Berger",
+      "Eva Brandt",
+      "Nina Adamczyk",
+      "Bartek Marchetti",
+      "Lukas Vogel"
+    ],
+    "direct_reports": [],
+    "external_contacts": [],
+    "manager": "Sophie Haas",
+    "recruiters": []
+  },
+  "c3": {
+    "certifications": [
+      "CPSM (Certified Professional in Supply Management)"
+    ],
+    "security_awareness": "Moderate; follows basic corporate guidelines but tends to trust internal-looking emails from management.",
+    "skills": [
+      "Vendor Management",
+      "Contract Negotiation",
+      "Budget Forecasting",
+      "Logistics Planning"
+    ],
+    "tech_stack": [
+      "SAP ERP",
+      "Microsoft Excel",
+      "Procore",
+      "Microsoft Outlook"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "BuildTech Expo 2023",
+      "Green Building Summit"
+    ],
+    "interests": [
+      "Sustainable Architecture",
+      "Urban Planning",
+      "Hiking",
+      "Interior Design"
+    ],
+    "oss_projects": [],
+    "publications": [],
+    "recent_posts": [
+      "Thoughts on the rising cost of structural steel",
+      "Excited for the new eco-friendly concrete trial"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "marta.haas@sterling-build.com"
+    ],
+    "phone": "+49-176-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "Instagram"
+    ],
+    "social_handles": "@marta_builds_it",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Supplier Audit",
+      "Steel procurement contract renewal"
+    ],
+    "recent_activity": [
+      "Updated vendor list for timber suppliers",
+      "Reviewed safety compliance reports"
+    ],
+    "recent_role_change": "Promoted to Specialist 14 months ago",
+    "travel": "Occasional site visits to regional construction zones",
+    "upcoming_events": [
+      "Quarterly Logistics Review",
+      "Company Team Building Retreat"
+    ]
+  },
+  "c7": {
+    "authority": 0.75,
+    "commitment": 0.8,
+    "known_triggers": [
+      "Urgent requests from Sophie Haas",
+      "Invoice discrepancies",
+      "Supply chain delays",
+      "Compliance warnings"
+    ],
+    "liking": 0.6,
+    "reciprocity": 0.4,
+    "scarcity": 0.6,
+    "social_proof": 0.5
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "An 'urgent' email from Sophie Haas requesting a wire transfer for a critical supplier to avoid a site shutdown",
+      "A notification about a 'failed delivery' requiring the user to click a link to reschedule",
+      "A fake invoice from a known vendor requesting a change in banking details"
+    ],
+    "likely_senders": [
+      "Sophie Haas",
+      "Viktor Lindholm",
+      "Accounting Department",
+      "Material Suppliers"
+    ],
+    "plausible_pretexts": [
+      "Urgent update to the supplier payment terms",
+      "Missing documentation for a pending shipment",
+      "Request for a quick review of a new vendor contract",
+      "Internal policy update regarding procurement software"
+    ],
+    "routine_communications": [
+      "Weekly procurement status updates",
+      "Invoice approval requests",
+      "Delivery confirmation emails"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0087",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

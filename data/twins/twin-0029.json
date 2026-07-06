@@ -1,0 +1,187 @@
+{
+  "c1": {
+    "company": "Lex Harbor Legal",
+    "department": "Regulatory Affairs & Compliance",
+    "industry": "Legal Services",
+    "responsibilities": [
+      "Monitoring changes in maritime and trade law",
+      "Conducting internal audits of client case files",
+      "Drafting compliance reports for senior partners",
+      "Managing KYC (Know Your Customer) documentation"
+    ],
+    "role": "Compliance Specialist",
+    "seniority": "Mid-level"
+  },
+  "c2": {
+    "coworkers": [
+      "Eva Berger",
+      "Lukas Lindholm",
+      "Oskar Keller",
+      "Anna Sundqvist",
+      "Viktor Berger",
+      "Greta Moreau",
+      "Felix Brandt"
+    ],
+    "direct_reports": [],
+    "external_contacts": [],
+    "manager": "Lukas Lindholm",
+    "recruiters": [
+      "LegalTalent Global",
+      "JurisSearch Partners"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "CAMS (Certified Anti-Money Laundering Specialist)",
+      "ICA International Diploma in Governance, Risk and Compliance"
+    ],
+    "security_awareness": "Moderate; follows basic corporate guidelines but tends to trust internal-looking requests from management.",
+    "skills": [
+      "Legal Research",
+      "Regulatory Analysis",
+      "Risk Assessment",
+      "Document Review"
+    ],
+    "tech_stack": [
+      "Microsoft 365",
+      "iManage",
+      "LexisNexis",
+      "DocuSign",
+      "SAP ERP"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "International Compliance Association Annual Summit",
+      "Maritime Law Forum 2023"
+    ],
+    "interests": [
+      "Maritime Law",
+      "Sailing",
+      "European Union Trade Policy",
+      "Classical History"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "The Evolution of Trade Sanctions in the Baltic Region (Internal Whitepaper)"
+    ],
+    "recent_posts": [
+      "Discussing the impact of new EU directives on corporate transparency on LinkedIn."
+    ]
+  },
+  "c5": {
+    "emails": [
+      "pawel.sokolov@lexharbor.com",
+      "p.sokolov.private@gmail.com"
+    ],
+    "phone": "+46-8-555-0129",
+    "platforms": [
+      "LinkedIn",
+      "X (Twitter)"
+    ],
+    "social_handles": "@psokolov_legal",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Quarterly Compliance Audit - Friday",
+      "Client KYC Refresh - End of Month"
+    ],
+    "recent_activity": [
+      "Updating the internal compliance handbook",
+      "Reviewing new onboarding documents for junior associates"
+    ],
+    "recent_role_change": "Promoted to Specialist 14 months ago",
+    "travel": "Upcoming trip to Brussels for regulatory briefing",
+    "upcoming_events": [
+      "Firm-wide Strategy Meeting",
+      "Annual Compliance Workshop"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.7,
+    "known_triggers": [
+      "Urgent requests from Lukas Lindholm",
+      "Regulatory deadline warnings",
+      "Official-looking legal notices",
+      "Internal policy updates"
+    ],
+    "liking": 0.6,
+    "reciprocity": 0.4,
+    "scarcity": 0.6,
+    "social_proof": 0.5
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "An email from 'Lukas Lindholm' requesting an immediate, off-cycle audit of a specific client file",
+      "A spoofed notification from a regulatory agency claiming a compliance breach",
+      "A request from 'HR' to sign a new employment contract addendum via a phishing link"
+    ],
+    "likely_senders": [
+      "Lukas Lindholm",
+      "HR Department",
+      "IT Support",
+      "Regulatory Bodies"
+    ],
+    "plausible_pretexts": [
+      "Urgent update to the firm's compliance policy",
+      "Request to review a 'confidential' client document via a shared link",
+      "Notification of a missed regulatory filing deadline",
+      "IT request to re-verify credentials for iManage access"
+    ],
+    "routine_communications": [
+      "Weekly status reports to Lukas",
+      "Compliance check-ins with Eva Berger",
+      "Document requests to Oskar Keller"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0029",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

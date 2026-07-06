@@ -1,0 +1,193 @@
+{
+  "c1": {
+    "company": "Cobalt Systems",
+    "department": "DevOps & Platform Engineering",
+    "industry": "Software/IT",
+    "responsibilities": [
+      "Managing Kubernetes cluster orchestration",
+      "Optimizing CI/CD pipelines",
+      "Monitoring system uptime and latency",
+      "Implementing Infrastructure as Code (IaC) patterns",
+      "Collaborating on cloud migration strategies"
+    ],
+    "role": "Cloud Infrastructure Specialist",
+    "seniority": "Mid-level"
+  },
+  "c2": {
+    "coworkers": [
+      "Mira Berger",
+      "Marek Schmidt",
+      "Tomas Lindholm",
+      "Sophie Lindholm",
+      "Bartek Janssen",
+      "Iris Novak",
+      "Stefan Lindholm"
+    ],
+    "direct_reports": [],
+    "external_contacts": [],
+    "manager": "Marek Schmidt",
+    "recruiters": [
+      "TechTalent Global",
+      "CloudHire Solutions"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "CKA (Certified Kubernetes Administrator)",
+      "AWS Certified SysOps Administrator"
+    ],
+    "security_awareness": "Moderate; understands basic phishing but tends to trust internal-looking technical alerts and automated system notifications.",
+    "skills": [
+      "Terraform",
+      "Docker",
+      "Kubernetes",
+      "Bash Scripting",
+      "Prometheus",
+      "AWS"
+    ],
+    "tech_stack": [
+      "Linux",
+      "GitLab CI",
+      "Helm",
+      "Azure",
+      "Python"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "KubeCon",
+      "AWS re:Invent"
+    ],
+    "interests": [
+      "Home automation",
+      "Mechanical keyboards",
+      "Open-source monitoring tools",
+      "Hiking"
+    ],
+    "oss_projects": [
+      "k8s-dashboard-plugin-contrib"
+    ],
+    "publications": [],
+    "recent_posts": [
+      "Tips for optimizing Terraform state locks",
+      "Why we switched to Prometheus for alerting"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "lena.brandt@cobaltsystems.io"
+    ],
+    "phone": "+49-176-555-0129",
+    "platforms": [
+      "LinkedIn",
+      "GitHub",
+      "StackOverflow"
+    ],
+    "social_handles": "@lbrandt_devops",
+    "websites": [
+      "lenabrandt.dev"
+    ]
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Infrastructure Audit",
+      "Migration of legacy DB to RDS"
+    ],
+    "recent_activity": [
+      "Updated the deployment scripts for the staging environment",
+      "Resolved a critical memory leak in the production cluster"
+    ],
+    "recent_role_change": "Promoted to Specialist 6 months ago",
+    "travel": "None planned",
+    "upcoming_events": [
+      "Internal Sprint Review",
+      "Cloud Architecture Workshop"
+    ]
+  },
+  "c7": {
+    "authority": 0.6,
+    "commitment": 0.8,
+    "known_triggers": [
+      "System failure alerts",
+      "Urgent requests from Marek Schmidt",
+      "Security vulnerability patches",
+      "CI/CD pipeline failures"
+    ],
+    "liking": 0.6,
+    "reciprocity": 0.5,
+    "scarcity": 0.4,
+    "social_proof": 0.7
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "Phishing email mimicking a GitLab security alert requiring a login",
+      "Urgent 'action required' email from the manager regarding a production outage",
+      "Fake invitation to a technical workshop with a malicious registration link"
+    ],
+    "likely_senders": [
+      "Marek Schmidt",
+      "Iris Novak",
+      "IT Support Desk",
+      "GitHub Notifications"
+    ],
+    "plausible_pretexts": [
+      "Urgent request to review a failing build pipeline",
+      "Notification of an expired SSL certificate for a core service",
+      "Request from Marek to update credentials in the vault",
+      "Alert regarding unauthorized access attempts to the AWS console"
+    ],
+    "routine_communications": [
+      "Daily stand-up summaries",
+      "Deployment logs",
+      "Infrastructure change requests"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0021",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "c1": {
+    "company": "Ironclad Security",
+    "department": "Cyber Threat Intelligence (CTI)",
+    "industry": "Cybersecurity/Defense",
+    "responsibilities": [
+      "Monitoring dark web forums for emerging threats",
+      "Analyzing APT group tactics and techniques",
+      "Producing weekly threat landscape reports",
+      "Collaborating with the SOC on indicator of compromise (IoC) ingestion"
+    ],
+    "role": "Threat Intelligence Specialist",
+    "seniority": "Mid-level"
+  },
+  "c2": {
+    "coworkers": [
+      "Eva Moreau",
+      "Daniel Sundqvist",
+      "Pawel Schmidt",
+      "Eva Vogel",
+      "Tomas Sundqvist",
+      "Jonas Vogel",
+      "Eva Vogel"
+    ],
+    "direct_reports": [],
+    "external_contacts": [],
+    "manager": "Daniel Sundqvist",
+    "recruiters": [
+      "GlobalCyber Talent",
+      "DefenseStaffing Ltd"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "GCTI (GIAC Cyber Threat Intelligence)",
+      "CompTIA Security+"
+    ],
+    "security_awareness": "High; well-versed in technical indicators but susceptible to high-pressure organizational urgency and social engineering targeting professional ego.",
+    "skills": [
+      "OSINT",
+      "Malware Analysis",
+      "STIX/TAXII",
+      "Python for Automation",
+      "Network Traffic Analysis"
+    ],
+    "tech_stack": [
+      "MISP",
+      "Maltego",
+      "Wireshark",
+      "Splunk",
+      "CrowdStrike Falcon"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "DEF CON",
+      "Black Hat",
+      "FIRST Conference"
+    ],
+    "interests": [
+      "Cryptography",
+      "Geopolitics",
+      "Mechanical Keyboards",
+      "Hiking"
+    ],
+    "oss_projects": [
+      "py-threat-parser"
+    ],
+    "publications": [
+      "Analysis of Emerging Ransomware Trends in Nordic Energy Sectors"
+    ],
+    "recent_posts": [
+      "Discussion on the shift toward living-off-the-land binaries (LotL)",
+      "Review of new OSINT tools for metadata extraction"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "marta.lindholm@ironclad-sec.com"
+    ],
+    "phone": "+46-70-555-0123",
+    "platforms": [
+      "LinkedIn",
+      "X (Twitter)",
+      "GitHub"
+    ],
+    "social_handles": "@m_lindholm_sec",
+    "websites": [
+      "martalindholm.blog"
+    ]
+  },
+  "c6": {
+    "deadlines": [
+      "Quarterly Threat Assessment Report (Friday)",
+      "Internal Audit Compliance Review (End of Month)"
+    ],
+    "recent_activity": [
+      "Updated the internal IoC database",
+      "Attended a webinar on AI-driven phishing"
+    ],
+    "recent_role_change": "Promoted to Specialist 14 months ago",
+    "travel": "Upcoming trip to Stockholm for headquarters meeting",
+    "upcoming_events": [
+      "Ironclad Annual Security Summit",
+      "Regional CTI Workshop"
+    ]
+  },
+  "c7": {
+    "authority": 0.7,
+    "commitment": 0.8,
+    "known_triggers": [
+      "Urgent requests from Daniel Sundqvist",
+      "Professional recognition for threat discovery",
+      "Compliance deadlines",
+      "Technical challenges/puzzles"
+    ],
+    "liking": 0.5,
+    "reciprocity": 0.5,
+    "scarcity": 0.4,
+    "social_proof": 0.6
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "Phishing email mimicking a peer (e.g., Eva Moreau) sharing a 'critical' new IoC list via a password-protected link",
+      "Spoofed email from management regarding an urgent payroll or benefits change",
+      "Fake industry conference invitation requiring registration via a credential-harvesting portal"
+    ],
+    "likely_senders": [
+      "Daniel Sundqvist",
+      "Eva Moreau",
+      "IT Support Desk",
+      "HR Department"
+    ],
+    "plausible_pretexts": [
+      "Urgent request to review a 'suspicious' document found in a honeypot",
+      "Notification of a mandatory security policy update from HR",
+      "Invitation to a closed-beta threat intelligence platform",
+      "Request from Daniel Sundqvist to review a confidential project file"
+    ],
+    "routine_communications": [
+      "Daily stand-up notes",
+      "Threat feed updates",
+      "Weekly report drafts",
+      "Ticket updates in Jira"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0101",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

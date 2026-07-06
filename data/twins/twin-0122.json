@@ -1,0 +1,194 @@
+{
+  "c1": {
+    "company": "Quantis Consulting",
+    "department": "Strategic Operations",
+    "industry": "Management Consulting",
+    "responsibilities": [
+      "Overseeing high-value client engagements",
+      "Managing cross-functional project teams",
+      "Developing operational efficiency frameworks",
+      "Budgetary oversight for the Strategic Operations unit",
+      "Mentoring junior consultants"
+    ],
+    "role": "Senior Manager",
+    "seniority": "Senior"
+  },
+  "c2": {
+    "coworkers": [
+      "Hannah Berger",
+      "Tomas Wojcik",
+      "Sophie Moreau",
+      "Jonas Reuter",
+      "Daniel Keller",
+      "Jonas Moreau",
+      "Nina Sokolov"
+    ],
+    "direct_reports": [
+      "Jonas Reuter",
+      "Nina Sokolov"
+    ],
+    "external_contacts": [],
+    "manager": "Hannah Berger",
+    "recruiters": [
+      "Executive Search Global",
+      "TalentBridge Partners"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "PMP (Project Management Professional)",
+      "Six Sigma Black Belt"
+    ],
+    "security_awareness": "Moderate; follows corporate policy but tends to prioritize speed and efficiency over rigorous verification during high-stress deadlines.",
+    "skills": [
+      "Change Management",
+      "Lean Six Sigma",
+      "Financial Modeling",
+      "Stakeholder Management",
+      "Agile Leadership"
+    ],
+    "tech_stack": [
+      "Microsoft 365",
+      "Tableau",
+      "SAP S/4HANA",
+      "Slack",
+      "Trello"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "World Economic Forum (Attendee)",
+      "Consulting Excellence Summit 2023"
+    ],
+    "interests": [
+      "Sustainable Urbanism",
+      "Behavioral Economics",
+      "Mountain Biking",
+      "Classical Piano"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "The Future of Lean in Digital Transformation (Internal Whitepaper)"
+    ],
+    "recent_posts": [
+      "Discussing the impact of AI on operational consulting on LinkedIn",
+      "Sharing a case study on organizational agility"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "lena.wojcik@quantis-consult.com"
+    ],
+    "phone": "+49-172-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "X",
+      "Industry-specific forums"
+    ],
+    "social_handles": "@lw_quantis_ops",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Operational Review",
+      "Client Project 'Alpha' Final Delivery"
+    ],
+    "recent_activity": [
+      "Finalizing the 2024 resource allocation plan",
+      "Conducting performance appraisals for direct reports"
+    ],
+    "recent_role_change": "Promoted to Senior Manager 14 months ago",
+    "travel": "Frequent travel between Berlin, Frankfurt, and Zurich",
+    "upcoming_events": [
+      "Annual Partner Retreat",
+      "Quarterly Performance Reviews"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.75,
+    "known_triggers": [
+      "Urgent requests from Hannah Berger",
+      "Compliance deadlines",
+      "Client dissatisfaction alerts",
+      "Internal promotion opportunities"
+    ],
+    "liking": 0.6,
+    "reciprocity": 0.5,
+    "scarcity": 0.6,
+    "social_proof": 0.7
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "An 'urgent' email from Hannah Berger requesting a quick review of a password-protected PDF during a travel window",
+      "A notification from HR regarding a discrepancy in the bonus calculation for her team",
+      "A request from IT to re-authenticate credentials to avoid account lockout during a critical project deadline"
+    ],
+    "likely_senders": [
+      "Hannah Berger",
+      "HR Department",
+      "IT Support",
+      "Finance/Payroll"
+    ],
+    "plausible_pretexts": [
+      "Urgent update to the Q3 Operational Review document",
+      "Mandatory compliance training for senior management",
+      "Confidential feedback regarding a direct report",
+      "Updated travel policy for European engagements"
+    ],
+    "routine_communications": [
+      "Weekly status reports",
+      "Expense reimbursement requests",
+      "Project milestone updates",
+      "Calendar coordination for team meetings"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0122",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

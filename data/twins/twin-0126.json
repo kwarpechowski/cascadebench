@@ -1,0 +1,186 @@
+{
+  "c1": {
+    "company": "Quantis Consulting",
+    "department": "Strategic Operations",
+    "industry": "Management Consulting",
+    "responsibilities": [
+      "Market research and data synthesis",
+      "Preparing slide decks for client presentations",
+      "Financial modeling and variance analysis",
+      "Supporting senior consultants in project delivery"
+    ],
+    "role": "Junior Analyst",
+    "seniority": "Entry-level"
+  },
+  "c2": {
+    "coworkers": [
+      "Hannah Berger",
+      "Lena Wojcik",
+      "Tomas Wojcik",
+      "Sophie Moreau",
+      "Jonas Reuter",
+      "Jonas Moreau",
+      "Nina Sokolov"
+    ],
+    "direct_reports": [],
+    "external_contacts": [],
+    "manager": "Lena Wojcik",
+    "recruiters": [
+      "Global Talent Search",
+      "Elite Consulting Headhunters"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "Microsoft Office Specialist: Excel Expert"
+    ],
+    "security_awareness": "Moderate; follows basic corporate guidelines but tends to trust internal communications from superiors without verification.",
+    "skills": [
+      "Advanced Excel",
+      "PowerPoint Storyboarding",
+      "Quantitative Analysis",
+      "SWOT Analysis"
+    ],
+    "tech_stack": [
+      "Microsoft 365",
+      "Tableau",
+      "Slack",
+      "Zoom"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "Consulting Excellence Summit 2023",
+      "Future of Work Forum"
+    ],
+    "interests": [
+      "Behavioral Economics",
+      "Urban Planning",
+      "Competitive Sailing",
+      "Data Visualization"
+    ],
+    "oss_projects": [],
+    "publications": [],
+    "recent_posts": [
+      "Thoughts on the shift toward sustainable supply chains in mid-market firms",
+      "Tips for optimizing pivot tables for large datasets"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "daniel.keller@quantis-consult.com",
+      "d.keller.private@webmail.com"
+    ],
+    "phone": "+49-176-555-0129",
+    "platforms": [
+      "LinkedIn",
+      "X",
+      "Glassdoor"
+    ],
+    "social_handles": "@dkeller_quantis",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Market Analysis Report",
+      "Client Onboarding Deck for Project Alpha"
+    ],
+    "recent_activity": [
+      "Completed intensive training on proprietary Quantis valuation models",
+      "Assisted Lena Wojcik with the annual budget forecast"
+    ],
+    "recent_role_change": "Promoted from Intern to Junior Analyst 4 months ago",
+    "travel": "Upcoming trip to Frankfurt for client workshops",
+    "upcoming_events": [
+      "Quarterly Performance Review",
+      "Internal Strategy Offsite"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.6,
+    "known_triggers": [
+      "Urgent requests from Lena Wojcik",
+      "Feedback on performance",
+      "Opportunities for professional visibility",
+      "Compliance deadlines"
+    ],
+    "liking": 0.7,
+    "reciprocity": 0.5,
+    "scarcity": 0.4,
+    "social_proof": 0.6
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "Email from 'Lena Wojcik' requesting a quick task while she is in a meeting",
+      "Notification of a missed deadline for a mandatory corporate compliance form",
+      "Invitation to a 'secret' internal promotion track briefing"
+    ],
+    "likely_senders": [
+      "Lena Wojcik",
+      "IT Support Quantis",
+      "HR Department",
+      "Hannah Berger"
+    ],
+    "plausible_pretexts": [
+      "Urgent revision needed for a client deck",
+      "Updated employee handbook for junior staff",
+      "Mandatory security training module",
+      "Internal survey on workplace culture"
+    ],
+    "routine_communications": [
+      "Daily stand-up notes",
+      "Draft slide reviews",
+      "Timesheet submissions",
+      "Meeting invites"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0126",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "c1": {
+    "company": "Polaris Pharma",
+    "department": "Clinical Operations",
+    "industry": "Pharmaceuticals/Biotech",
+    "responsibilities": [
+      "Managing patient data integrity for Phase II trials",
+      "Coordinating with CROs for data validation",
+      "Ensuring GDPR and HIPAA compliance in data handling",
+      "Generating quarterly efficacy reports for regulatory submission"
+    ],
+    "role": "Clinical Trial Data Specialist",
+    "seniority": "Mid-level"
+  },
+  "c2": {
+    "coworkers": [
+      "Bartek Reuter",
+      "Tomas Reuter",
+      "Sophie Haas",
+      "Adrian Novak",
+      "Lena Janssen",
+      "Oskar Wojcik",
+      "Hannah Lindholm"
+    ],
+    "direct_reports": [],
+    "external_contacts": [],
+    "manager": "Tomas Reuter",
+    "recruiters": []
+  },
+  "c3": {
+    "certifications": [
+      "Certified Clinical Data Manager (CCDM)",
+      "Lean Six Sigma Green Belt"
+    ],
+    "security_awareness": "Moderate; follows standard corporate training but tends to trust internal-looking communications from management.",
+    "skills": [
+      "SAS Clinical Data Analysis",
+      "CDISC Standards",
+      "Regulatory Documentation",
+      "Statistical Validation"
+    ],
+    "tech_stack": [
+      "Oracle Clinical",
+      "Medidata Rave",
+      "Microsoft Excel (Advanced)",
+      "SAS Studio"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "DIA Global Annual Meeting",
+      "Clinical Data Management Society (CDMS) Conference"
+    ],
+    "interests": [
+      "Bioinformatics",
+      "Precision Medicine",
+      "Hiking",
+      "Classical Piano"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "Optimizing Data Flow in Multi-Center Biotech Trials (Internal Whitepaper)"
+    ],
+    "recent_posts": [
+      "Discussing the impact of AI on patient recruitment timelines on LinkedIn"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "marta.haas@polaris-pharma.com"
+    ],
+    "phone": "+49-172-555-0193",
+    "platforms": [
+      "LinkedIn",
+      "ResearchGate"
+    ],
+    "social_handles": "@marta_haas_pharma",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Trial Data Lock",
+      "FDA Submission Draft - Oct 15"
+    ],
+    "recent_activity": [
+      "Updating the data validation protocol for the new oncology study",
+      "Onboarding new data entry templates"
+    ],
+    "recent_role_change": "Promoted to Specialist 14 months ago",
+    "travel": "Planned visit to the Berlin research hub next month",
+    "upcoming_events": [
+      "Internal Audit Review",
+      "Quarterly Team Sync"
+    ]
+  },
+  "c7": {
+    "authority": 0.75,
+    "commitment": 0.8,
+    "known_triggers": [
+      "Regulatory compliance warnings",
+      "Urgent requests from Tomas Reuter",
+      "Data integrity alerts",
+      "Deadline pressure for FDA filings"
+    ],
+    "liking": 0.6,
+    "reciprocity": 0.4,
+    "scarcity": 0.6,
+    "social_proof": 0.5
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "Phishing email mimicking a regulatory body (FDA/EMA) regarding a data discrepancy",
+      "Spoofed internal email from management requesting an immediate password reset for the clinical database"
+    ],
+    "likely_senders": [
+      "Tomas Reuter",
+      "Hannah Lindholm",
+      "IT Support Desk",
+      "Regulatory Affairs Dept"
+    ],
+    "plausible_pretexts": [
+      "Urgent request to review a 'corrected' data sheet for the Q3 lock",
+      "Notification of a mandatory security update for Medidata Rave",
+      "Request from Tomas Reuter to sign off on a confidential trial amendment"
+    ],
+    "routine_communications": [
+      "Weekly data status updates",
+      "Validation query threads",
+      "Compliance check-ins"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0093",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

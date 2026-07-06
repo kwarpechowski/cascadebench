@@ -1,0 +1,179 @@
+{
+  "c1": {
+    "company": "Marlowe Public Office",
+    "department": "Archives and Information Governance",
+    "industry": "Public Sector / Government",
+    "responsibilities": [
+      "Managing Freedom of Information Act (FOIA) requests",
+      "Digitizing historical municipal records",
+      "Ensuring compliance with public data retention policies",
+      "Coordinating inter-departmental document audits"
+    ],
+    "role": "Public Records Specialist",
+    "seniority": "Mid-level"
+  },
+  "c2": {
+    "coworkers": [
+      "Greta Sundqvist",
+      "Lena Dvorak",
+      "Iris Novak",
+      "Nina Keller",
+      "Eva Falk",
+      "Iris Berger"
+    ],
+    "direct_reports": [],
+    "external_contacts": [],
+    "manager": "Lena Dvorak",
+    "recruiters": []
+  },
+  "c3": {
+    "certifications": [
+      "Certified Records Manager (CRM)",
+      "Information Governance Professional (IGP)"
+    ],
+    "security_awareness": "Moderate; follows standard government protocols but tends to trust internal communications from superiors without verification.",
+    "skills": [
+      "Records Management",
+      "Data Privacy Law",
+      "Archival Cataloging",
+      "Regulatory Compliance"
+    ],
+    "tech_stack": [
+      "Microsoft SharePoint",
+      "OpenText Content Suite",
+      "Adobe Acrobat Pro",
+      "Governmental Database Systems"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "International Council on Archives Annual Congress",
+      "GovTech Summit"
+    ],
+    "interests": [
+      "Genealogy",
+      "Urban Planning History",
+      "Digital Preservation",
+      "Calligraphy"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "The Evolution of Municipal Record Keeping (Internal Whitepaper)"
+    ],
+    "recent_posts": [
+      "Discussing the challenges of migrating legacy paper files to cloud storage."
+    ]
+  },
+  "c5": {
+    "emails": [
+      "sophie.novak@marlowe.gov"
+    ],
+    "phone": "+1-555-012-8843",
+    "platforms": [
+      "LinkedIn",
+      "ResearchGate"
+    ],
+    "social_handles": "@s_novak_archives",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Quarterly Compliance Audit - End of Month",
+      "FOIA Request Batch #402 - Friday"
+    ],
+    "recent_activity": [
+      "Updating the digital indexing system for the 1950-1970 archives",
+      "Reviewing new data privacy guidelines with Lena Dvorak"
+    ],
+    "recent_role_change": "Promoted to Specialist 14 months ago",
+    "travel": "None",
+    "upcoming_events": [
+      "Departmental Budget Review Meeting",
+      "Annual Public Records Seminar"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.75,
+    "known_triggers": [
+      "Urgent requests from Lena Dvorak",
+      "Compliance warnings",
+      "Legal deadlines",
+      "Administrative errors in public filings"
+    ],
+    "liking": 0.7,
+    "reciprocity": 0.5,
+    "scarcity": 0.4,
+    "social_proof": 0.6
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "An email appearing to be from Lena Dvorak requesting an immediate file transfer for an external audit",
+      "A notification regarding a 'breach' in the public records portal requiring password verification"
+    ],
+    "likely_senders": [
+      "Lena Dvorak",
+      "Nina Keller",
+      "City Legal Department",
+      "IT Support Desk"
+    ],
+    "plausible_pretexts": [
+      "Urgent request to review a 'misfiled' sensitive document",
+      "Notification of a mandatory security update for the records database",
+      "Request for signature on a revised compliance policy"
+    ],
+    "routine_communications": [
+      "Weekly status reports on FOIA requests",
+      "Document approval workflows",
+      "Inter-office memos regarding archiving standards"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0143",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

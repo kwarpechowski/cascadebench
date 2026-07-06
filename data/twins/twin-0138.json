@@ -1,0 +1,185 @@
+{
+  "c1": {
+    "company": "Marlowe Public Office",
+    "department": "Governance and Oversight",
+    "industry": "Public Sector / Government",
+    "responsibilities": [
+      "Overseeing municipal regulatory audits",
+      "Managing inter-departmental policy alignment",
+      "Approving public sector expenditure reports",
+      "Ensuring adherence to regional administrative laws"
+    ],
+    "role": "Senior Manager of Regulatory Compliance",
+    "seniority": "Senior"
+  },
+  "c2": {
+    "coworkers": [
+      "Greta Sundqvist",
+      "Iris Novak",
+      "Nina Keller",
+      "Eva Falk",
+      "Iris Berger",
+      "Sophie Novak"
+    ],
+    "direct_reports": [
+      "Junior Compliance Officers",
+      "Administrative Assistants"
+    ],
+    "external_contacts": [],
+    "manager": "Greta Sundqvist",
+    "recruiters": []
+  },
+  "c3": {
+    "certifications": [
+      "Certified Public Manager (CPM)",
+      "Government Compliance Professional"
+    ],
+    "security_awareness": "Moderate; follows standard government protocols but tends to trust internal communications from senior leadership without verification.",
+    "skills": [
+      "Public Administration",
+      "Regulatory Auditing",
+      "Policy Drafting",
+      "Budgetary Oversight"
+    ],
+    "tech_stack": [
+      "Microsoft Office 365",
+      "GovDocs Archive System",
+      "SAP Public Sector",
+      "SharePoint"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "Annual Public Sector Governance Summit",
+      "Municipal Law Symposium"
+    ],
+    "interests": [
+      "Urban Planning",
+      "Administrative Law",
+      "Classical Music",
+      "Sustainable Governance"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "Efficiency in Public Office Administration (Internal Whitepaper)"
+    ],
+    "recent_posts": [
+      "Thoughts on the new transparency directives for 2024",
+      "The importance of archival integrity in government"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "lena.dvorak@marlowe.gov"
+    ],
+    "phone": "+421-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "Government Internal Portal"
+    ],
+    "social_handles": "@ldvorak_gov",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Quarterly Compliance Audit - Friday",
+      "Annual Budget Review - End of Month"
+    ],
+    "recent_activity": [
+      "Reviewing the Q3 expenditure reports",
+      "Coordinating with Greta Sundqvist on policy updates"
+    ],
+    "recent_role_change": "Promoted to Senior Manager 14 months ago",
+    "travel": "Local travel to regional municipal offices",
+    "upcoming_events": [
+      "Departmental Strategy Meeting",
+      "Public Sector Ethics Workshop"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.8,
+    "known_triggers": [
+      "Urgent requests from Greta Sundqvist",
+      "Compliance failures",
+      "Audit deadlines",
+      "Official government directives"
+    ],
+    "liking": 0.7,
+    "reciprocity": 0.5,
+    "scarcity": 0.4,
+    "social_proof": 0.6
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "An email from Greta Sundqvist requesting a 'confidential' review of a document via a shared link",
+      "A notification about a missed compliance deadline requiring immediate login to the portal"
+    ],
+    "likely_senders": [
+      "Greta Sundqvist",
+      "Iris Novak",
+      "Nina Keller",
+      "Eva Falk",
+      "Iris Berger",
+      "Sophie Novak"
+    ],
+    "plausible_pretexts": [
+      "Urgent update to the regulatory handbook",
+      "Request for immediate review of a budget discrepancy",
+      "Mandatory government security training update"
+    ],
+    "routine_communications": [
+      "Weekly status updates to Greta",
+      "Compliance sign-offs for coworkers",
+      "Budgetary approval threads"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0138",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

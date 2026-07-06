@@ -1,0 +1,199 @@
+{
+  "c1": {
+    "company": "Meridian Health Group",
+    "department": "Executive Board",
+    "industry": "Healthcare Administration",
+    "responsibilities": [
+      "Strategic oversight of regional healthcare facilities",
+      "Budgetary approval for medical equipment procurement",
+      "Regulatory compliance and healthcare policy alignment",
+      "Stakeholder management and board reporting",
+      "Operational efficiency optimization across clinics"
+    ],
+    "role": "Managing Director",
+    "seniority": "Executive"
+  },
+  "c2": {
+    "coworkers": [
+      "Iris Janssen",
+      "Marta Reuter",
+      "Pawel Lindholm",
+      "Pawel Falk",
+      "Lena Vogel",
+      "Pawel Dvorak",
+      "Mira Moreau"
+    ],
+    "direct_reports": [
+      "Iris Janssen",
+      "Pawel Lindholm",
+      "Lena Vogel"
+    ],
+    "external_contacts": [
+      "Oskar Moreau",
+      "Mira Berger"
+    ],
+    "manager": "",
+    "recruiters": [
+      "Executive Search Partners Ltd",
+      "HealthTalent Global"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "FACHE (Fellow of the American College of Healthcare Executives)",
+      "MBA in Health Administration"
+    ],
+    "security_awareness": "Moderate; understands high-level risks but often delegates technical security checks to IT staff due to time constraints.",
+    "skills": [
+      "Strategic Planning",
+      "Healthcare Governance",
+      "Financial Forecasting",
+      "Crisis Management",
+      "Public Relations"
+    ],
+    "tech_stack": [
+      "Microsoft 365",
+      "Epic EHR",
+      "SAP ERP",
+      "Zoom",
+      "BoardEffect"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "Global Health Summit",
+      "Healthcare Financial Management Association (HFMA) Annual Conference"
+    ],
+    "interests": [
+      "Medical Ethics",
+      "Philanthropy",
+      "Sustainable Urban Planning",
+      "Classical Music"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "The Future of Integrated Care (Whitepaper 2022)",
+      "Optimizing Patient Flow in Urban Clinics (Journal of Health Admin)"
+    ],
+    "recent_posts": [
+      "Discussing the impact of AI on diagnostic accuracy in primary care",
+      "Congratulating the team on the new wing opening at the Eastside Clinic"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "marta.keller@meridian-health.org",
+      "m.keller.private@protonmail.com"
+    ],
+    "phone": "+1-555-012-8843",
+    "platforms": [
+      "LinkedIn",
+      "Twitter/X"
+    ],
+    "social_handles": "@MKeller_Meridian",
+    "websites": [
+      "meridian-health.org/leadership"
+    ]
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Fiscal Report submission",
+      "Annual Accreditation Review"
+    ],
+    "recent_activity": [
+      "Reviewing merger proposals for smaller clinics",
+      "Approving new telehealth software licenses"
+    ],
+    "recent_role_change": "Promoted to Managing Director 18 months ago",
+    "travel": "Upcoming trip to Geneva for the World Health Forum",
+    "upcoming_events": [
+      "Board of Directors Quarterly Meeting",
+      "Regional Health Ministers Gala"
+    ]
+  },
+  "c7": {
+    "authority": 0.95,
+    "commitment": 0.8,
+    "known_triggers": [
+      "Regulatory non-compliance warnings",
+      "Urgent board requests",
+      "High-level partnership opportunities",
+      "Patient safety alerts"
+    ],
+    "liking": 0.5,
+    "reciprocity": 0.4,
+    "scarcity": 0.6,
+    "social_proof": 0.7
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "Phishing email mimicking a government health inspector demanding immediate documentation",
+      "Spoofed email from a board member requesting an urgent wire transfer for a medical equipment deposit",
+      "Malicious link disguised as a confidential patient grievance report"
+    ],
+    "likely_senders": [
+      "Iris Janssen",
+      "Oskar Moreau",
+      "Government Health Department",
+      "Medical Insurance Providers"
+    ],
+    "plausible_pretexts": [
+      "Urgent request for signature on a regulatory compliance document",
+      "Confidential board memo regarding executive compensation",
+      "Invitation to speak at an exclusive healthcare leadership summit"
+    ],
+    "routine_communications": [
+      "Weekly operational updates",
+      "Budget approval threads",
+      "Strategic partnership emails"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0009",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

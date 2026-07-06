@@ -1,0 +1,199 @@
+{
+  "c1": {
+    "company": "Ironclad Security",
+    "department": "Threat Intelligence & Monitoring",
+    "industry": "Cybersecurity/Defense",
+    "responsibilities": [
+      "Monitoring SIEM alerts for anomalous network behavior",
+      "Performing initial triage of security incidents",
+      "Developing custom detection rules for emerging threats",
+      "Collaborating with the incident response team on containment",
+      "Maintaining documentation for security playbooks"
+    ],
+    "role": "SOC Analyst Specialist",
+    "seniority": "Mid-level"
+  },
+  "c2": {
+    "coworkers": [
+      "Eva Moreau",
+      "Daniel Sundqvist",
+      "Eva Vogel",
+      "Marta Lindholm",
+      "Tomas Sundqvist",
+      "Jonas Vogel",
+      "Eva Vogel"
+    ],
+    "direct_reports": [],
+    "external_contacts": [],
+    "manager": "Daniel Sundqvist",
+    "recruiters": [
+      "CyberTalent Global",
+      "DefenseStaffing Ltd"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "CompTIA Security+",
+      "GIAC Certified Intrusion Analyst (GCIA)",
+      "Certified Ethical Hacker (CEH)"
+    ],
+    "security_awareness": "High technical knowledge, but prone to 'expert blindness'—tends to trust technical-looking alerts or peer-to-peer tool shares.",
+    "skills": [
+      "Log Analysis",
+      "Packet Inspection",
+      "Threat Hunting",
+      "Python Scripting",
+      "Incident Triage"
+    ],
+    "tech_stack": [
+      "Splunk",
+      "Wireshark",
+      "CrowdStrike",
+      "Kali Linux",
+      "Microsoft Sentinel"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "DEF CON",
+      "Black Hat",
+      "BSides"
+    ],
+    "interests": [
+      "Malware Reverse Engineering",
+      "Home Lab Automation",
+      "Competitive CTFs",
+      "Mechanical Keyboards"
+    ],
+    "oss_projects": [
+      "PyLogParser-Community"
+    ],
+    "publications": [
+      "Analysis of APT-X Lateral Movement Patterns (Internal Whitepaper)"
+    ],
+    "recent_posts": [
+      "Discussion on the efficiency of YARA rules for memory scanning",
+      "Review of the latest CVE-2024-XXXX exploit chain"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "pawel.schmidt@ironclad-sec.com",
+      "p.schmidt.sec@protonmail.com"
+    ],
+    "phone": "+49-176-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "Twitter/X",
+      "GitHub",
+      "Reddit"
+    ],
+    "social_handles": "@pawel_sec_ops",
+    "websites": [
+      "https://pawelschmidt.github.io"
+    ]
+  },
+  "c6": {
+    "deadlines": [
+      "Quarterly Security Audit Report",
+      "SOC Playbook Update v2.1"
+    ],
+    "recent_activity": [
+      "Updating firewall rules for the new subnet",
+      "Testing a new EDR agent deployment"
+    ],
+    "recent_role_change": "Promoted to Specialist 6 months ago",
+    "travel": "Planned trip to Berlin for a technical workshop",
+    "upcoming_events": [
+      "Internal Security Review Meeting",
+      "Annual Defense Sector Symposium"
+    ]
+  },
+  "c7": {
+    "authority": 0.6,
+    "commitment": 0.8,
+    "known_triggers": [
+      "Urgent security vulnerabilities",
+      "Technical peer validation",
+      "Compliance deadlines",
+      "Tooling updates"
+    ],
+    "liking": 0.6,
+    "reciprocity": 0.5,
+    "scarcity": 0.4,
+    "social_proof": 0.7
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "Phishing email masquerading as Daniel Sundqvist requesting an urgent 'out-of-band' system check",
+      "Fake alert from a trusted security vendor requiring login to a 'security portal' to acknowledge a breach",
+      "Collaborative request from a coworker (e.g., Eva Vogel) to test a new script on a shared drive"
+    ],
+    "likely_senders": [
+      "Daniel Sundqvist",
+      "Eva Moreau",
+      "IT Infrastructure Team",
+      "Software Vendors"
+    ],
+    "plausible_pretexts": [
+      "Urgent patch requirement for a critical vulnerability",
+      "Request to review a suspicious log file attached as a ZIP",
+      "Updated internal security policy document",
+      "Invitation to a private beta for a new security tool"
+    ],
+    "routine_communications": [
+      "Daily stand-up summaries",
+      "Incident ticket updates",
+      "Threat intelligence feeds",
+      "Shift handover notes"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0099",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "c1": {
+    "company": "Sterling Construction",
+    "department": "Project Management Office (PMO)",
+    "industry": "Construction and Real Estate",
+    "responsibilities": [
+      "Tracking project milestones and budget variances",
+      "Preparing weekly progress reports for site managers",
+      "Coordinating subcontractor documentation",
+      "Updating resource allocation spreadsheets",
+      "Assisting in the preparation of tender documents"
+    ],
+    "role": "Junior Project Analyst",
+    "seniority": "Junior"
+  },
+  "c2": {
+    "coworkers": [
+      "Viktor Lindholm",
+      "Sophie Haas",
+      "Jonas Berger",
+      "Nina Adamczyk",
+      "Bartek Marchetti",
+      "Marta Haas",
+      "Lukas Vogel"
+    ],
+    "direct_reports": [],
+    "external_contacts": [
+      "Hannah Haas",
+      "Adrian Novak"
+    ],
+    "manager": "Sophie Haas",
+    "recruiters": [
+      "GlobalBuild Talent",
+      "UrbanSpace Search"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "CAPM (Certified Associate in Project Management)"
+    ],
+    "security_awareness": "Moderate; follows basic corporate training but tends to trust internal-looking requests from management due to junior status.",
+    "skills": [
+      "Budget tracking",
+      "Data entry",
+      "Project scheduling",
+      "Vendor coordination",
+      "Technical writing"
+    ],
+    "tech_stack": [
+      "Microsoft Excel",
+      "Microsoft Project",
+      "AutoCAD (Viewer)",
+      "Procore",
+      "SharePoint"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "BuildTech Expo 2023",
+      "GreenBuild Summit"
+    ],
+    "interests": [
+      "Sustainable architecture",
+      "Urban planning",
+      "Hiking",
+      "Digital organization tools"
+    ],
+    "oss_projects": [],
+    "publications": [],
+    "recent_posts": [
+      "Excited to start my first major project at Sterling Construction!",
+      "Just finished my CAPM certification!"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "eva.brandt@sterling-build.com",
+      "eva.brandt.private@webmail.com"
+    ],
+    "phone": "+49-176-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "Instagram"
+    ],
+    "social_handles": "@evabrandt_builds",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Budget Review",
+      "Subcontractor Audit - Friday",
+      "Site Visit Report - Monday"
+    ],
+    "recent_activity": [
+      "Onboarding for Procore advanced modules",
+      "Updating the vendor contact list"
+    ],
+    "recent_role_change": "Promoted from Intern to Junior Analyst 4 months ago",
+    "travel": "Occasional site visits to regional construction zones",
+    "upcoming_events": [
+      "Quarterly PMO Review",
+      "Sterling Construction Annual Gala"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.6,
+    "known_triggers": [
+      "Urgent requests from Sophie Haas",
+      "Compliance deadlines",
+      "Requests for updated project documentation",
+      "HR policy updates"
+    ],
+    "liking": 0.7,
+    "reciprocity": 0.5,
+    "scarcity": 0.4,
+    "social_proof": 0.6
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "Phishing email mimicking a vendor (e.g., Adrian Novak) sending an 'updated invoice' as a zip file",
+      "Urgent 'Manager' request to change payroll details or purchase gift cards for a site team",
+      "Fake HR notification regarding a mandatory policy update requiring a login"
+    ],
+    "likely_senders": [
+      "Sophie Haas",
+      "Adrian Novak",
+      "HR Department",
+      "IT Support"
+    ],
+    "plausible_pretexts": [
+      "Urgent request to review a revised project budget spreadsheet",
+      "Notification of a missing signature on a subcontractor contract",
+      "IT alert regarding a SharePoint permission update",
+      "Request from Sophie Haas to review a confidential project brief"
+    ],
+    "routine_communications": [
+      "Weekly status updates",
+      "Invoice approvals",
+      "Meeting invites for project syncs",
+      "Document requests for site audits"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0084",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "c1": {
+    "company": "Ironclad Security",
+    "department": "Security Operations Center (SOC)",
+    "industry": "Cybersecurity/Defense",
+    "responsibilities": [
+      "Monitoring SIEM alerts",
+      "Initial triage of security incidents",
+      "Updating internal threat intelligence feeds",
+      "Drafting weekly vulnerability reports",
+      "Assisting in basic forensic analysis"
+    ],
+    "role": "Junior Security Analyst",
+    "seniority": "Entry-level"
+  },
+  "c2": {
+    "coworkers": [
+      "Eva Moreau",
+      "Daniel Sundqvist",
+      "Pawel Schmidt",
+      "Eva Vogel",
+      "Marta Lindholm",
+      "Jonas Vogel",
+      "Eva Vogel"
+    ],
+    "direct_reports": [],
+    "external_contacts": [],
+    "manager": "Daniel Sundqvist",
+    "recruiters": [
+      "CyberTalent Global",
+      "DefenseStaffing Ltd"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "CompTIA Security+",
+      "Cisco Certified Support Technician (CCST) Cybersecurity"
+    ],
+    "security_awareness": "Moderate; understands technical threats but susceptible to social engineering due to eagerness to please superiors.",
+    "skills": [
+      "Log analysis",
+      "Network traffic monitoring",
+      "Basic Python scripting",
+      "Incident response fundamentals"
+    ],
+    "tech_stack": [
+      "Splunk",
+      "Wireshark",
+      "CrowdStrike",
+      "Microsoft Sentinel",
+      "Linux CLI"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "DEF CON (virtual)",
+      "BSides Stockholm"
+    ],
+    "interests": [
+      "CTF competitions",
+      "Home labbing",
+      "Mechanical keyboards",
+      "Nordic noir literature"
+    ],
+    "oss_projects": [
+      "contributor to small open-source log-parser tool"
+    ],
+    "publications": [],
+    "recent_posts": [
+      "Excited to start my journey at Ironclad Security!",
+      "Just finished my first week of Splunk training."
+    ]
+  },
+  "c5": {
+    "emails": [
+      "tomas.sundqvist@ironclad-sec.com",
+      "tomas.sec.lab@gmail.com"
+    ],
+    "phone": "+46-70-123-4567",
+    "platforms": [
+      "LinkedIn",
+      "Twitter/X",
+      "GitHub"
+    ],
+    "social_handles": "@tomas_sec_analyst",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Quarterly SOC performance review",
+      "Completion of internal security onboarding"
+    ],
+    "recent_activity": [
+      "Configuring new alert rules for the SOC",
+      "Attending weekly sync with Daniel Sundqvist"
+    ],
+    "recent_role_change": "Joined Ironclad Security 3 months ago",
+    "travel": "None planned",
+    "upcoming_events": [
+      "Internal team building workshop",
+      "Annual Defense Sector Summit"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.6,
+    "known_triggers": [
+      "Direct requests from Daniel Sundqvist",
+      "Urgent security patches",
+      "Professional certification opportunities",
+      "Internal policy updates"
+    ],
+    "liking": 0.7,
+    "reciprocity": 0.5,
+    "scarcity": 0.4,
+    "social_proof": 0.6
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "Phishing email mimicking Daniel Sundqvist requesting a quick task during a busy shift",
+      "Fake HR email regarding a payroll or benefits update for new hires",
+      "Spoofed IT alert requiring password reset for the SIEM tool"
+    ],
+    "likely_senders": [
+      "Daniel Sundqvist",
+      "HR Department",
+      "IT Support",
+      "Internal Security Audit Team"
+    ],
+    "plausible_pretexts": [
+      "Urgent request from manager to review a 'suspicious' document",
+      "Notification of a mandatory security training module",
+      "Update to the company's remote work policy",
+      "Invitation to a specialized cybersecurity webinar"
+    ],
+    "routine_communications": [
+      "Daily stand-up notes",
+      "Incident ticket updates",
+      "Weekly report submissions"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0102",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

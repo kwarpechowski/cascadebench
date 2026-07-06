@@ -1,0 +1,190 @@
+{
+  "c1": {
+    "company": "Atlas Mining Corporation",
+    "department": "Exploration & Resource Estimation",
+    "industry": "Mining and Natural Resources",
+    "responsibilities": [
+      "Analyzing geological survey data",
+      "Updating ore reserve spreadsheets",
+      "Preparing weekly production reports for management",
+      "Monitoring commodity price fluctuations",
+      "Assisting in site feasibility studies"
+    ],
+    "role": "Junior Resource Analyst",
+    "seniority": "Junior"
+  },
+  "c2": {
+    "coworkers": [
+      "Lena Falk",
+      "Hannah Janssen",
+      "Viktor Schmidt",
+      "Sophie Wojcik",
+      "Iris Adamczyk",
+      "Tomas Dvorak",
+      "Oskar Lindqvist"
+    ],
+    "direct_reports": [],
+    "external_contacts": [
+      "Sophie Moreau",
+      "Nina Keller"
+    ],
+    "manager": "Hannah Janssen",
+    "recruiters": [
+      "Global Mining Talent Search",
+      "Resource Headhunters Ltd"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "Microsoft Excel Expert",
+      "Introduction to GIS"
+    ],
+    "security_awareness": "Moderate; follows basic corporate guidelines but tends to trust internal-looking communications from superiors.",
+    "skills": [
+      "Geostatistical modeling",
+      "Data cleaning",
+      "Technical reporting",
+      "Resource estimation"
+    ],
+    "tech_stack": [
+      "ArcGIS",
+      "Surpac",
+      "Microsoft Excel",
+      "SAP ERP",
+      "Microsoft Teams"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "International Mining Congress",
+      "GeoResource Expo 2023"
+    ],
+    "interests": [
+      "Mineralogy",
+      "Sustainable mining practices",
+      "Hiking",
+      "Industrial automation"
+    ],
+    "oss_projects": [],
+    "publications": [],
+    "recent_posts": [
+      "Excited to start my first project at Atlas Mining!",
+      "Interesting read on the future of lithium extraction."
+    ]
+  },
+  "c5": {
+    "emails": [
+      "pawel.falk@atlas-mining.com",
+      "p.falk.private@gmail.com"
+    ],
+    "phone": "+49-176-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "ResearchGate"
+    ],
+    "social_handles": "@pfalk_geo",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Resource Estimate Report",
+      "Site Visit Expense Reimbursement"
+    ],
+    "recent_activity": [
+      "Completed onboarding for SAP ERP",
+      "Submitted initial data audit for the copper project"
+    ],
+    "recent_role_change": "Promoted from Intern to Junior Analyst 4 months ago",
+    "travel": "Planned trip to the Northern Territory site next month",
+    "upcoming_events": [
+      "Quarterly Resource Review Meeting",
+      "Annual Safety Training"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.6,
+    "known_triggers": [
+      "Direct requests from Hannah Janssen",
+      "Urgent requests regarding data errors",
+      "HR policy updates",
+      "IT system migration notices"
+    ],
+    "liking": 0.7,
+    "reciprocity": 0.5,
+    "scarcity": 0.4,
+    "social_proof": 0.6
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "Phishing email appearing to be from Hannah Janssen requesting a quick review of a 'confidential' spreadsheet",
+      "Fake IT notification about a mailbox quota limit requiring login",
+      "Spoofed email from HR regarding a change in the junior analyst bonus structure"
+    ],
+    "likely_senders": [
+      "Hannah Janssen",
+      "IT Support Desk",
+      "HR Department",
+      "Sophie Moreau"
+    ],
+    "plausible_pretexts": [
+      "Urgent correction needed in the Q3 Resource Estimate",
+      "Updated safety protocols for the upcoming site visit",
+      "Mandatory password reset for SAP ERP access",
+      "Invoice discrepancy from external partner Sophie Moreau"
+    ],
+    "routine_communications": [
+      "Weekly data syncs",
+      "Resource report submissions",
+      "Equipment procurement requests"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0132",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

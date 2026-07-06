@@ -1,0 +1,202 @@
+{
+  "c1": {
+    "company": "Lex Harbor Legal",
+    "department": "Executive Board",
+    "industry": "Legal Services",
+    "responsibilities": [
+      "Strategic firm growth and partnership management",
+      "Overseeing high-stakes corporate litigation portfolios",
+      "Final approval on client engagement letters",
+      "Managing firm-wide financial performance and risk",
+      "Representing the firm in international legal forums"
+    ],
+    "role": "Managing Director",
+    "seniority": "Executive"
+  },
+  "c2": {
+    "coworkers": [
+      "Lukas Lindholm",
+      "Oskar Keller",
+      "Anna Sundqvist",
+      "Pawel Sokolov",
+      "Viktor Berger",
+      "Greta Moreau",
+      "Felix Brandt"
+    ],
+    "direct_reports": [
+      "Lukas Lindholm",
+      "Anna Sundqvist",
+      "Greta Moreau"
+    ],
+    "external_contacts": [
+      "Mira Berger",
+      "Sophie Novak"
+    ],
+    "manager": "",
+    "recruiters": [
+      "Executive Search Global",
+      "LegalTalent Partners"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "Bar Admission (State/National)",
+      "Certified Mediator"
+    ],
+    "security_awareness": "Moderate; understands basic phishing but tends to bypass protocols for urgent high-value client matters.",
+    "skills": [
+      "Corporate Law",
+      "Mergers & Acquisitions",
+      "Strategic Negotiation",
+      "Crisis Management",
+      "Financial Auditing"
+    ],
+    "tech_stack": [
+      "Microsoft 365",
+      "iManage Document Management",
+      "LexisNexis",
+      "Zoom",
+      "SAP ERP"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "International Bar Association Annual Conference",
+      "Global Legal Tech Summit"
+    ],
+    "interests": [
+      "Classical Music",
+      "Maritime Law History",
+      "Philanthropy",
+      "Sustainable Urbanism"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "The Evolution of Corporate Liability in the Digital Age",
+      "Cross-Border Merger Trends 2023"
+    ],
+    "recent_posts": [
+      "Reflections on the impact of AI on legal discovery",
+      "Congratulations to the team on the successful closing of the Nord-Tech merger"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "eva.berger@lexharbor.com",
+      "e.berger.private@protonmail.com"
+    ],
+    "phone": "+49-172-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "X (Twitter)"
+    ],
+    "social_handles": "@EvaBergerLaw",
+    "websites": [
+      "lexharbor.com/people/eva-berger"
+    ]
+  },
+  "c6": {
+    "deadlines": [
+      "Quarterly Financial Review - Friday",
+      "Client Retainer Renewals - End of Month"
+    ],
+    "recent_activity": [
+      "Finalizing the acquisition of a boutique firm in Stockholm",
+      "Reviewing new compliance guidelines for GDPR"
+    ],
+    "recent_role_change": "Promoted to Managing Director 18 months ago",
+    "travel": "Frequent travel between Berlin, London, and New York",
+    "upcoming_events": [
+      "Annual Partners Retreat in Zurich",
+      "Legal Ethics Symposium"
+    ]
+  },
+  "c7": {
+    "authority": 0.95,
+    "commitment": 0.85,
+    "known_triggers": [
+      "Urgent client complaints",
+      "Regulatory compliance threats",
+      "High-value transaction deadlines",
+      "Reputational risk"
+    ],
+    "liking": 0.6,
+    "reciprocity": 0.4,
+    "scarcity": 0.7,
+    "social_proof": 0.8
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "Email appearing to be from Sophie Novak regarding a 'leaked' document",
+      "Urgent 'Action Required' notice from a regulatory body regarding a client's compliance",
+      "Request from a partner (e.g., Lukas Lindholm) to review a sensitive file while she is traveling"
+    ],
+    "likely_senders": [
+      "Sophie Novak",
+      "Mira Berger",
+      "Lukas Lindholm",
+      "Court Administrators",
+      "Regulatory Bodies"
+    ],
+    "plausible_pretexts": [
+      "Urgent request for signature on a confidential merger agreement",
+      "Notification of a legal complaint filed against the firm",
+      "Invitation to an exclusive executive legal roundtable",
+      "Updated tax regulations affecting firm partners"
+    ],
+    "routine_communications": [
+      "Approval of billing hours",
+      "Strategic updates to partners",
+      "Client relationship management",
+      "Legal brief reviews"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0025",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

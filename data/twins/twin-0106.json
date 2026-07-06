@@ -1,0 +1,189 @@
+{
+  "c1": {
+    "company": "Continental Foods",
+    "department": "Operations & Logistics",
+    "industry": "Food & Agriculture",
+    "responsibilities": [
+      "Overseeing regional distribution networks",
+      "Managing cold-chain logistics compliance",
+      "Optimizing procurement cycles for raw agricultural inputs",
+      "Budgetary oversight for fleet maintenance",
+      "Strategic planning for seasonal harvest surges"
+    ],
+    "role": "Senior Manager of Supply Chain Logistics",
+    "seniority": "Senior"
+  },
+  "c2": {
+    "coworkers": [
+      "Stefan Janssen",
+      "Daniel Keller",
+      "Nina Dvorak",
+      "Tomas Marchetti",
+      "Lena Schmidt",
+      "Anna Janssen",
+      "Adrian Schmidt"
+    ],
+    "direct_reports": [
+      "Logistics Coordinators",
+      "Warehouse Supervisors"
+    ],
+    "external_contacts": [],
+    "manager": "Stefan Janssen",
+    "recruiters": []
+  },
+  "c3": {
+    "certifications": [
+      "APICS CSCP",
+      "PMP"
+    ],
+    "security_awareness": "Moderate; follows corporate policy but tends to prioritize operational speed over strict verification during peak harvest seasons.",
+    "skills": [
+      "ERP Management",
+      "Lean Six Sigma",
+      "Inventory Forecasting",
+      "Vendor Negotiation",
+      "Regulatory Compliance (FDA/EFSA)"
+    ],
+    "tech_stack": [
+      "SAP S/4HANA",
+      "Microsoft Excel (Advanced)",
+      "Tableau",
+      "Microsoft Teams",
+      "Oracle NetSuite"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "Global Food Logistics Summit",
+      "AgriTech Expo 2023"
+    ],
+    "interests": [
+      "Sustainable farming",
+      "Vintage automotive restoration",
+      "Wine tasting",
+      "Industrial automation"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "Optimizing Cold-Chain Efficiency in Perishable Goods (Internal Whitepaper)"
+    ],
+    "recent_posts": [
+      "Discussing the impact of fuel price volatility on regional distribution."
+    ]
+  },
+  "c5": {
+    "emails": [
+      "felix.marchetti@continental-foods.com"
+    ],
+    "phone": "+49-172-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "Industry-specific forums"
+    ],
+    "social_handles": "@fmarchetti_ops",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Logistics Budget Review",
+      "Annual Supplier Audit"
+    ],
+    "recent_activity": [
+      "Reviewing new refrigerated transport contracts",
+      "Updating safety protocols for warehouse staff"
+    ],
+    "recent_role_change": "Promoted to Senior Manager 14 months ago",
+    "travel": "Frequent trips to regional distribution centers in Northern Europe",
+    "upcoming_events": [
+      "Quarterly Operations Review Meeting",
+      "Continental Foods Annual Gala"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.75,
+    "known_triggers": [
+      "Urgent supply chain disruptions",
+      "Compliance failures",
+      "Direct requests from Stefan Janssen",
+      "Budgetary discrepancies"
+    ],
+    "liking": 0.5,
+    "reciprocity": 0.4,
+    "scarcity": 0.6,
+    "social_proof": 0.7
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "Phishing email mimicking a regulatory body warning about a food safety violation",
+      "Urgent 'confidential' request from the manager regarding payroll or bonuses",
+      "Fake invoice from a known logistics partner requiring immediate payment to avoid shipment freeze"
+    ],
+    "likely_senders": [
+      "Stefan Janssen",
+      "Daniel Keller",
+      "Nina Dvorak",
+      "HR Department",
+      "IT Support"
+    ],
+    "plausible_pretexts": [
+      "Urgent update to the supplier contract terms",
+      "Notification of a shipment delay requiring immediate sign-off",
+      "Mandatory corporate compliance training for senior management",
+      "Request for budget reallocation from Stefan Janssen"
+    ],
+    "routine_communications": [
+      "Weekly logistics status reports",
+      "Budget approval requests",
+      "Inventory discrepancy alerts"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0106",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

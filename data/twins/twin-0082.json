@@ -1,0 +1,192 @@
+{
+  "c1": {
+    "company": "Sterling Construction",
+    "department": "Operations & Project Management",
+    "industry": "Construction and Real Estate",
+    "responsibilities": [
+      "Overseeing multi-site residential development timelines",
+      "Budget allocation and vendor contract approval",
+      "Coordinating between site engineers and corporate stakeholders",
+      "Ensuring compliance with regional building codes and safety regulations",
+      "Managing resource procurement for large-scale infrastructure projects"
+    ],
+    "role": "Senior Manager of Project Operations",
+    "seniority": "Senior"
+  },
+  "c2": {
+    "coworkers": [
+      "Viktor Lindholm",
+      "Jonas Berger",
+      "Eva Brandt",
+      "Nina Adamczyk",
+      "Bartek Marchetti",
+      "Marta Haas",
+      "Lukas Vogel"
+    ],
+    "direct_reports": [
+      "Nina Adamczyk",
+      "Lukas Vogel"
+    ],
+    "external_contacts": [],
+    "manager": "Viktor Lindholm",
+    "recruiters": []
+  },
+  "c3": {
+    "certifications": [
+      "PMP (Project Management Professional)",
+      "LEED Green Associate"
+    ],
+    "security_awareness": "Moderate; follows corporate policy but tends to prioritize operational speed over strict verification during high-stress deadlines.",
+    "skills": [
+      "Strategic Planning",
+      "Lean Construction",
+      "Risk Mitigation",
+      "Budget Forecasting",
+      "Stakeholder Management"
+    ],
+    "tech_stack": [
+      "Microsoft Project",
+      "AutoCAD Viewer",
+      "Procore",
+      "SAP ERP",
+      "Microsoft 365"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "International Construction Management Conference",
+      "GreenBuild International"
+    ],
+    "interests": [
+      "Sustainable Urbanism",
+      "Modernist Architecture",
+      "Industrial Design",
+      "Hiking"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "Optimizing Concrete Supply Chains in Urban Environments (Internal Whitepaper)"
+    ],
+    "recent_posts": [
+      "Excited to see the progress on the North-End residential complex!",
+      "Sustainability isn't just a trend; it's the future of the build industry."
+    ]
+  },
+  "c5": {
+    "emails": [
+      "sophie.haas@sterling-build.com"
+    ],
+    "phone": "+49-172-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "Industry-specific forums"
+    ],
+    "social_handles": "@s_haas_builds",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Budget Review",
+      "North-End Project Phase 2 Approval",
+      "Annual Safety Audit Submission"
+    ],
+    "recent_activity": [
+      "Reviewing subcontractor bids for the new warehouse project",
+      "Updating the project roadmap for the executive board"
+    ],
+    "recent_role_change": "Promoted to Senior Manager 14 months ago",
+    "travel": "Frequent travel between corporate office and active construction sites",
+    "upcoming_events": [
+      "Quarterly Operations Review Meeting",
+      "Site Visit: West-Side Plaza"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.75,
+    "known_triggers": [
+      "Urgent project delays",
+      "Budget discrepancies",
+      "Compliance warnings",
+      "Direct requests from Viktor Lindholm"
+    ],
+    "liking": 0.5,
+    "reciprocity": 0.4,
+    "scarcity": 0.7,
+    "social_proof": 0.6
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "A spoofed email from Viktor Lindholm requesting an immediate wire transfer for a 'critical' site emergency",
+      "A phishing link disguised as a Procore notification regarding a project delay",
+      "A fake HR notification about updated corporate benefits requiring a login"
+    ],
+    "likely_senders": [
+      "Viktor Lindholm",
+      "Jonas Berger",
+      "Eva Brandt",
+      "Corporate Finance Department",
+      "HR Compliance"
+    ],
+    "plausible_pretexts": [
+      "Urgent update to the project budget spreadsheet",
+      "Revised safety regulations requiring immediate signature",
+      "Confidential performance review document from Viktor",
+      "Updated vendor contract for the North-End project"
+    ],
+    "routine_communications": [
+      "Weekly project status reports",
+      "Invoice approval requests",
+      "Site safety logs",
+      "Resource allocation spreadsheets"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0082",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

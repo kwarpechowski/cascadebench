@@ -1,0 +1,203 @@
+{
+  "c1": {
+    "company": "Atlas Mining Corporation",
+    "department": "Executive Board",
+    "industry": "Mining and Natural Resources",
+    "responsibilities": [
+      "Strategic oversight of global extraction operations",
+      "Investor relations and quarterly financial reporting",
+      "Regulatory compliance and environmental sustainability mandates",
+      "High-level partnership negotiations",
+      "Budgetary approval for capital expenditure (CAPEX)"
+    ],
+    "role": "Managing Director",
+    "seniority": "Executive"
+  },
+  "c2": {
+    "coworkers": [
+      "Hannah Janssen",
+      "Viktor Schmidt",
+      "Pawel Falk",
+      "Sophie Wojcik",
+      "Iris Adamczyk",
+      "Tomas Dvorak",
+      "Oskar Lindqvist"
+    ],
+    "direct_reports": [
+      "Viktor Schmidt",
+      "Sophie Wojcik",
+      "Tomas Dvorak"
+    ],
+    "external_contacts": [
+      "Hannah Berger",
+      "Greta Sundqvist"
+    ],
+    "manager": "",
+    "recruiters": [
+      "Executive Search Global",
+      "Mining Talent Partners"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "MBA - INSEAD",
+      "Certified Corporate Director (CCD)"
+    ],
+    "security_awareness": "Moderate; understands high-level risks but often bypasses strict protocols for the sake of operational speed.",
+    "skills": [
+      "Strategic Planning",
+      "Corporate Governance",
+      "Risk Management",
+      "Resource Economics",
+      "Crisis Communication"
+    ],
+    "tech_stack": [
+      "Microsoft 365",
+      "SAP S/4HANA",
+      "Bloomberg Terminal",
+      "Zoom",
+      "Salesforce"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "World Mining Congress",
+      "Global Resources Summit 2024",
+      "ESG Leadership Forum"
+    ],
+    "interests": [
+      "Sustainable Mining",
+      "Geopolitics of Rare Earth Elements",
+      "Classical Music",
+      "Philanthropy"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "The Future of Lithium Extraction (Industry Whitepaper)",
+      "Ethics in Deep-Sea Mining (Op-Ed)"
+    ],
+    "recent_posts": [
+      "Discussing the shift toward carbon-neutral mining operations.",
+      "Congratulating the team on the new site acquisition in Western Australia."
+    ]
+  },
+  "c5": {
+    "emails": [
+      "lena.falk@atlas-mining.com",
+      "l.falk.private@protonmail.com"
+    ],
+    "phone": "+49-172-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "X (Twitter)",
+      "Bloomberg"
+    ],
+    "social_handles": "@LFalk_Atlas",
+    "websites": [
+      "atlas-mining.com"
+    ]
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Fiscal Report Submission",
+      "Environmental Impact Assessment deadline for Project Aurora"
+    ],
+    "recent_activity": [
+      "Negotiating a joint venture with a Nordic energy firm",
+      "Reviewing safety audits for the Northern Territory site"
+    ],
+    "recent_role_change": "Promoted to Managing Director 18 months ago",
+    "travel": "Frequent travel between Berlin, Perth, and Santiago",
+    "upcoming_events": [
+      "Annual Shareholders Meeting",
+      "Board Retreat in Zurich"
+    ]
+  },
+  "c7": {
+    "authority": 0.95,
+    "commitment": 0.8,
+    "known_triggers": [
+      "Urgent regulatory threats",
+      "Shareholder dissatisfaction",
+      "High-value acquisition opportunities",
+      "Legal compliance warnings"
+    ],
+    "liking": 0.5,
+    "reciprocity": 0.4,
+    "scarcity": 0.6,
+    "social_proof": 0.7
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "CEO fraud/Business Email Compromise (BEC) impersonating a board member",
+      "Phishing via a fake 'Confidential' PDF regarding a competitor's bid",
+      "Credential harvesting via a fake 'Executive Portal' login"
+    ],
+    "likely_senders": [
+      "Hannah Berger",
+      "Greta Sundqvist",
+      "Viktor Schmidt",
+      "External Legal Counsel"
+    ],
+    "plausible_pretexts": [
+      "Urgent request for signature on a confidential merger document",
+      "Notification of a regulatory breach requiring immediate attention",
+      "Invitation to an exclusive executive roundtable on mining sustainability",
+      "Invoice for high-end corporate consulting services"
+    ],
+    "routine_communications": [
+      "Weekly operational updates",
+      "Budget approval requests",
+      "Board meeting agendas",
+      "Investor inquiries"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0129",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

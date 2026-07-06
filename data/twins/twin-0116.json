@@ -1,0 +1,188 @@
+{
+  "c1": {
+    "company": "Zephyr Airlines Services",
+    "department": "Operations & Fleet Management",
+    "industry": "Aviation/Travel",
+    "responsibilities": [
+      "Monitoring fuel efficiency metrics across short-haul fleets",
+      "Preparing weekly aircraft utilization reports",
+      "Assisting in the coordination of scheduled maintenance windows",
+      "Analyzing turnaround time (TAT) data for ground handling"
+    ],
+    "role": "Junior Fleet Performance Analyst",
+    "seniority": "Junior"
+  },
+  "c2": {
+    "coworkers": [
+      "Viktor Kowalski",
+      "Bartek Marchetti",
+      "Stefan Lindqvist",
+      "Stefan Wojcik",
+      "Oskar Adamczyk",
+      "Stefan Vogel",
+      "Bartek Berger"
+    ],
+    "direct_reports": [],
+    "external_contacts": [
+      "Nina Dvorak",
+      "Sophie Moreau"
+    ],
+    "manager": "Bartek Marchetti",
+    "recruiters": [
+      "Global Aviation Talent",
+      "SkyHire Partners"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "IATA Airline Operations Certification",
+      "Microsoft Certified: Power BI Data Analyst Associate"
+    ],
+    "security_awareness": "Moderate; follows basic corporate guidelines but tends to trust internal-looking communications from management.",
+    "skills": [
+      "Data Visualization",
+      "Predictive Maintenance Analysis",
+      "Fuel Consumption Modeling",
+      "Excel Advanced Formulas"
+    ],
+    "tech_stack": [
+      "Microsoft Excel",
+      "Power BI",
+      "SAP Aviation",
+      "Slack",
+      "Microsoft Outlook"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "International Air Transport Association (IATA) Annual Meeting",
+      "Aviation Week MRO Europe"
+    ],
+    "interests": [
+      "Sustainable Aviation Fuels (SAF)",
+      "Urban Air Mobility",
+      "Scandinavian Architecture",
+      "Hiking"
+    ],
+    "oss_projects": [],
+    "publications": [],
+    "recent_posts": [
+      "Excited to see the new fuel-efficiency benchmarks for the A320neo fleet!",
+      "Just finished my first quarter at Zephyr Airlines Services. Learning a lot about fleet ops."
+    ]
+  },
+  "c5": {
+    "emails": [
+      "julia.lindqvist@zephyr-air.com"
+    ],
+    "phone": "+46-70-555-0129",
+    "platforms": [
+      "LinkedIn",
+      "X",
+      "Industry-specific forums"
+    ],
+    "social_handles": "@j_lindqvist_ops",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Fleet Utilization Report",
+      "Fuel Efficiency Audit submission"
+    ],
+    "recent_activity": [
+      "Updating the maintenance schedule for the regional jet fleet",
+      "Attending a webinar on carbon offset credits"
+    ],
+    "recent_role_change": "Promoted from Intern to Junior Analyst 4 months ago",
+    "travel": "Upcoming trip to Paris for coordination with Sophie Moreau",
+    "upcoming_events": [
+      "Quarterly Operations Review",
+      "Team Building Retreat in Stockholm"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.6,
+    "known_triggers": [
+      "Urgent requests from Bartek Marchetti",
+      "Compliance warnings regarding aviation safety standards",
+      "Requests for data validation from external partners"
+    ],
+    "liking": 0.7,
+    "reciprocity": 0.5,
+    "scarcity": 0.4,
+    "social_proof": 0.6
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "An email appearing to be from Bartek Marchetti requesting an immediate password reset for the SAP Aviation portal",
+      "A 'urgent' invoice or contract update from Sophie Moreau regarding ground handling services",
+      "A notification about a missed deadline for the Q3 Fleet Utilization Report"
+    ],
+    "likely_senders": [
+      "Bartek Marchetti",
+      "Nina Dvorak",
+      "Sophie Moreau",
+      "HR Department",
+      "IT Support"
+    ],
+    "plausible_pretexts": [
+      "Urgent update to the fleet maintenance manual",
+      "Request to review a revised fuel efficiency report from an external partner",
+      "Mandatory aviation safety compliance training link"
+    ],
+    "routine_communications": [
+      "Weekly fuel consumption spreadsheets",
+      "Maintenance window confirmations",
+      "Flight schedule updates"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0116",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

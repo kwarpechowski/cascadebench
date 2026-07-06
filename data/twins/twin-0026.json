@@ -1,0 +1,191 @@
+{
+  "c1": {
+    "company": "Lex Harbor Legal",
+    "department": "Corporate Litigation & Compliance",
+    "industry": "Legal Services",
+    "responsibilities": [
+      "Overseeing high-stakes corporate litigation cases",
+      "Managing junior associates and paralegals",
+      "Ensuring regulatory compliance for Fortune 500 clients",
+      "Reviewing complex legal contracts and settlement agreements",
+      "Strategic planning for the litigation department"
+    ],
+    "role": "Senior Manager",
+    "seniority": "Senior"
+  },
+  "c2": {
+    "coworkers": [
+      "Eva Berger",
+      "Oskar Keller",
+      "Anna Sundqvist",
+      "Pawel Sokolov",
+      "Viktor Berger",
+      "Greta Moreau",
+      "Felix Brandt"
+    ],
+    "direct_reports": [
+      "Anna Sundqvist",
+      "Felix Brandt"
+    ],
+    "external_contacts": [],
+    "manager": "Eva Berger",
+    "recruiters": [
+      "LegalTalent Global",
+      "Elite Law Search"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "Bar Admission (State/Regional)",
+      "Certified Compliance Professional (CCP)"
+    ],
+    "security_awareness": "Moderate; understands basic phishing but tends to trust internal-looking communications due to high-pressure deadlines.",
+    "skills": [
+      "Case Strategy",
+      "Risk Mitigation",
+      "Legal Drafting",
+      "Conflict Resolution",
+      "Corporate Governance"
+    ],
+    "tech_stack": [
+      "Microsoft 365",
+      "iManage",
+      "LexisNexis",
+      "Westlaw",
+      "DocuSign"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "International Bar Association Annual Conference",
+      "Global Compliance Summit"
+    ],
+    "interests": [
+      "Maritime Law",
+      "Classical Architecture",
+      "Sailing",
+      "Economic History"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "The Evolution of Corporate Liability in Digital Trade (2021)"
+    ],
+    "recent_posts": [
+      "Discussing the impact of new EU privacy regulations on corporate litigation."
+    ]
+  },
+  "c5": {
+    "emails": [
+      "lukas.lindholm@lexharbor.com"
+    ],
+    "phone": "+46-8-555-0129",
+    "platforms": [
+      "LinkedIn",
+      "X (Professional)"
+    ],
+    "social_handles": "@LLindholm_Law",
+    "websites": [
+      "lexharbor.com/team/lukas-lindholm"
+    ]
+  },
+  "c6": {
+    "deadlines": [
+      "Quarterly Compliance Audit - Friday",
+      "Case Filing for Client X - Next Tuesday"
+    ],
+    "recent_activity": [
+      "Finalizing a merger agreement",
+      "Onboarding a new junior associate"
+    ],
+    "recent_role_change": "Promoted to Senior Manager 14 months ago",
+    "travel": "Upcoming trip to Brussels for regulatory hearings",
+    "upcoming_events": [
+      "Annual Partner Review Meeting",
+      "Legal Tech Webinar"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.75,
+    "known_triggers": [
+      "Urgent court deadlines",
+      "Direct requests from Eva Berger",
+      "Compliance failures",
+      "Client confidentiality breaches"
+    ],
+    "liking": 0.5,
+    "reciprocity": 0.4,
+    "scarcity": 0.7,
+    "social_proof": 0.6
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "An email appearing to be from Eva Berger requesting an immediate review of a 'leaked' client document",
+      "A notification from the IT department about a security breach in the iManage system requiring password verification"
+    ],
+    "likely_senders": [
+      "Eva Berger",
+      "Oskar Keller",
+      "Court Clerks",
+      "IT Support Lex Harbor"
+    ],
+    "plausible_pretexts": [
+      "Urgent signature required for a court filing",
+      "Updated compliance guidelines from the managing partner",
+      "Confidential HR document regarding team restructuring"
+    ],
+    "routine_communications": [
+      "Case status updates",
+      "Document review requests",
+      "Billing and time-tracking approvals"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0026",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

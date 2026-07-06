@@ -1,0 +1,181 @@
+{
+  "c1": {
+    "company": "Zephyr Airlines Services",
+    "department": "Flight Planning & Logistics",
+    "industry": "Aviation/Travel",
+    "responsibilities": [
+      "Optimizing flight route efficiency",
+      "Managing crew scheduling compliance",
+      "Coordinating fuel procurement logistics",
+      "Monitoring real-time weather impact on flight paths"
+    ],
+    "role": "Flight Operations Specialist",
+    "seniority": "Mid-level"
+  },
+  "c2": {
+    "coworkers": [
+      "Viktor Kowalski",
+      "Bartek Marchetti",
+      "Stefan Lindqvist",
+      "Julia Lindqvist",
+      "Stefan Wojcik",
+      "Oskar Adamczyk",
+      "Bartek Berger"
+    ],
+    "direct_reports": [],
+    "external_contacts": [],
+    "manager": "Bartek Marchetti",
+    "recruiters": []
+  },
+  "c3": {
+    "certifications": [
+      "IATA Flight Operations Certification",
+      "Advanced Aviation Logistics Diploma"
+    ],
+    "security_awareness": "Moderate; follows basic corporate password policies but tends to trust internal-looking communications from management.",
+    "skills": [
+      "Flight Planning Software",
+      "Logistics Optimization",
+      "Regulatory Compliance (EASA/FAA)",
+      "Resource Allocation"
+    ],
+    "tech_stack": [
+      "Sabre",
+      "Amadeus",
+      "Microsoft Excel (Advanced)",
+      "Internal Flight Tracking Dashboard"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "International Aviation Logistics Forum",
+      "AirTransport World Expo"
+    ],
+    "interests": [
+      "Avgeek",
+      "Sustainable Aviation Fuels",
+      "Mountain Hiking",
+      "Vintage Aircraft Restoration"
+    ],
+    "oss_projects": [],
+    "publications": [],
+    "recent_posts": [
+      "Thoughts on the transition to hydrogen-powered regional jets",
+      "Review of the new flight scheduling automation tool"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "stefan.vogel@zephyr-air.com"
+    ],
+    "phone": "+49-172-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "Industry-specific forums"
+    ],
+    "social_handles": "@stefan_v_fly",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Quarterly fuel efficiency report",
+      "Crew rotation schedule for winter season"
+    ],
+    "recent_activity": [
+      "Updating flight path protocols for North Atlantic tracks",
+      "Reviewing crew fatigue management logs"
+    ],
+    "recent_role_change": "Promoted to Specialist 14 months ago",
+    "travel": "Occasional trips to regional hubs for operational audits",
+    "upcoming_events": [
+      "Annual Aviation Safety Audit",
+      "Company Team Building Retreat"
+    ]
+  },
+  "c7": {
+    "authority": 0.75,
+    "commitment": 0.7,
+    "known_triggers": [
+      "Urgent requests from Bartek Marchetti",
+      "Regulatory compliance warnings",
+      "Flight delay emergencies",
+      "Operational efficiency KPIs"
+    ],
+    "liking": 0.65,
+    "reciprocity": 0.5,
+    "scarcity": 0.4,
+    "social_proof": 0.6
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "An urgent email from Bartek Marchetti requesting a quick review of a 'confidential' flight path adjustment document",
+      "A notification about a critical failure in the flight tracking system requiring immediate login to a portal",
+      "A request from HR to update personal details for the upcoming company retreat"
+    ],
+    "likely_senders": [
+      "Bartek Marchetti",
+      "Viktor Kowalski",
+      "HR Department",
+      "IT Support Desk"
+    ],
+    "plausible_pretexts": [
+      "Urgent update to the crew scheduling software",
+      "Mandatory aviation safety training module",
+      "Revised fuel procurement guidelines from management",
+      "Internal audit of flight operation logs"
+    ],
+    "routine_communications": [
+      "Daily flight schedule updates",
+      "Weekly logistics syncs",
+      "Compliance reporting"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0119",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

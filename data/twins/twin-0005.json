@@ -1,0 +1,189 @@
+{
+  "c1": {
+    "company": "Northwind Capital Partners",
+    "department": "Risk Management & Compliance",
+    "industry": "Finance/Banking",
+    "responsibilities": [
+      "Monitoring portfolio volatility",
+      "Conducting stress tests on asset allocations",
+      "Preparing quarterly risk exposure reports",
+      "Ensuring compliance with Basel III standards",
+      "Analyzing credit default swap trends"
+    ],
+    "role": "Portfolio Risk Specialist",
+    "seniority": "Mid-level"
+  },
+  "c2": {
+    "coworkers": [
+      "Oskar Moreau",
+      "Felix Vogel",
+      "Iris Sundqvist",
+      "Anna Novak",
+      "Marek Berger",
+      "Greta Lindholm",
+      "Oskar Vogel"
+    ],
+    "direct_reports": [],
+    "external_contacts": [],
+    "manager": "Felix Vogel",
+    "recruiters": [
+      "Headhunter_GlobalFinance_X",
+      "TalentAcq_Zurich_Prime"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "FRM (Financial Risk Manager)",
+      "CFA Level II Candidate"
+    ],
+    "security_awareness": "Moderate; follows corporate policy but tends to prioritize speed over verification during high-volatility market events.",
+    "skills": [
+      "Quantitative Analysis",
+      "Financial Modeling",
+      "Risk Mitigation",
+      "Regulatory Reporting",
+      "Stochastic Calculus"
+    ],
+    "tech_stack": [
+      "Bloomberg Terminal",
+      "Python (Pandas, NumPy)",
+      "MS Excel (VBA)",
+      "SQL",
+      "Tableau"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "Global Risk Summit 2023",
+      "FinTech Innovate Expo"
+    ],
+    "interests": [
+      "Algorithmic Trading",
+      "Macroeconomics",
+      "Sailing",
+      "Vintage Watches"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "Internal Whitepaper: Hedging Strategies in Volatile Markets"
+    ],
+    "recent_posts": [
+      "Thoughts on the impact of central bank rate hikes on mid-cap portfolios."
+    ]
+  },
+  "c5": {
+    "emails": [
+      "felix.marchetti@northwind-capital.com",
+      "f.marchetti.private@gmail.com"
+    ],
+    "phone": "+44-20-7946-0128",
+    "platforms": [
+      "LinkedIn",
+      "X (Twitter)",
+      "Bloomberg Professional"
+    ],
+    "social_handles": "@fmarchetti_risk",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Risk Exposure Audit",
+      "Annual Compliance Review"
+    ],
+    "recent_activity": [
+      "Updated the risk-weighting model for emerging markets",
+      "Coordinated with Felix Vogel on the new liquidity stress test"
+    ],
+    "recent_role_change": "Promoted to Specialist 14 months ago",
+    "travel": "Upcoming trip to Frankfurt for regional audit",
+    "upcoming_events": [
+      "Quarterly Portfolio Review Meeting"
+    ]
+  },
+  "c7": {
+    "authority": 0.65,
+    "commitment": 0.8,
+    "known_triggers": [
+      "Urgent regulatory requests",
+      "Directives from Felix Vogel",
+      "Market crash alerts",
+      "Compliance failure warnings"
+    ],
+    "liking": 0.6,
+    "reciprocity": 0.4,
+    "scarcity": 0.7,
+    "social_proof": 0.5
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "Phishing email mimicking Felix Vogel requesting an immediate file review during a market dip",
+      "Fake regulatory notice requiring login to a 'Compliance Portal' to avoid fines",
+      "HR notification regarding a change in the bonus structure for the finance team"
+    ],
+    "likely_senders": [
+      "Felix Vogel",
+      "Internal Audit Department",
+      "Compliance Office",
+      "HR Benefits Portal"
+    ],
+    "plausible_pretexts": [
+      "Urgent update to the risk reporting template",
+      "Mandatory compliance training deadline",
+      "Request for updated portfolio data for the audit",
+      "Notification of a discrepancy in the Q3 report"
+    ],
+    "routine_communications": [
+      "Daily risk summaries",
+      "Weekly syncs with Oskar Moreau",
+      "Monthly reporting to management"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0005",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

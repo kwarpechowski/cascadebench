@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cascadebench"
+version = "0.1.0"
+description = "Leak-aware adversarial testbed for graph-based phishing and lateral-movement detection"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{name = "Kamil Warpechowski"}, {name = "Bogdan Ksiezopolski"}]
+license = {text = "MIT"}
+dependencies = ["numpy", "scikit-learn", "lightgbm", "torch"]
+
+[project.urls]
+Homepage = "https://github.com/kwarpechowski/cascadebench"
+Repository = "https://github.com/kwarpechowski/cascadebench"
+
+[project.scripts]
+cascadebench = "cascadebench.cli:main"
+
+[project.optional-dependencies]
+dev = ["pytest"]
+viz = ["matplotlib"]        # plotting (analysis/, docs/make_readme_figures.py)
+# Only needed to REGENERATE personas via data/twin_generator.py (see config.example.py).
+# The benchmark itself and the bundled data/twins/ require none of this.
+llm = ["openai", "truststore"]
+
+[tool.setuptools]
+packages = ["cascadebench"]
+
+[tool.pytest.ini_options]
+testpaths = ["cascadebench/tests"]

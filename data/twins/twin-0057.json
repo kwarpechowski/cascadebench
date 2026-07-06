@@ -1,0 +1,204 @@
+{
+  "c1": {
+    "company": "Brightpath Education",
+    "department": "Executive Board",
+    "industry": "Education / EdTech",
+    "responsibilities": [
+      "Strategic planning and organizational growth",
+      "Overseeing academic partnership agreements",
+      "Budgetary approval for institutional infrastructure",
+      "Stakeholder management and board reporting",
+      "Defining long-term educational curriculum standards"
+    ],
+    "role": "Managing Director",
+    "seniority": "Executive"
+  },
+  "c2": {
+    "coworkers": [
+      "Mira Wojcik",
+      "Jonas Sokolov",
+      "Viktor Sokolov",
+      "Mira Schmidt",
+      "Eva Wojcik",
+      "Eva Moreau",
+      "Greta Schmidt"
+    ],
+    "direct_reports": [
+      "Mira Wojcik",
+      "Jonas Sokolov",
+      "Eva Moreau"
+    ],
+    "external_contacts": [
+      "Viktor Lindholm",
+      "Marek Adamczyk"
+    ],
+    "manager": "",
+    "recruiters": [
+      "Executive Search Global",
+      "EduTalent Partners"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "MBA - Harvard Business School",
+      "Certified Educational Leader (CEL)"
+    ],
+    "security_awareness": "Moderate; understands high-level risks but tends to bypass strict protocols for the sake of operational speed.",
+    "skills": [
+      "Strategic Leadership",
+      "Academic Governance",
+      "Financial Forecasting",
+      "Public Relations",
+      "Change Management"
+    ],
+    "tech_stack": [
+      "Microsoft 365",
+      "Salesforce Education Cloud",
+      "Zoom",
+      "BoardEffect",
+      "Slack"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "Global Education Summit",
+      "EdTech Innovators Forum",
+      "World Economic Forum (Education Track)"
+    ],
+    "interests": [
+      "Philanthropy",
+      "Classical Music",
+      "Sustainable Urbanism",
+      "Digital Pedagogy"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "The Future of Hybrid Learning in Higher Ed (2022)",
+      "Scaling Academic Excellence in the Digital Age (2020)"
+    ],
+    "recent_posts": [
+      "Reflecting on the impact of AI on student critical thinking.",
+      "Excited to announce our new partnership for the 2024 academic year."
+    ]
+  },
+  "c5": {
+    "emails": [
+      "oskar.adamczyk@brightpath-edu.org",
+      "o.adamczyk.private@gmail.com"
+    ],
+    "phone": "+48-500-123-456",
+    "platforms": [
+      "LinkedIn",
+      "Twitter/X",
+      "ResearchGate"
+    ],
+    "social_handles": "@OskarAdamczyk_Edu",
+    "websites": [
+      "brightpath-edu.org/leadership/oskar-adamczyk"
+    ]
+  },
+  "c6": {
+    "deadlines": [
+      "Annual Budget Approval - Q4",
+      "Accreditation Renewal Submission",
+      "Board of Directors Quarterly Review"
+    ],
+    "recent_activity": [
+      "Negotiating a merger with a regional vocational college",
+      "Reviewing the new digital campus infrastructure proposal"
+    ],
+    "recent_role_change": "Promoted to Managing Director 18 months ago",
+    "travel": "Frequent travel between Warsaw, Berlin, and London",
+    "upcoming_events": [
+      "European Education Ministers Meeting",
+      "Brightpath Annual Gala"
+    ]
+  },
+  "c7": {
+    "authority": 0.95,
+    "commitment": 0.8,
+    "known_triggers": [
+      "Institutional reputation",
+      "Regulatory compliance",
+      "High-level academic partnerships",
+      "Urgent board requests"
+    ],
+    "liking": 0.5,
+    "reciprocity": 0.4,
+    "scarcity": 0.6,
+    "social_proof": 0.7
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "Phishing email masquerading as a government education agency requesting sensitive institutional data",
+      "Spoofed email from a board member requesting an urgent wire transfer for a 'confidential acquisition'",
+      "Malicious document disguised as a 'Quarterly Financial Report' from an external auditor"
+    ],
+    "likely_senders": [
+      "Board Members",
+      "Government Education Officials",
+      "Legal Counsel",
+      "External Auditors"
+    ],
+    "plausible_pretexts": [
+      "Urgent request for signature on a partnership agreement",
+      "Notification of a regulatory compliance audit",
+      "Confidential board member communication regarding leadership",
+      "Invitation to speak at an exclusive academic summit"
+    ],
+    "routine_communications": [
+      "Weekly executive summaries",
+      "Budgetary approvals",
+      "Strategic partnership emails",
+      "Internal policy memos"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0057",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

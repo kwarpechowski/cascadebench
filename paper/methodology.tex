@@ -1,0 +1,151 @@
+\section{Software description}
+\label{sec:method}
+
+\tool is a pure-Python package (\texttt{cascadebench}) exposing both a library API and a
+command-line interface. It depends only on NumPy, scikit-learn, LightGBM
+\cite{ke2017lightgbm}, and PyTorch; a CPU is sufficient, and a GPU only accelerates the GNN
+detectors. This section describes the architecture, the graph and attacker models, the
+detector panel, and the leak-aware evaluation protocol that is the tool's core contribution.
+
+\subsection{Architecture}
+The toolkit is a five-stage pipeline (Fig.~\ref{fig:arch}). Each stage is an independent,
+replaceable component that communicates through typed objects---\texttt{Graph},
+\texttt{Scenario}, and \texttt{Detector}---so any single stage can be swapped without
+touching the others. This is what turns \tool from a script into a benchmark: a new graph, a
+new attack, or a new detector drops into one slot and is immediately measured under the same
+protocol.
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[
+  node distance=6mm and 8mm,
+  box/.style={draw, rounded corners, align=center, minimum height=10mm,
+              text width=21mm, font=\footnotesize},
+  arr/.style={-{Latex[length=2mm]}, thick}]
+  \node[box] (g) {\textbf{Graph}\\\scriptsize synthetic / SNAP / Enron};
+  \node[box, right=of g] (a) {\textbf{Attack}\\\scriptsize cascade, evasion};
+  \node[box, right=of a] (s) {\textbf{Scenario}\\\scriptsize labelled events};
+  \node[box, right=of s] (d) {\textbf{Detector}\\\scriptsize panel / custom};
+  \node[box, right=of d] (e) {\textbf{Leak-aware evaluator}};
+  \node[box, below=8mm of e] (o) {\textbf{Metrics}\\\scriptsize AUC, R@FPR};
+  \draw[arr] (g)--(a); \draw[arr] (a)--(s); \draw[arr] (s)--(d);
+  \draw[arr] (d)--(e); \draw[arr] (e)--(o);
+  \begin{scope}[on background layer]
+    \node[draw, dashed, rounded corners, fit=(g)(a)(s)(d)(e)(o),
+          inner sep=4mm, label=above:{\footnotesize\texttt{cascadebench} pipeline}] {};
+  \end{scope}
+\end{tikzpicture}
+\caption{Component architecture. Data flows left to right through replaceable stages; the
+evaluator enforces the leakage controls of Section~\ref{sec:leak}.}
+\label{fig:arch}
+\end{figure}
+
+\subsection{Graph models}
+The \texttt{graph} module supplies three sources of communication structure.
+\texttt{Graph.synthetic(N)} generates a procedural organization---companies of employees with
+internal hierarchy and cross-company partner links---giving full control over topology for
+ablations. \texttt{Graph.from\_edgelist} ingests any SNAP-format edge list
+\cite{leskovec2014snap} (\texttt{src dst [timestamp]}), and \texttt{load("enron")} loads a
+real corporate email graph \cite{klimt2004enron} for external validity. All three expose a
+uniform interface (nodes, timestamped edges, and per-node rhythm buckets), so downstream
+stages are agnostic to the graph's origin.
+
+\subsection{Attacker model}
+The \texttt{attack} module makes the adversary a first-class, programmable object.
+\texttt{CascadeStrategy} parameterizes a spreading attack along two axes: \emph{reach}
+(\texttt{fanout}, how many recipients a compromised node targets) versus \emph{evasion}
+(\texttt{spread}, temporal/structural dispersion; content \texttt{mimicry}; and edge
+\texttt{fabrication}, i.e.\ synthesizing plausible OSINT-based contacts). \texttt{cascade}
+propagates the attack over the graph and \texttt{build\_scenario} emits a \texttt{Scenario}:
+a labelled stream of events with per-event ground truth. Because reach and evasion are
+explicit knobs, the same graph yields anything from a loud, wide campaign to a stealthy,
+narrow one, and an \emph{adaptive} attacker can be swept to trace how detection degrades as
+the adversary invests in evasion.
+
+\subsection{Detector panel}
+The \texttt{detect} module provides eight detectors behind a single \texttt{Detector}
+interface whose only required method is
+\texttt{fit\_score(scenario, train\_mask, test\_mask, seed)}. The panel spans the design
+space: a 1-hop tabular baseline and a hand-crafted context model (both backed by LightGBM
+\cite{ke2017lightgbm}), the COMPA account-compromise heuristic \cite{egele2013compa}, a
+Hopper-style lateral-movement path detector \cite{ho2021hopper}, an isolation-forest anomaly
+detector, a static graph convolutional network \cite{kipf2017semisupervised}, and temporal
+GNNs with and without attention \cite{rossi2020temporal,xu2020inductive,velickovic2018graph}.
+Placing heuristics and GNNs behind one interface is deliberate: it forces every method through
+the identical leak-aware protocol, so differences reflect the method, not the harness.
+
+\subsection{Leak-aware evaluation}
+\label{sec:leak}
+The evaluator (\texttt{evaluate}) is the scientific core. Instead of a single AUC on an
+unmatched split, it enforces four controls that separate mechanism from artefact.
+
+\paragraph{(1) Matched-design benign traffic.} Benign events are sampled to match the
+attack's endpoint and degree distribution, removing the identity- and degree-based
+shortcuts that let a model ``detect'' attacks by recognizing which nodes are involved.
+
+\paragraph{(2) Victim-disjoint splits.} \texttt{victim\_split} guarantees that no victim or
+organization appears in both train and test, preventing per-victim memorization---the
+graph analogue of the spatial-bias problem of \citet{pendlebury2019tesseract}.
+
+\paragraph{(3) Time-shuffle causality control.} \texttt{shuffle\_time} permutes event
+timestamps; a genuine temporal-dynamics signal must vanish under this permutation. A
+detector that retains its advantage after shuffling is exploiting a timing confounder, not
+the attack, and the tool reports the gap explicitly as a leakage diagnostic.
+
+\paragraph{(4) Operational metrics.} Alongside AUC, the evaluator reports Recall at fixed
+low false-positive rates. For a score threshold $\tau$ and false-positive rate
+$\mathrm{FPR}(\tau)=\frac{|\{\text{benign}: s>\tau\}|}{|\text{benign}|}$, we report
+\[
+  \mathrm{Recall@}\alpha \;=\; \mathrm{TPR}\!\big(\tau_\alpha\big),\qquad
+  \tau_\alpha=\min\{\tau:\mathrm{FPR}(\tau)\le\alpha\},
+\]
+for $\alpha\in\{0.1\%,0.5\%,1\%,5\%\}$. This is the regime that matters operationally: AUC and
+Recall@low-FPR can rank detectors differently, and Recall@low-FPR stays punishingly low even
+when AUC looks respectable (Section~\ref{sec:results}), so reporting it is what keeps a
+benchmark honest about deployability.
+
+\subsection{Reproducible studies and arms-race search}
+The \texttt{experiments} module packages reproducible studies---\texttt{pareto} (the
+evasion--reach frontier), \texttt{adaptive} (an adapting attacker at fixed reach),
+\texttt{panel} (all detectors under all strategies), and \texttt{leak-audit} (the shuffle
+and off-hours diagnostics)---each writing CSVs from which tables and figures reproduce
+offline. The \texttt{search} module adds \texttt{arms\_race}, an automatic red/blue
+co-search: the attacker searches for evasive strategies while the defender searches for
+robust detectors, yielding a robustness \emph{frontier} rather than a single score.
+
+\subsection{Implementation and reproducibility}
+\tool installs with \texttt{pip install -e .} and exposes a \texttt{cascadebench} console
+script; every command is deterministic given a seed. The full library API is three calls
+(build a graph, build a scenario, evaluate a panel), and extension is one subclass. The
+benchmark itself requires no network or language model---graphs, attacks, detectors, and
+evaluation are procedural, and the synthetic population is shipped pre-generated; an
+OpenAI-compatible LLM is used only to optionally \emph{regenerate} the personas and is never
+needed to reproduce the results. Code metadata is summarized in Table~\ref{tab:codemeta}.
+
+\begin{lstlisting}
+import cascadebench as cb
+g   = cb.Graph.synthetic(800)                 # or cb.load("enron")
+sc  = cb.build_scenario(g, cb.CascadeStrategy(fanout=8, spread=2), seed=0)
+res = cb.evaluate(sc, cb.get_panel(), seed=0) # AUC + Recall@{0.1,0.5,1,5}%
+\end{lstlisting}
+
+\begin{table}[H]
+\centering
+\caption{Code metadata.}
+\label{tab:codemeta}
+\small
+\begin{tabular}{@{}p{0.5cm}p{5.0cm}p{7.8cm}@{}}
+\toprule
+\textbf{Nr} & \textbf{Code metadata description} & \textbf{Metadata} \\
+\midrule
+C1 & Current code version & v0.1.0 \\
+C2 & Permanent link to code/repository & \url{https://github.com/kwarpechowski/cascadebench} \\
+C3 & Legal code license & MIT \\
+C4 & Code versioning system used & git \\
+C5 & Languages, tools, services & Python ($\geq$3.10), PyTorch, scikit-learn, LightGBM, NumPy \\
+C6 & Compilation requirements, environments, dependencies & Python $\geq$3.10; \texttt{pip install -e .} (CPU sufficient; optional CUDA for GNN detectors) \\
+C7 & Developer documentation/manual & \texttt{README.md} in the repository \\
+C8 & Support email & kamil.warpechowski@kozminski.edu.pl \\
+\bottomrule
+\end{tabular}
+\end{table}

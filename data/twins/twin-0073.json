@@ -1,0 +1,203 @@
+{
+  "c1": {
+    "company": "Aurora Media",
+    "department": "Executive Board",
+    "industry": "Media & Advertising",
+    "responsibilities": [
+      "Strategic oversight of agency growth",
+      "High-level client relationship management",
+      "Budgetary approval for global campaigns",
+      "Board-level reporting and stakeholder communication",
+      "Defining long-term creative direction"
+    ],
+    "role": "Managing Director",
+    "seniority": "Executive"
+  },
+  "c2": {
+    "coworkers": [
+      "Viktor Brandt",
+      "Bartek Adamczyk",
+      "Hannah Haas",
+      "Lukas Adamczyk",
+      "Julia Marchetti",
+      "Felix Reuter",
+      "Tomas Falk"
+    ],
+    "direct_reports": [
+      "Viktor Brandt",
+      "Hannah Haas",
+      "Julia Marchetti"
+    ],
+    "external_contacts": [
+      "Marek Adamczyk",
+      "Viktor Lindholm"
+    ],
+    "manager": "",
+    "recruiters": [
+      "Executive Search Partners Ltd",
+      "Global Talent Media"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "Executive Leadership Program (INSEAD)",
+      "Advanced Digital Marketing Strategy"
+    ],
+    "security_awareness": "Moderate; understands basic phishing but tends to bypass protocols for speed and convenience due to high-pressure role.",
+    "skills": [
+      "Strategic Planning",
+      "P&L Management",
+      "Crisis Communication",
+      "Media Buying Strategy",
+      "Negotiation"
+    ],
+    "tech_stack": [
+      "Microsoft 365",
+      "Salesforce",
+      "Slack",
+      "Asana",
+      "Google Analytics"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "Cannes Lions International Festival of Creativity",
+      "Advertising Week New York",
+      "Web Summit"
+    ],
+    "interests": [
+      "Contemporary Art",
+      "Luxury Watches",
+      "Sustainable Urbanism",
+      "Venture Capital"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "The Future of Programmatic Advertising (Whitepaper)",
+      "Scaling Creative Agencies in the Digital Age (Industry Journal)"
+    ],
+    "recent_posts": [
+      "Reflecting on the shift toward AI-driven content creation in 2024.",
+      "Excited to announce our new partnership for the Q4 campaign cycle."
+    ]
+  },
+  "c5": {
+    "emails": [
+      "felix.novak@aurora-media.tv",
+      "f.novak.private@protonmail.com"
+    ],
+    "phone": "+49-172-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "Twitter/X",
+      "Instagram"
+    ],
+    "social_handles": "@FelixNovak_Aurora",
+    "websites": [
+      "aurora-media.tv"
+    ]
+  },
+  "c6": {
+    "deadlines": [
+      "Annual Budget Approval - End of Month",
+      "Q4 Client Strategy Presentation - Friday"
+    ],
+    "recent_activity": [
+      "Negotiating a merger with a boutique creative agency",
+      "Reviewing the new corporate sustainability charter"
+    ],
+    "recent_role_change": "Promoted to Managing Director 18 months ago",
+    "travel": "Frequent travel between Berlin, London, and New York",
+    "upcoming_events": [
+      "Board Meeting in Berlin",
+      "Annual Media Summit"
+    ]
+  },
+  "c7": {
+    "authority": 0.95,
+    "commitment": 0.7,
+    "known_triggers": [
+      "Urgent board requests",
+      "High-value contract disputes",
+      "Reputational risk",
+      "Exclusive industry invitations"
+    ],
+    "liking": 0.6,
+    "reciprocity": 0.4,
+    "scarcity": 0.7,
+    "social_proof": 0.8
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "CEO fraud/Business Email Compromise (BEC) targeting his authority",
+      "Phishing via a fake 'Confidential Board Document' link",
+      "Credential harvesting via a fake LinkedIn 'Executive Networking' portal"
+    ],
+    "likely_senders": [
+      "Viktor Brandt",
+      "Marek Adamczyk",
+      "Legal Counsel",
+      "Major Client CEOs"
+    ],
+    "plausible_pretexts": [
+      "Urgent request for signature on a confidential merger document",
+      "Notification of a legal dispute regarding a client contract",
+      "Invitation to an exclusive, invite-only executive retreat",
+      "Urgent update regarding the company's tax filings"
+    ],
+    "routine_communications": [
+      "Weekly performance reports",
+      "Expense approvals",
+      "Strategic alignment emails",
+      "Client pitch reviews"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0073",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

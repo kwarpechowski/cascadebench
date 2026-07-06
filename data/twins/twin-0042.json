@@ -1,0 +1,192 @@
+{
+  "c1": {
+    "company": "Arcadia Logistics",
+    "department": "Operations & Supply Chain",
+    "industry": "Logistics/Supply-Chain",
+    "responsibilities": [
+      "Overseeing trans-Atlantic shipping lanes",
+      "Optimizing warehouse throughput",
+      "Managing vendor SLAs",
+      "Budgetary oversight for regional distribution centers",
+      "Implementing lean logistics frameworks"
+    ],
+    "role": "Senior Manager of Global Freight Operations",
+    "seniority": "Senior"
+  },
+  "c2": {
+    "coworkers": [
+      "Marek Sokolov",
+      "Stefan Kowalski",
+      "Iris Reuter",
+      "Sophie Schmidt",
+      "Eva Lindholm",
+      "Nina Berger",
+      "Greta Moreau"
+    ],
+    "direct_reports": [
+      "Sophie Schmidt",
+      "Nina Berger"
+    ],
+    "external_contacts": [],
+    "manager": "Marek Sokolov",
+    "recruiters": []
+  },
+  "c3": {
+    "certifications": [
+      "CSCP (Certified Supply Chain Professional)",
+      "PMP (Project Management Professional)"
+    ],
+    "security_awareness": "Moderate; follows corporate policy but tends to prioritize operational speed over strict verification during peak shipping seasons.",
+    "skills": [
+      "Strategic Sourcing",
+      "Six Sigma Green Belt",
+      "Inventory Management",
+      "Cross-border Compliance",
+      "Risk Mitigation"
+    ],
+    "tech_stack": [
+      "SAP S/4HANA",
+      "Microsoft Excel (Advanced)",
+      "Oracle NetSuite",
+      "Tableau",
+      "Microsoft Teams"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "Intermodal Europe",
+      "LogiMAT",
+      "CSCMP Edge"
+    ],
+    "interests": [
+      "Maritime History",
+      "Industrial Automation",
+      "Sailing",
+      "Sustainable Packaging"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "Optimizing Last-Mile Delivery in Urban Hubs (Internal Whitepaper)"
+    ],
+    "recent_posts": [
+      "Discussing the impact of Suez Canal congestion on EU imports",
+      "Sharing a LinkedIn article on AI in warehouse robotics"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "lukas.lindholm@arcadia-logistics.com"
+    ],
+    "phone": "+49-172-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "X (Professional)",
+      "Industry Forums"
+    ],
+    "social_handles": "@LukasLogistics_Pro",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Logistics Budget Review",
+      "Annual Vendor Performance Audit"
+    ],
+    "recent_activity": [
+      "Reviewing new customs documentation for UK-EU trade",
+      "Onboarding new warehouse management software module"
+    ],
+    "recent_role_change": "Promoted to Senior Manager 14 months ago",
+    "travel": "Frequent travel between Hamburg and Rotterdam hubs",
+    "upcoming_events": [
+      "Quarterly Operations Review Meeting",
+      "Logistics Leadership Summit"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.75,
+    "known_triggers": [
+      "Urgent shipping delays",
+      "Compliance failures",
+      "Direct requests from Marek Sokolov",
+      "Budgetary discrepancies"
+    ],
+    "liking": 0.5,
+    "reciprocity": 0.4,
+    "scarcity": 0.6,
+    "social_proof": 0.7
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "Phishing email appearing to be from Marek Sokolov requesting a quick review of a 'confidential' restructuring document",
+      "Fake notification from a customs authority regarding a blocked shipment requiring a login to a portal",
+      "Urgent request from Finance to update banking details for a key logistics partner"
+    ],
+    "likely_senders": [
+      "Marek Sokolov",
+      "Stefan Kowalski",
+      "Iris Reuter",
+      "Corporate Finance Department",
+      "Customs Brokerage Services"
+    ],
+    "plausible_pretexts": [
+      "Urgent update to the Q3 budget spreadsheet",
+      "Notification of a delayed shipment requiring immediate sign-off",
+      "New corporate policy regarding freight insurance",
+      "Meeting invite for an emergency operational review"
+    ],
+    "routine_communications": [
+      "Daily shipment status reports",
+      "Weekly operational syncs",
+      "Budget approval requests"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0042",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

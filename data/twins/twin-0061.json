@@ -1,0 +1,182 @@
+{
+  "c1": {
+    "company": "Brightpath Education",
+    "department": "Academic Content & Pedagogy",
+    "industry": "Education/EdTech",
+    "responsibilities": [
+      "Designing standardized learning modules for K-12",
+      "Reviewing pedagogical alignment with state standards",
+      "Coordinating content updates with subject matter experts",
+      "Managing digital asset libraries for educators"
+    ],
+    "role": "Curriculum Development Specialist",
+    "seniority": "Mid-level"
+  },
+  "c2": {
+    "coworkers": [
+      "Oskar Adamczyk",
+      "Mira Wojcik",
+      "Jonas Sokolov",
+      "Viktor Sokolov",
+      "Eva Wojcik",
+      "Eva Moreau",
+      "Greta Schmidt"
+    ],
+    "direct_reports": [],
+    "external_contacts": [],
+    "manager": "Mira Wojcik",
+    "recruiters": []
+  },
+  "c3": {
+    "certifications": [
+      "Certified Professional in Training and Performance (CPTP)",
+      "Google Certified Educator Level 2"
+    ],
+    "security_awareness": "Moderate; follows basic password hygiene but tends to trust internal-looking emails from management without verifying headers.",
+    "skills": [
+      "Instructional Design",
+      "Curriculum Mapping",
+      "Educational Psychology",
+      "Content Management Systems"
+    ],
+    "tech_stack": [
+      "Canvas LMS",
+      "Microsoft SharePoint",
+      "Articulate Storyline",
+      "Microsoft Teams"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "ISTE Annual Conference",
+      "EdTech Summit 2023"
+    ],
+    "interests": [
+      "Gamification in learning",
+      "Inclusive pedagogy",
+      "Digital literacy",
+      "Urban gardening"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "Integrating Hybrid Models in Secondary Education (Internal Whitepaper)"
+    ],
+    "recent_posts": [
+      "Excited to see the new module on climate literacy go live next month!",
+      "Thinking about the impact of AI on student assessment patterns."
+    ]
+  },
+  "c5": {
+    "emails": [
+      "mira.schmidt@brightpath-edu.org"
+    ],
+    "phone": "+49-151-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "Twitter/X",
+      "ResearchGate"
+    ],
+    "social_handles": "@mira_edu_design",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Curriculum Review Submission",
+      "Finalization of the 'Modern History' module"
+    ],
+    "recent_activity": [
+      "Updating the internal pedagogy handbook",
+      "Onboarding new content freelancers"
+    ],
+    "recent_role_change": "Promoted to Specialist from Junior Designer 14 months ago",
+    "travel": "Local travel to partner schools in the region",
+    "upcoming_events": [
+      "Quarterly Academic Alignment Meeting",
+      "Staff Professional Development Day"
+    ]
+  },
+  "c7": {
+    "authority": 0.75,
+    "commitment": 0.6,
+    "known_triggers": [
+      "Urgent requests from Mira Wojcik",
+      "Compliance updates regarding educational standards",
+      "Feedback on curriculum quality"
+    ],
+    "liking": 0.8,
+    "reciprocity": 0.5,
+    "scarcity": 0.4,
+    "social_proof": 0.6
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "An email from 'Mira Wojcik' requesting a quick review of a 'confidential' payroll or bonus spreadsheet",
+      "A notification about a mandatory security update for the Canvas LMS integration",
+      "A request to sign a new pedagogical compliance agreement via a third-party link"
+    ],
+    "likely_senders": [
+      "Mira Wojcik",
+      "Oskar Adamczyk",
+      "IT Support Desk",
+      "HR Department"
+    ],
+    "plausible_pretexts": [
+      "Urgent revision needed for a state-mandated curriculum deadline",
+      "New employee benefits enrollment for Brightpath staff",
+      "Shared folder access request for the new academic year"
+    ],
+    "routine_communications": [
+      "Weekly content syncs",
+      "Document review requests",
+      "LMS access troubleshooting"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0061",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

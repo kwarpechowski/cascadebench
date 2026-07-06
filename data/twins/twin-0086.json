@@ -1,0 +1,182 @@
+{
+  "c1": {
+    "company": "Sterling Construction",
+    "department": "Project Planning & Cost Estimation",
+    "industry": "Construction/Real Estate",
+    "responsibilities": [
+      "Analyzing material cost fluctuations",
+      "Updating project budget spreadsheets",
+      "Assisting in the preparation of bid documents",
+      "Tracking subcontractor delivery timelines",
+      "Generating weekly resource utilization reports"
+    ],
+    "role": "Junior Analyst",
+    "seniority": "Entry-level"
+  },
+  "c2": {
+    "coworkers": [
+      "Viktor Lindholm",
+      "Sophie Haas",
+      "Jonas Berger",
+      "Eva Brandt",
+      "Nina Adamczyk",
+      "Marta Haas",
+      "Lukas Vogel"
+    ],
+    "direct_reports": [],
+    "external_contacts": [],
+    "manager": "Sophie Haas",
+    "recruiters": []
+  },
+  "c3": {
+    "certifications": [
+      "CAPM (Certified Associate in Project Management)"
+    ],
+    "security_awareness": "Moderate; follows basic corporate guidelines but tends to trust internal communications from management without verification.",
+    "skills": [
+      "Cost Estimation",
+      "Data Entry",
+      "Budget Forecasting",
+      "Technical Documentation"
+    ],
+    "tech_stack": [
+      "Microsoft Excel (Advanced)",
+      "AutoCAD (Basic)",
+      "Procore",
+      "Microsoft Teams",
+      "SAP ERP"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "BuildTech Expo 2023",
+      "Green Building Summit"
+    ],
+    "interests": [
+      "Sustainable Architecture",
+      "Urban Planning",
+      "Modular Housing",
+      "Hiking"
+    ],
+    "oss_projects": [],
+    "publications": [],
+    "recent_posts": [
+      "Excited to start my first major project at Sterling Construction!",
+      "Reading up on the impact of 3D printing in residential construction."
+    ]
+  },
+  "c5": {
+    "emails": [
+      "bartek.marchetti@sterling-build.com"
+    ],
+    "phone": "+49-176-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "Instagram"
+    ],
+    "social_handles": "@b_marchetti_build",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Budget Review",
+      "Subcontractor Audit Report"
+    ],
+    "recent_activity": [
+      "Completed onboarding training",
+      "Submitted first independent cost analysis report"
+    ],
+    "recent_role_change": "Joined Sterling Construction 6 months ago",
+    "travel": "Local site visits to Berlin metropolitan area",
+    "upcoming_events": [
+      "Quarterly Planning Meeting",
+      "Company Team Building Retreat"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.6,
+    "known_triggers": [
+      "Direct requests from Sophie Haas",
+      "Urgent budget corrections",
+      "HR policy updates",
+      "IT system maintenance alerts"
+    ],
+    "liking": 0.7,
+    "reciprocity": 0.5,
+    "scarcity": 0.4,
+    "social_proof": 0.6
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "An email appearing to be from Sophie Haas requesting an immediate wire transfer for a 'critical' supplier",
+      "A fake IT alert claiming his Procore account password has expired",
+      "A phishing link disguised as a new corporate benefit enrollment form"
+    ],
+    "likely_senders": [
+      "Sophie Haas",
+      "IT Support Desk",
+      "HR Department",
+      "Lukas Vogel"
+    ],
+    "plausible_pretexts": [
+      "Urgent request to review a revised budget file",
+      "Mandatory update to the employee handbook",
+      "Notification of a missed time-sheet entry",
+      "Request for a quick signature on a project procurement form"
+    ],
+    "routine_communications": [
+      "Weekly status updates",
+      "Budget spreadsheet revisions",
+      "Meeting invites for project syncs"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0086",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

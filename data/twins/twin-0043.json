@@ -1,0 +1,182 @@
+{
+  "c1": {
+    "company": "Arcadia Logistics",
+    "department": "Trade Compliance & Regulatory Affairs",
+    "industry": "Logistics and Supply Chain",
+    "responsibilities": [
+      "Managing import/export documentation",
+      "Ensuring adherence to EU customs regulations",
+      "Coordinating tariff classifications for freight",
+      "Auditing shipping manifests for compliance errors",
+      "Liaising with port authorities"
+    ],
+    "role": "Customs Compliance Specialist",
+    "seniority": "Mid-level"
+  },
+  "c2": {
+    "coworkers": [
+      "Marek Sokolov",
+      "Lukas Lindholm",
+      "Iris Reuter",
+      "Sophie Schmidt",
+      "Eva Lindholm",
+      "Nina Berger",
+      "Greta Moreau"
+    ],
+    "direct_reports": [],
+    "external_contacts": [],
+    "manager": "Lukas Lindholm",
+    "recruiters": []
+  },
+  "c3": {
+    "certifications": [
+      "Certified Customs Specialist (CCS)",
+      "Lean Six Sigma Green Belt"
+    ],
+    "security_awareness": "Moderate; follows basic corporate password policies but tends to trust internal-looking emails from management without verifying headers.",
+    "skills": [
+      "HS Code Classification",
+      "Customs Valuation",
+      "Supply Chain Risk Management",
+      "Regulatory Auditing"
+    ],
+    "tech_stack": [
+      "SAP Global Trade Services",
+      "Microsoft Excel (Advanced)",
+      "Oracle NetSuite",
+      "Customs Declaration Software"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "Global Logistics Summit 2023",
+      "EU Trade Compliance Forum"
+    ],
+    "interests": [
+      "Maritime history",
+      "Industrial automation",
+      "Hiking",
+      "European trade law"
+    ],
+    "oss_projects": [],
+    "publications": [],
+    "recent_posts": [
+      "Discussion on the impact of new VAT regulations on cross-border shipping",
+      "Sharing a link to a logistics efficiency whitepaper"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "stefan.kowalski@arcadia-logistics.com"
+    ],
+    "phone": "+49-176-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "Xing"
+    ],
+    "social_handles": "@stefan_k_logistics",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Quarterly compliance audit submission",
+      "End-of-month customs reconciliation"
+    ],
+    "recent_activity": [
+      "Updating the internal tariff database",
+      "Reviewing shipping delays in the North Sea corridor"
+    ],
+    "recent_role_change": "Promoted to Specialist 14 months ago",
+    "travel": "Occasional trips to Hamburg and Rotterdam ports",
+    "upcoming_events": [
+      "Internal team alignment meeting with Lukas Lindholm",
+      "Annual Logistics Compliance Workshop"
+    ]
+  },
+  "c7": {
+    "authority": 0.75,
+    "commitment": 0.8,
+    "known_triggers": [
+      "Urgent regulatory deadlines",
+      "Direct requests from Lukas Lindholm",
+      "Compliance failure warnings",
+      "Customs audit notifications"
+    ],
+    "liking": 0.6,
+    "reciprocity": 0.4,
+    "scarcity": 0.6,
+    "social_proof": 0.5
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "Phishing email mimicking a customs authority demanding a PDF review of a fine",
+      "Spoofed email from Lukas Lindholm requesting a quick password change for the SAP GTS portal",
+      "Malicious attachment disguised as a 'New EU Trade Regulation' spreadsheet"
+    ],
+    "likely_senders": [
+      "Lukas Lindholm",
+      "Iris Reuter",
+      "Customs Authorities",
+      "Corporate HR"
+    ],
+    "plausible_pretexts": [
+      "Urgent request to review a 'corrected' customs manifest",
+      "Notification of a pending regulatory audit from a government body",
+      "Request from Lukas Lindholm to sign a new compliance policy document",
+      "Alert regarding a blocked shipment requiring immediate documentation update"
+    ],
+    "routine_communications": [
+      "Weekly status reports on shipment clearances",
+      "Email threads regarding HS code disputes",
+      "Internal coordination on freight documentation"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0043",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

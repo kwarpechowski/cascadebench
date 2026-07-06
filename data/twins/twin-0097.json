@@ -1,0 +1,201 @@
+{
+  "c1": {
+    "company": "Ironclad Security",
+    "department": "Executive Leadership",
+    "industry": "Cybersecurity & Defense",
+    "responsibilities": [
+      "Strategic oversight of defense contract acquisitions",
+      "Managing high-level government relations",
+      "Overseeing corporate risk management",
+      "Final approval on security architecture investments",
+      "Board-level reporting on threat landscapes"
+    ],
+    "role": "Managing Director",
+    "seniority": "Executive"
+  },
+  "c2": {
+    "coworkers": [
+      "Daniel Sundqvist",
+      "Pawel Schmidt",
+      "Eva Vogel",
+      "Marta Lindholm",
+      "Tomas Sundqvist",
+      "Jonas Vogel",
+      "Eva Vogel"
+    ],
+    "direct_reports": [
+      "Daniel Sundqvist",
+      "Marta Lindholm"
+    ],
+    "external_contacts": [
+      "Bartek Reuter",
+      "Stefan Janssen"
+    ],
+    "manager": "",
+    "recruiters": [
+      "Executive Search Global",
+      "Defense Talent Partners"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "CISSP",
+      "CISM",
+      "MBA"
+    ],
+    "security_awareness": "High; well-versed in theoretical threats but prone to 'executive exception' bias when dealing with urgent high-level partners.",
+    "skills": [
+      "Strategic Planning",
+      "Crisis Management",
+      "Regulatory Compliance",
+      "Public-Private Partnerships",
+      "Budgetary Oversight"
+    ],
+    "tech_stack": [
+      "Microsoft 365 Executive Suite",
+      "Salesforce CRM",
+      "BoardEffect",
+      "Secure Communication Channels (Signal/Threema)"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "RSAC",
+      "Black Hat Executive Summit",
+      "World Economic Forum (Cybersecurity Track)"
+    ],
+    "interests": [
+      "Geopolitical stability",
+      "Quantum cryptography",
+      "Sailing",
+      "Philanthropy in STEM"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "The Future of Sovereign Defense (Whitepaper 2023)",
+      "Managing Risk in the Age of AI (Industry Journal)"
+    ],
+    "recent_posts": [
+      "Discussing the impact of zero-trust on government procurement",
+      "Congratulating Ironclad Security on the new Q3 milestone"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "eva.moreau@ironclad-sec.com",
+      "e.moreau.private@protonmail.com"
+    ],
+    "phone": "+49-170-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "X (Twitter)",
+      "Bloomberg Terminal"
+    ],
+    "social_handles": "@EMoreau_Ironclad",
+    "websites": [
+      "ironclad-sec.com"
+    ]
+  },
+  "c6": {
+    "deadlines": [
+      "Annual Strategic Review (End of Month)",
+      "Government Tender Submission (Friday)"
+    ],
+    "recent_activity": [
+      "Negotiating partnership terms with Stefan Janssen",
+      "Reviewing internal audit reports with Pawel Schmidt"
+    ],
+    "recent_role_change": "Promoted to Managing Director 18 months ago",
+    "travel": "Frequent travel between Berlin, Brussels, and Washington D.C.",
+    "upcoming_events": [
+      "Quarterly Board Meeting",
+      "Defense Expo Berlin"
+    ]
+  },
+  "c7": {
+    "authority": 0.95,
+    "commitment": 0.85,
+    "known_triggers": [
+      "Urgent regulatory compliance warnings",
+      "High-level government inquiries",
+      "Confidential partnership leaks",
+      "Board-level discrepancies"
+    ],
+    "liking": 0.6,
+    "reciprocity": 0.4,
+    "scarcity": 0.7,
+    "social_proof": 0.8
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "Spoofed email from Stefan Janssen regarding a 'critical breach' at a partner firm",
+      "Urgent request from a fake government regulator requiring a 'secure' document upload",
+      "Internal 'urgent' request from a coworker like Daniel Sundqvist regarding a board-level emergency"
+    ],
+    "likely_senders": [
+      "Bartek Reuter",
+      "Stefan Janssen",
+      "Marta Lindholm",
+      "Government Procurement Officers"
+    ],
+    "plausible_pretexts": [
+      "Urgent update regarding a government contract tender",
+      "Confidential legal notice regarding a partner dispute",
+      "Request for signature on a high-value NDA",
+      "Invitation to a closed-door security summit"
+    ],
+    "routine_communications": [
+      "Weekly executive syncs",
+      "Quarterly financial approvals",
+      "External partner status updates"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0097",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

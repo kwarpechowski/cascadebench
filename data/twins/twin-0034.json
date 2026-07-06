@@ -1,0 +1,183 @@
+{
+  "c1": {
+    "company": "Greenfield Industries",
+    "department": "Operations & Energy Management",
+    "industry": "Manufacturing/Energy",
+    "responsibilities": [
+      "Overseeing plant efficiency and energy consumption",
+      "Managing cross-functional operational teams",
+      "Implementing Lean Six Sigma methodologies",
+      "Budgeting for facility upgrades",
+      "Ensuring compliance with environmental energy regulations"
+    ],
+    "role": "Senior Manager of Operational Excellence",
+    "seniority": "Senior"
+  },
+  "c2": {
+    "coworkers": [
+      "Sophie Novak",
+      "Sophie Dvorak",
+      "Tomas Marchetti",
+      "Adrian Sundqvist",
+      "Hannah Marchetti",
+      "Greta Dvorak",
+      "Greta Dvorak"
+    ],
+    "direct_reports": [
+      "Plant Supervisors",
+      "Energy Analysts"
+    ],
+    "external_contacts": [],
+    "manager": "Sophie Novak",
+    "recruiters": []
+  },
+  "c3": {
+    "certifications": [
+      "Lean Six Sigma Black Belt",
+      "Certified Energy Manager (CEM)"
+    ],
+    "security_awareness": "Moderate; follows corporate policy but tends to prioritize operational speed over strict verification during high-pressure deadlines.",
+    "skills": [
+      "Strategic Planning",
+      "Energy Auditing",
+      "Supply Chain Optimization",
+      "Risk Management"
+    ],
+    "tech_stack": [
+      "SAP ERP",
+      "Microsoft Project",
+      "Energy Management Software (EMS)",
+      "Advanced Excel"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "Global Energy Summit",
+      "Industrial Efficiency Expo"
+    ],
+    "interests": [
+      "Industrial Automation",
+      "Sustainable Energy",
+      "Mountain Biking",
+      "Corporate Governance"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "Optimizing Thermal Efficiency in Heavy Manufacturing (Internal Whitepaper)"
+    ],
+    "recent_posts": [
+      "Discussing the shift toward hydrogen-based power in manufacturing on LinkedIn"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "adrian.reuter@greenfield-ind.com"
+    ],
+    "phone": "+1-555-012-8843",
+    "platforms": [
+      "LinkedIn",
+      "Industry-specific forums"
+    ],
+    "social_handles": "@a_reuter_ops",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Energy Efficiency Report",
+      "Annual Budget Review for Plant B"
+    ],
+    "recent_activity": [
+      "Reviewing new HVAC installation bids",
+      "Coordinating with Sophie Novak on workforce reallocation"
+    ],
+    "recent_role_change": "Promoted to Senior Manager 14 months ago",
+    "travel": "Frequent visits to regional manufacturing sites",
+    "upcoming_events": [
+      "Quarterly Operations Review Meeting"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.7,
+    "known_triggers": [
+      "Urgent operational failures",
+      "Compliance warnings",
+      "Direct requests from Sophie Novak",
+      "Budgetary discrepancies"
+    ],
+    "liking": 0.6,
+    "reciprocity": 0.4,
+    "scarcity": 0.6,
+    "social_proof": 0.5
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "Phishing email mimicking a regulatory body warning about energy fines",
+      "Spoofed internal email from Sophie Novak requesting a quick sign-off on an urgent vendor payment"
+    ],
+    "likely_senders": [
+      "Sophie Novak",
+      "Tomas Marchetti",
+      "Corporate Compliance Office",
+      "Facility Maintenance Leads"
+    ],
+    "plausible_pretexts": [
+      "Urgent update to the energy compliance handbook",
+      "Request for immediate review of a facility safety audit",
+      "Confidential budget adjustment from Sophie Novak"
+    ],
+    "routine_communications": [
+      "Weekly status updates",
+      "Budget approval requests",
+      "Energy consumption reports"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0034",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

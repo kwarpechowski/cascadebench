@@ -1,0 +1,72 @@
+\section{Motivation and significance}
+\label{sec:intro}
+
+Mass phishing is, for practical purposes, a solved filtering problem: modern email security
+intercepts the overwhelming majority of bulk campaigns. The residual, disproportionately
+costly threat is \emph{targeted}---spear phishing, business email compromise (BEC), and
+lateral phishing sent from an already-compromised internal account
+\cite{ho2019detecting,cidon2019high,apwg2024trends}. These messages are hard precisely
+because they are \emph{contextually legitimate}: the sender is a plausible or genuine
+contact, the timing is unremarkable, and the request often continues a real thread. They
+carry no malware and little lexical anomaly, so content-only classifiers degrade toward
+chance on exactly the cases that inflict the largest losses.
+
+A natural response is to stop looking only at the message and start looking at the
+\emph{relations} around it. If one models an organization's communication as a graph---who
+talks to whom, when, and through which channel---then a targeted attack becomes a structural
+or temporal irregularity: an edge that should not exist, a sender whose neighbourhood
+behaviour shifts, a burst that violates the local rhythm. This intuition has driven a decade
+of work, from account-compromise heuristics \cite{egele2013compa,stringhini2015thataint}
+and lateral-phishing feature models \cite{ho2019detecting} to graph neural networks (GNNs)
+\cite{kipf2017semisupervised,hamilton2017inductive} adapted from fraud and anomaly detection
+\cite{dou2020enhancing,ma2021comprehensive}.
+
+\paragraph{The problem: evaluation, not models.} What the field lacks is not another model
+but a way to \emph{believe} the numbers. Real lateral-phishing corpora are proprietary,
+small, and saturated with confounders. Attacker events systematically differ from benign
+events in send-time rhythm (off-hours activity), sender degree (unusual recipient sets),
+volume, and identity (a few repeated malicious senders). A detector can therefore achieve a
+high score by keying on these artefacts rather than on the mechanism of the attack---and
+such a detector fails on a new tenant or after the attacker adapts. This is the security-ML
+measurement trap documented broadly by \citet{arp2022dos} and quantified for temporal drift
+by \citet{pendlebury2019tesseract}. In the graph setting the risk is acute: node degree and
+timing are exactly the features a GNN will happily overfit. No open, reusable testbed today
+offers, simultaneously, (i) ground-truth labels, (ii) a controllable \emph{adaptive}
+attacker, and (iii) explicit leakage controls. As a result, published results are point AUCs
+on incomparable private data, and it is impossible to tell mechanism from confounder.
+
+\paragraph{Contributions.} We address this with \tool, an installable, extensible toolkit
+for adversarial, leakage-controlled evaluation of graph-based phishing and lateral-movement
+detectors. Concretely:
+
+\begin{itemize}[leftmargin=1.4em,itemsep=2pt]
+\item \textbf{A controllable testbed} coupling three graph sources (a procedural
+  organization model, SNAP email networks \cite{leskovec2014snap}, and the Enron corpus
+  \cite{klimt2004enron}) with a programmable \emph{cascade} attacker whose reach/evasion
+  trade-off is a small set of parameters, producing scenarios with per-event ground truth
+  (Section~\ref{sec:method}).
+\item \textbf{A leak-aware evaluation protocol}---benign traffic matched by design to the
+  attack's endpoint and degree distribution, victim-disjoint splits, a time-shuffle
+  causality control, and operational Recall@low-FPR metrics---that separates the attack
+  mechanism from the four confounders above (Section~\ref{sec:method}).
+\item \textbf{A detector panel behind one interface}, spanning tabular baselines,
+  account-compromise heuristics, an anomaly forest, and static/temporal GNNs, so that
+  heterogeneous methods are compared on identical, audited footing.
+\item \textbf{An automatic red/blue arms-race} that co-searches attack and defense spaces to
+  produce robustness frontiers rather than single-point scores.
+\item \textbf{An open, GDPR-free artefact}: the synthetic population contains no personal
+  data, and all experiments reproduce offline from bundled result files.
+\end{itemize}
+
+\paragraph{Analyses the tool supports.} \tool operationalizes analyses that closed corpora
+cannot, which the authors' companion studies on graph-based spear-phishing detection (in
+preparation) rely on: \textbf{(A1)} which graph structures carry signal for which attack type;
+\textbf{(A2)} whether a detector's advantage survives a time-shuffle---mechanism or leakage;
+\textbf{(A3)} how detection degrades as an attacker trades reach for evasion; and
+\textbf{(A4)} whether a detector's robustness transfers across conditions. This paper describes
+the \emph{software} that makes such analyses reproducible; the corresponding scientific results
+and their interpretation are reported separately. Section~\ref{sec:related} positions the tool
+against detection methods and evaluation critiques; Section~\ref{sec:method} describes the
+software; Section~\ref{sec:results} gives illustrative examples;
+Section~\ref{sec:discussion} details impact and limitations;
+Section~\ref{sec:conclusion} concludes.

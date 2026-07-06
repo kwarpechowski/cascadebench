@@ -1,0 +1,202 @@
+{
+  "c1": {
+    "company": "Sterling Construction",
+    "department": "Executive Board",
+    "industry": "Construction and Real Estate",
+    "responsibilities": [
+      "Strategic oversight of large-scale urban development projects",
+      "Budget approval and financial risk management",
+      "High-level stakeholder and government relations",
+      "Company-wide operational leadership",
+      "Final approval on subcontractor contracts"
+    ],
+    "role": "Managing Director",
+    "seniority": "Executive"
+  },
+  "c2": {
+    "coworkers": [
+      "Sophie Haas",
+      "Jonas Berger",
+      "Eva Brandt",
+      "Nina Adamczyk",
+      "Bartek Marchetti",
+      "Marta Haas",
+      "Lukas Vogel"
+    ],
+    "direct_reports": [
+      "Sophie Haas",
+      "Jonas Berger",
+      "Eva Brandt"
+    ],
+    "external_contacts": [
+      "Felix Novak",
+      "Bartek Reuter"
+    ],
+    "manager": "",
+    "recruiters": [
+      "Executive Search Global",
+      "Prime Talent Partners"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "PMP (Project Management Professional)",
+      "MBA in Real Estate Development"
+    ],
+    "security_awareness": "Moderate; understands basic phishing but tends to bypass protocols for speed and convenience due to high-pressure role.",
+    "skills": [
+      "Strategic Planning",
+      "Project Finance",
+      "Contract Negotiation",
+      "Crisis Management",
+      "Urban Planning Law"
+    ],
+    "tech_stack": [
+      "Microsoft 365",
+      "AutoCAD Viewer",
+      "SAP ERP",
+      "Procore",
+      "Zoom"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "World Urban Forum",
+      "International Real Estate Investment Summit"
+    ],
+    "interests": [
+      "Sustainable Architecture",
+      "Yachting",
+      "Classical Music",
+      "Investment Portfolios"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "The Future of Green Concrete (Industry Whitepaper)"
+    ],
+    "recent_posts": [
+      "Excited to announce the groundbreaking of the North Harbor project.",
+      "Sustainability is no longer an option, it is a requirement for modern cityscapes."
+    ]
+  },
+  "c5": {
+    "emails": [
+      "viktor.lindholm@sterling-build.com",
+      "v.lindholm.private@protonmail.com"
+    ],
+    "phone": "+49-172-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "X (Twitter)",
+      "Industry-specific forums"
+    ],
+    "social_handles": "@VLindholm_Sterling",
+    "websites": [
+      "sterling-build.com"
+    ]
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Financial Audit",
+      "North Harbor Zoning Permit Submission"
+    ],
+    "recent_activity": [
+      "Negotiating a new partnership with Felix Novak",
+      "Reviewing quarterly overhead reports with Nina Adamczyk"
+    ],
+    "recent_role_change": "Promoted to Managing Director 18 months ago",
+    "travel": "Frequent travel between Berlin, Munich, and London",
+    "upcoming_events": [
+      "Annual Shareholders Meeting",
+      "Berlin Construction Expo"
+    ]
+  },
+  "c7": {
+    "authority": 0.95,
+    "commitment": 0.8,
+    "known_triggers": [
+      "Urgent financial discrepancies",
+      "Legal threats regarding zoning",
+      "High-value investment opportunities",
+      "Direct requests from board members"
+    ],
+    "liking": 0.5,
+    "reciprocity": 0.4,
+    "scarcity": 0.7,
+    "social_proof": 0.6
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "CEO-fraud style request for an urgent wire transfer to a new vendor",
+      "Phishing link disguised as a secure document from the City Planning Office",
+      "Credential harvesting via a fake 'Executive Board' login portal"
+    ],
+    "likely_senders": [
+      "Sophie Haas",
+      "Felix Novak",
+      "Bartek Reuter",
+      "City Planning Office",
+      "Corporate Legal Counsel"
+    ],
+    "plausible_pretexts": [
+      "Urgent revision needed for the North Harbor contract",
+      "Confidential investment proposal from a new partner",
+      "Notification of a regulatory compliance audit",
+      "Invoice discrepancy from a major subcontractor"
+    ],
+    "routine_communications": [
+      "Weekly project status updates",
+      "Budget approval requests",
+      "External partner coordination",
+      "Board meeting agendas"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0081",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

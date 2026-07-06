@@ -1,0 +1,191 @@
+{
+  "c1": {
+    "company": "Zephyr Airlines Services",
+    "department": "Operations & Logistics",
+    "industry": "Aviation/Travel",
+    "responsibilities": [
+      "Overseeing turnaround efficiency at hub airports",
+      "Managing ground handling vendor contracts",
+      "Optimizing crew scheduling and resource allocation",
+      "Ensuring compliance with aviation safety regulations",
+      "Budgetary oversight for ground support equipment"
+    ],
+    "role": "Senior Manager of Ground Operations",
+    "seniority": "Senior"
+  },
+  "c2": {
+    "coworkers": [
+      "Viktor Kowalski",
+      "Stefan Lindqvist",
+      "Julia Lindqvist",
+      "Stefan Wojcik",
+      "Oskar Adamczyk",
+      "Stefan Vogel",
+      "Bartek Berger"
+    ],
+    "direct_reports": [
+      "Shift Supervisors",
+      "Logistics Coordinators"
+    ],
+    "external_contacts": [],
+    "manager": "Viktor Kowalski",
+    "recruiters": [
+      "Global Aviation Talent",
+      "SkyHire Executive Search"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "IATA Ground Operations Certification",
+      "PMP (Project Management Professional)"
+    ],
+    "security_awareness": "Moderate; follows corporate policy but tends to prioritize operational speed over strict verification during peak travel seasons.",
+    "skills": [
+      "Fleet Logistics",
+      "Crisis Management",
+      "Lean Six Sigma",
+      "Resource Planning",
+      "Vendor Management"
+    ],
+    "tech_stack": [
+      "SAP ERP",
+      "Amadeus Altea",
+      "Microsoft Teams",
+      "Excel (Advanced)",
+      "FlightAware"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "World Airport Expo",
+      "IATA Annual General Meeting"
+    ],
+    "interests": [
+      "Aviation History",
+      "Sailing",
+      "Industrial Architecture",
+      "Wine Tasting"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "Optimizing Turnaround Times in Mid-Sized Hubs (Internal Whitepaper)"
+    ],
+    "recent_posts": [
+      "Discussing the impact of sustainable aviation fuel on ground logistics",
+      "Sharing insights on winter weather preparedness for tarmac operations"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "bartek.marchetti@zephyr-air.com"
+    ],
+    "phone": "+48-500-123-456",
+    "platforms": [
+      "LinkedIn",
+      "Industry-specific forums"
+    ],
+    "social_handles": "@b_marchetti_ops",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Operational Budget Submission",
+      "Annual Safety Audit Report"
+    ],
+    "recent_activity": [
+      "Negotiating new contract terms for baggage handling",
+      "Implementing new digital check-in kiosks"
+    ],
+    "recent_role_change": "Promoted to Senior Manager 14 months ago",
+    "travel": "Frequent travel between regional hubs and corporate HQ",
+    "upcoming_events": [
+      "Quarterly Operations Review",
+      "Ground Staff Training Seminar"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.75,
+    "known_triggers": [
+      "Operational delays",
+      "Regulatory non-compliance",
+      "Direct requests from Viktor Kowalski",
+      "Urgent safety alerts"
+    ],
+    "liking": 0.5,
+    "reciprocity": 0.4,
+    "scarcity": 0.6,
+    "social_proof": 0.7
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "Phishing email appearing to be from Viktor Kowalski requesting an urgent file review during a flight delay",
+      "Fake notification from a regulatory body regarding a safety violation requiring immediate login to a portal"
+    ],
+    "likely_senders": [
+      "Viktor Kowalski",
+      "Corporate Compliance Office",
+      "Airport Authority",
+      "HR Department"
+    ],
+    "plausible_pretexts": [
+      "Urgent update to ground safety protocols",
+      "Discrepancy in the Q3 budget spreadsheet",
+      "Mandatory aviation regulatory training deadline",
+      "Flight schedule emergency adjustment"
+    ],
+    "routine_communications": [
+      "Daily turnaround reports",
+      "Weekly staffing updates",
+      "Budgetary approvals"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0114",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

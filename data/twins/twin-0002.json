@@ -1,0 +1,200 @@
+{
+  "c1": {
+    "company": "Northwind Capital Partners",
+    "department": "Asset Management & Portfolio Strategy",
+    "industry": "Finance/Banking",
+    "responsibilities": [
+      "Overseeing high-net-worth portfolio allocations",
+      "Quarterly risk assessment reporting",
+      "Managing senior analyst workflows",
+      "Strategic planning for European market expansion",
+      "Compliance oversight for ESG investment mandates"
+    ],
+    "role": "Senior Manager",
+    "seniority": "Senior"
+  },
+  "c2": {
+    "coworkers": [
+      "Oskar Moreau",
+      "Iris Sundqvist",
+      "Anna Novak",
+      "Felix Marchetti",
+      "Marek Berger",
+      "Greta Lindholm",
+      "Oskar Vogel"
+    ],
+    "direct_reports": [
+      "Anna Novak",
+      "Marek Berger"
+    ],
+    "external_contacts": [],
+    "manager": "Oskar Moreau",
+    "recruiters": [
+      "Headhunter_GlobalFinance_X",
+      "EliteExecSearch_London"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "CFA (Chartered Financial Analyst)",
+      "FRM (Financial Risk Manager)"
+    ],
+    "security_awareness": "Moderate; follows corporate policy but tends to prioritize speed and efficiency over strict verification when dealing with internal management.",
+    "skills": [
+      "Quantitative Analysis",
+      "Portfolio Optimization",
+      "Regulatory Compliance",
+      "Stakeholder Management",
+      "Financial Modeling"
+    ],
+    "tech_stack": [
+      "Bloomberg Terminal",
+      "Microsoft Excel (Advanced/VBA)",
+      "Reuters Eikon",
+      "SAP Financials",
+      "Microsoft Teams"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "World Economic Forum (Attendee)",
+      "European Banking Summit",
+      "Global Asset Management Forum"
+    ],
+    "interests": [
+      "Classical Architecture",
+      "Sailing",
+      "Macroeconomic Theory",
+      "Vintage Watches"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "The Shift in ESG Valuation (Internal Whitepaper)",
+      "Liquidity Trends in Emerging Markets (Industry Journal)"
+    ],
+    "recent_posts": [
+      "Analysis of the latest ECB interest rate decision",
+      "Thoughts on the integration of AI in risk modeling"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "felix.vogel@northwind-capital.com",
+      "f.vogel.private@protonmail.com"
+    ],
+    "phone": "+49-172-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "X (Twitter)",
+      "Bloomberg Professional"
+    ],
+    "social_handles": "@FVogel_Finance",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Portfolio Performance Review",
+      "Annual Compliance Audit Submission",
+      "Year-end Bonus Allocation Review"
+    ],
+    "recent_activity": [
+      "Reviewing new risk mitigation protocols",
+      "Onboarding new junior analysts",
+      "Updating the internal asset allocation framework"
+    ],
+    "recent_role_change": "Promoted to Senior Manager 14 months ago",
+    "travel": "Frequent travel between Frankfurt, London, and Zurich",
+    "upcoming_events": [
+      "Quarterly Board Meeting",
+      "Northwind Annual Retreat"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.75,
+    "known_triggers": [
+      "Urgent requests from Oskar Moreau",
+      "Compliance warnings",
+      "High-stakes financial deadlines",
+      "Executive-level directives"
+    ],
+    "liking": 0.5,
+    "reciprocity": 0.4,
+    "scarcity": 0.6,
+    "social_proof": 0.7
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "An 'urgent' email from Oskar Moreau requesting a quick review of a sensitive document while Felix is traveling",
+      "A notification from the Compliance Office regarding a discrepancy in a recent filing",
+      "An invitation to a restricted executive-only webinar on market volatility"
+    ],
+    "likely_senders": [
+      "Oskar Moreau",
+      "Iris Sundqvist",
+      "HR Department",
+      "Compliance Office",
+      "IT Support"
+    ],
+    "plausible_pretexts": [
+      "Urgent update to the Q3 reporting template",
+      "Confidential performance review document from Oskar Moreau",
+      "Mandatory compliance training deadline",
+      "Updated internal policy on remote work expenses"
+    ],
+    "routine_communications": [
+      "Weekly portfolio status updates",
+      "Approval requests for trade executions",
+      "Internal strategy memos",
+      "Compliance sign-offs"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0002",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

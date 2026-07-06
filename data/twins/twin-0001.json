@@ -1,0 +1,201 @@
+{
+  "c1": {
+    "company": "Northwind Capital Partners",
+    "department": "Executive Board / Asset Management",
+    "industry": "Finance/Banking",
+    "responsibilities": [
+      "Strategic oversight of the private equity portfolio",
+      "High-level investor relations and capital raising",
+      "Final approval on large-scale acquisitions",
+      "Regulatory compliance and risk management oversight",
+      "Managing the firm's long-term growth strategy"
+    ],
+    "role": "Managing Director",
+    "seniority": "Executive"
+  },
+  "c2": {
+    "coworkers": [
+      "Felix Vogel",
+      "Iris Sundqvist",
+      "Anna Novak",
+      "Felix Marchetti",
+      "Marek Berger",
+      "Greta Lindholm",
+      "Oskar Vogel"
+    ],
+    "direct_reports": [
+      "Felix Vogel",
+      "Iris Sundqvist",
+      "Marek Berger"
+    ],
+    "external_contacts": [
+      "Marta Keller",
+      "Tomas Haas"
+    ],
+    "manager": "",
+    "recruiters": [
+      "Executive Search Global",
+      "HedgeFund Talent Partners"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "CFA (Chartered Financial Analyst)",
+      "MBA from INSEAD"
+    ],
+    "security_awareness": "Moderate; understands high-level risks but often bypasses strict protocols for the sake of speed and efficiency in high-stakes deals.",
+    "skills": [
+      "Portfolio Management",
+      "Corporate Finance",
+      "Mergers & Acquisitions",
+      "Strategic Planning",
+      "Risk Mitigation"
+    ],
+    "tech_stack": [
+      "Bloomberg Terminal",
+      "Microsoft 365",
+      "Salesforce CRM",
+      "Reuters Eikon"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "World Economic Forum",
+      "Milken Institute Global Conference",
+      "International Monetary Fund Annual Meetings"
+    ],
+    "interests": [
+      "Philanthropy",
+      "Vintage Watch Collecting",
+      "Sailing",
+      "Macroeconomics"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "The Future of Private Equity in Emerging Markets (Whitepaper)"
+    ],
+    "recent_posts": [
+      "Analysis of current interest rate trends on mid-cap valuations",
+      "Thoughts on the shift toward sustainable investing in the EU"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "oskar.moreau@northwind-capital.com",
+      "o.moreau.private@protonmail.com"
+    ],
+    "phone": "+44 20 7946 0123",
+    "platforms": [
+      "LinkedIn",
+      "X (Twitter)",
+      "Bloomberg"
+    ],
+    "social_handles": "@OMoreau_Northwind",
+    "websites": [
+      "northwind-capital.com"
+    ]
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Portfolio Review",
+      "Annual Shareholder Meeting",
+      "Tax Filing Deadline for Fund B"
+    ],
+    "recent_activity": [
+      "Closing a $200M acquisition in the fintech sector",
+      "Restructuring the internal risk committee"
+    ],
+    "recent_role_change": "Promoted to Managing Director 18 months ago",
+    "travel": "Frequent travel between London, Zurich, and New York",
+    "upcoming_events": [
+      "Zurich Finance Summit",
+      "Board Meeting with External Partners"
+    ]
+  },
+  "c7": {
+    "authority": 0.95,
+    "commitment": 0.85,
+    "known_triggers": [
+      "Urgent regulatory requests",
+      "High-value investment opportunities",
+      "Confidential board communications",
+      "Reputational risk alerts"
+    ],
+    "liking": 0.6,
+    "reciprocity": 0.4,
+    "scarcity": 0.7,
+    "social_proof": 0.8
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "CEO fraud/Business Email Compromise (BEC) targeting his authority to move funds",
+      "Spear-phishing via a fake 'Confidential' board document link",
+      "Credential harvesting via a fake Bloomberg Terminal login page"
+    ],
+    "likely_senders": [
+      "Marta Keller",
+      "Sophie Novak",
+      "Iris Sundqvist",
+      "Regulatory bodies (FCA/SEC)"
+    ],
+    "plausible_pretexts": [
+      "Urgent request for signature on a confidential acquisition agreement",
+      "Notification of a regulatory audit requiring immediate document submission",
+      "Invitation to an exclusive, high-net-worth investment circle",
+      "Urgent update regarding a legal dispute with a portfolio company"
+    ],
+    "routine_communications": [
+      "Weekly portfolio performance reports",
+      "Quarterly investor updates",
+      "Internal strategy memos"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0001",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

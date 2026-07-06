@@ -1,0 +1,178 @@
+{
+  "c1": {
+    "company": "Continental Foods",
+    "department": "Logistics and Procurement",
+    "industry": "Food and Agriculture",
+    "responsibilities": [
+      "Monitoring grain shipment schedules",
+      "Updating inventory spreadsheets",
+      "Analyzing vendor pricing trends",
+      "Coordinating with warehouse managers",
+      "Preparing weekly procurement reports"
+    ],
+    "role": "Junior Supply Chain Analyst",
+    "seniority": "Junior"
+  },
+  "c2": {
+    "coworkers": [
+      "Stefan Janssen",
+      "Felix Marchetti",
+      "Daniel Keller",
+      "Nina Dvorak",
+      "Tomas Marchetti",
+      "Lena Schmidt",
+      "Anna Janssen"
+    ],
+    "direct_reports": [],
+    "external_contacts": [],
+    "manager": "Felix Marchetti",
+    "recruiters": []
+  },
+  "c3": {
+    "certifications": [
+      "Excel Specialist Certification"
+    ],
+    "security_awareness": "Basic; has completed mandatory annual corporate training but tends to trust internal-looking emails without verifying headers.",
+    "skills": [
+      "Data Entry",
+      "Pivot Tables",
+      "Supply Chain Optimization",
+      "Inventory Management"
+    ],
+    "tech_stack": [
+      "Microsoft Excel",
+      "SAP ERP",
+      "Microsoft Outlook",
+      "Microsoft Teams"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "AgriTech Expo 2023"
+    ],
+    "interests": [
+      "Sustainable farming",
+      "Agricultural technology",
+      "Hiking",
+      "European gastronomy"
+    ],
+    "oss_projects": [],
+    "publications": [],
+    "recent_posts": [
+      "Excited to start my journey at Continental Foods!",
+      "Interesting read on the impact of drought on wheat yields."
+    ]
+  },
+  "c5": {
+    "emails": [
+      "adrian.schmidt@continental-foods.com"
+    ],
+    "phone": "+49-176-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "X"
+    ],
+    "social_handles": "@adrian_schmidt_agri",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Quarterly procurement audit",
+      "Monthly inventory reconciliation"
+    ],
+    "recent_activity": [
+      "Onboarding completion",
+      "First quarterly report submission"
+    ],
+    "recent_role_change": "Joined Continental Foods 4 months ago",
+    "travel": "None planned",
+    "upcoming_events": [
+      "Internal Logistics Workshop"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.6,
+    "known_triggers": [
+      "Direct requests from Felix Marchetti",
+      "Urgent requests regarding shipment errors",
+      "HR policy updates",
+      "IT system maintenance alerts"
+    ],
+    "liking": 0.7,
+    "reciprocity": 0.5,
+    "scarcity": 0.4,
+    "social_proof": 0.6
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "An email appearing to be from Felix Marchetti requesting an immediate file review during a deadline",
+      "A fake IT notification requiring a login to avoid account lockout during the quarterly audit"
+    ],
+    "likely_senders": [
+      "Felix Marchetti",
+      "HR Department",
+      "IT Support",
+      "Nina Dvorak"
+    ],
+    "plausible_pretexts": [
+      "Urgent correction needed in the procurement spreadsheet",
+      "Mandatory update to the employee handbook",
+      "Password expiration notice for SAP ERP",
+      "Request for feedback on a new logistics workflow"
+    ],
+    "routine_communications": [
+      "Daily shipment updates",
+      "Weekly status reports to Felix",
+      "Inventory syncs with Daniel Keller"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0112",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

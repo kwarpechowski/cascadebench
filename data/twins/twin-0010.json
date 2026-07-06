@@ -1,0 +1,193 @@
+{
+  "c1": {
+    "company": "Meridian Health Group",
+    "department": "Operations & Quality Assurance",
+    "industry": "Healthcare",
+    "responsibilities": [
+      "Overseeing patient flow optimization across regional clinics",
+      "Managing compliance with healthcare regulatory standards",
+      "Budgetary oversight for clinical staffing",
+      "Implementing new electronic health record (EHR) workflows",
+      "Coordinating between medical staff and administrative leadership"
+    ],
+    "role": "Senior Manager of Clinical Operations",
+    "seniority": "Senior"
+  },
+  "c2": {
+    "coworkers": [
+      "Marta Keller",
+      "Marta Reuter",
+      "Pawel Lindholm",
+      "Pawel Falk",
+      "Lena Vogel",
+      "Pawel Dvorak",
+      "Mira Moreau"
+    ],
+    "direct_reports": [
+      "Clinical Lead A",
+      "Operations Coordinator B"
+    ],
+    "external_contacts": [],
+    "manager": "Marta Keller",
+    "recruiters": [
+      "HealthExec Search",
+      "MedTalent Global"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "FACHE (Fellow of the American College of Healthcare Executives)",
+      "PMP (Project Management Professional)"
+    ],
+    "security_awareness": "Moderate; follows corporate policy but tends to prioritize operational urgency over cautious link-checking during peak hours.",
+    "skills": [
+      "Healthcare Administration",
+      "Lean Six Sigma",
+      "Strategic Planning",
+      "Regulatory Compliance",
+      "Resource Allocation"
+    ],
+    "tech_stack": [
+      "Epic EHR",
+      "Microsoft Teams",
+      "Workday",
+      "Tableau",
+      "Microsoft Outlook"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "HIMSS Global Health Conference",
+      "Healthcare Financial Management Association (HFMA) Annual"
+    ],
+    "interests": [
+      "Telemedicine trends",
+      "Patient-centric care models",
+      "Medical ethics",
+      "Hiking",
+      "Classical music"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "Optimizing Patient Throughput in Mid-Sized Health Groups (Internal Whitepaper)"
+    ],
+    "recent_posts": [
+      "Discussing the impact of AI on clinical triage on LinkedIn",
+      "Sharing an article on nurse retention strategies"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "iris.janssen@meridian-health.org"
+    ],
+    "phone": "+1-555-012-8843",
+    "platforms": [
+      "LinkedIn",
+      "ResearchGate"
+    ],
+    "social_handles": "@ijanssen_health_ops",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Quarterly Compliance Audit - End of Month",
+      "Annual Budget Submission - Friday"
+    ],
+    "recent_activity": [
+      "Reviewing new staffing contracts",
+      "Updating the clinical safety protocol manual"
+    ],
+    "recent_role_change": "Promoted to Senior Manager 14 months ago",
+    "travel": "Upcoming trip to the satellite clinic in Boston",
+    "upcoming_events": [
+      "Regional Directors Summit",
+      "Quarterly Performance Review with Marta Keller"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.75,
+    "known_triggers": [
+      "Urgent compliance warnings",
+      "Direct requests from Marta Keller",
+      "Patient safety alerts",
+      "Budgetary discrepancies"
+    ],
+    "liking": 0.5,
+    "reciprocity": 0.4,
+    "scarcity": 0.6,
+    "social_proof": 0.7
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "An email appearing to be from Marta Keller requesting an immediate review of a 'confidential' staffing spreadsheet",
+      "A fake IT alert claiming her EHR access will be revoked unless she re-authenticates",
+      "A simulated regulatory notice regarding a HIPAA violation in her sector"
+    ],
+    "likely_senders": [
+      "Marta Keller",
+      "HR Department",
+      "Compliance Office",
+      "IT Support Desk"
+    ],
+    "plausible_pretexts": [
+      "Urgent update to the employee handbook",
+      "Required signature for a regulatory compliance document",
+      "Notification of a budget overage in her department",
+      "Meeting invite for an emergency clinical review"
+    ],
+    "routine_communications": [
+      "Weekly operational status reports",
+      "Staffing schedule approvals",
+      "Budgetary updates"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0010",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

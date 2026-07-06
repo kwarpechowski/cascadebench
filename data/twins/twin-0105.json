@@ -1,0 +1,204 @@
+{
+  "c1": {
+    "company": "Continental Foods",
+    "department": "Executive Board",
+    "industry": "Food & Agriculture",
+    "responsibilities": [
+      "Strategic oversight of European supply chain operations",
+      "Quarterly financial reporting to shareholders",
+      "High-level partnership negotiations with agricultural cooperatives",
+      "Approval of capital expenditure for processing plant upgrades",
+      "Corporate governance and regulatory compliance"
+    ],
+    "role": "Managing Director",
+    "seniority": "Executive"
+  },
+  "c2": {
+    "coworkers": [
+      "Felix Marchetti",
+      "Daniel Keller",
+      "Nina Dvorak",
+      "Tomas Marchetti",
+      "Lena Schmidt",
+      "Anna Janssen",
+      "Adrian Schmidt"
+    ],
+    "direct_reports": [
+      "Felix Marchetti",
+      "Nina Dvorak",
+      "Lena Schmidt"
+    ],
+    "external_contacts": [
+      "Eva Moreau",
+      "Viktor Kowalski"
+    ],
+    "manager": "",
+    "recruiters": [
+      "Executive Search Global",
+      "AgriTalent Partners"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "MBA - INSEAD",
+      "Certified Supply Chain Professional (CSCP)"
+    ],
+    "security_awareness": "Moderate; understands corporate policy but often bypasses strict protocols for the sake of efficiency and speed in executive decision-making.",
+    "skills": [
+      "Strategic Planning",
+      "P&L Management",
+      "Agricultural Economics",
+      "Crisis Management",
+      "Stakeholder Relations"
+    ],
+    "tech_stack": [
+      "Microsoft 365",
+      "SAP S/4HANA",
+      "Salesforce",
+      "Zoom",
+      "BoardEffect"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "World Food Prize Forum",
+      "European Agri-Tech Summit",
+      "Davos World Economic Forum"
+    ],
+    "interests": [
+      "Sustainable Farming",
+      "Vintage Wine Collecting",
+      "Macroeconomics",
+      "Sailing"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "The Future of Grain Logistics in the EU (2022)",
+      "Sustainable Sourcing in the Modern Era (Industry Whitepaper)"
+    ],
+    "recent_posts": [
+      "Discussing the impact of climate volatility on wheat yields in Central Europe",
+      "Congratulating the team on the Q3 sustainability milestones"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "stefan.janssen@continental-foods.com",
+      "s.janssen.private@gmail.com"
+    ],
+    "phone": "+49-172-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "X (Twitter)",
+      "Clubhouse"
+    ],
+    "social_handles": "@S_Janssen_CF",
+    "websites": [
+      "continental-foods.com/leadership"
+    ]
+  },
+  "c6": {
+    "deadlines": [
+      "Annual Fiscal Audit - End of Month",
+      "Sustainability Report Submission - Oct 15"
+    ],
+    "recent_activity": [
+      "Negotiating a new procurement contract with Polish grain suppliers",
+      "Reviewing the 2025 digital transformation roadmap"
+    ],
+    "recent_role_change": "Promoted to Managing Director 18 months ago",
+    "travel": "Frequent travel between Hamburg, Brussels, and Warsaw",
+    "upcoming_events": [
+      "Board of Directors Meeting",
+      "Agri-Tech Expo Berlin"
+    ]
+  },
+  "c7": {
+    "authority": 0.95,
+    "commitment": 0.8,
+    "known_triggers": [
+      "Urgent regulatory compliance warnings",
+      "High-value contract discrepancies",
+      "Shareholder dissatisfaction",
+      "Direct appeals from trusted external partners"
+    ],
+    "liking": 0.5,
+    "reciprocity": 0.4,
+    "scarcity": 0.6,
+    "social_proof": 0.7
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "CEO-fraud style requests for urgent wire transfers to secure a time-sensitive acquisition",
+      "Phishing via a fake 'Secure Document' link from a regulatory body (e.g., EFSA)",
+      "Credential harvesting via a fake 'Board Portal' login page"
+    ],
+    "likely_senders": [
+      "Eva Moreau",
+      "Viktor Kowalski",
+      "Felix Marchetti",
+      "External Legal Counsel",
+      "Tax Auditors"
+    ],
+    "plausible_pretexts": [
+      "Urgent update to the shareholder agreement",
+      "Confidential legal notice regarding land acquisition",
+      "Invoice discrepancy from a key external partner",
+      "Invitation to an exclusive industry roundtable"
+    ],
+    "routine_communications": [
+      "Weekly executive summaries",
+      "Approval requests for procurement",
+      "Quarterly budget reviews",
+      "Strategic alignment emails"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0105",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "c1": {
+    "company": "Vantage Retail Group",
+    "department": "Business Intelligence & Strategy",
+    "industry": "Retail/E-commerce",
+    "responsibilities": [
+      "Tracking competitor pricing trends",
+      "Preparing weekly sales performance dashboards",
+      "Analyzing consumer behavior patterns in the DACH region",
+      "Supporting senior analysts with data cleaning and validation"
+    ],
+    "role": "Junior Market Analyst",
+    "seniority": "Entry-level"
+  },
+  "c2": {
+    "coworkers": [
+      "Marek Adamczyk",
+      "Lena Brandt",
+      "Tomas Haas",
+      "Nina Lindholm",
+      "Lukas Berger",
+      "Oskar Falk",
+      "Lena Wojcik"
+    ],
+    "direct_reports": [],
+    "external_contacts": [],
+    "manager": "Lena Brandt",
+    "recruiters": [
+      "TalentScout Global",
+      "RetailCareer Partners"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "Google Data Analytics Professional Certificate",
+      "Microsoft Certified: Power BI Data Analyst Associate"
+    ],
+    "security_awareness": "Moderate; follows basic corporate guidelines but tends to trust internal-looking communications from management without verifying headers.",
+    "skills": [
+      "Data Visualization",
+      "Market Research",
+      "Excel Pivot Tables",
+      "SQL Basics",
+      "Trend Forecasting"
+    ],
+    "tech_stack": [
+      "Microsoft Excel",
+      "Power BI",
+      "Tableau",
+      "SQL Server",
+      "Slack",
+      "Microsoft Teams"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "Retail Innovation Summit 2023",
+      "E-commerce Growth Forum"
+    ],
+    "interests": [
+      "Sustainable Fashion",
+      "Consumer Psychology",
+      "Urban Planning",
+      "Mechanical Keyboards"
+    ],
+    "oss_projects": [],
+    "publications": [],
+    "recent_posts": [
+      "Thoughts on the shift toward omnichannel retail in 2024",
+      "Why data cleaning is 80% of the analyst's job"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "tomas.berger@vantage-retail.com",
+      "t.berger.analyst@gmail.com"
+    ],
+    "phone": "+49-176-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "X",
+      "Reddit"
+    ],
+    "social_handles": "@tomas_vantage_data",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Competitor Analysis Report",
+      "Monthly KPI Review"
+    ],
+    "recent_activity": [
+      "Completed advanced Power BI training",
+      "Updated the regional pricing model for the autumn collection"
+    ],
+    "recent_role_change": "Promoted from Intern to Junior Analyst 6 months ago",
+    "travel": "None planned",
+    "upcoming_events": [
+      "Quarterly Strategy Alignment Meeting",
+      "Internal BI Workshop"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.6,
+    "known_triggers": [
+      "Direct requests from Lena Brandt",
+      "Urgent requests for data corrections",
+      "Company-wide policy updates",
+      "Performance review notifications"
+    ],
+    "liking": 0.7,
+    "reciprocity": 0.5,
+    "scarcity": 0.4,
+    "social_proof": 0.6
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "An email appearing to be from Lena Brandt asking for a quick task while she is 'in a meeting'",
+      "A fake IT alert claiming his account has been flagged for unusual activity",
+      "A phishing link disguised as a new corporate benefit portal"
+    ],
+    "likely_senders": [
+      "Lena Brandt",
+      "HR Department",
+      "IT Support",
+      "Finance Team"
+    ],
+    "plausible_pretexts": [
+      "Urgent request to review a 'corrected' version of the Q3 report",
+      "Notification of a mandatory security training module",
+      "Request to update payroll information for the new quarter",
+      "Invitation to a confidential internal strategy document"
+    ],
+    "routine_communications": [
+      "Weekly status updates to Lena Brandt",
+      "Data request tickets from marketing",
+      "Calendar invites for team syncs"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0072",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

@@ -1,0 +1,28 @@
+\section{Conclusions}
+\label{sec:conclusion}
+
+We presented \tool, an installable, extensible toolkit that makes adversarial evaluation of
+graph-based spear-phishing and lateral-movement detectors reproducible and honest. By
+coupling controllable cascade attacks with ground-truth labels and a leak-aware protocol
+---benign traffic matched by design, victim-disjoint splits, a time-shuffle causality
+control, and operational Recall@low-FPR metrics---\tool turns a landscape of incomparable,
+confounder-prone results into a shared, falsifiable benchmark. Its single-interface design
+lowers the cost of contributing new graphs, attacks, and detectors, its automatic red/blue
+arms-race maps robustness frontiers instead of single points, and its fully synthetic
+population makes the instrument freely distributable where real corpora cannot be.
+
+The broader message is that, for graph-based targeted-attack detection, the bottleneck is
+evaluation, not model capacity: node degree and send-time are exactly the shortcuts a
+powerful model will exploit, so credible progress requires confounder controls and
+operational metrics as first-class citizens. Future releases will broaden the graph library,
+add further temporal GNN backbones, incorporate additional real communication graphs, and
+package the arms-race search as a standing, versioned leaderboard so that the community can
+accumulate comparable results over time.
+
+\section*{Acknowledgements}
+The authors thank colleagues at Kozminski University and NASK for feedback on the evaluation
+design.
+
+\section*{Code availability}
+\tool is released under the MIT License at \url{https://github.com/kwarpechowski/cascadebench};
+an archived snapshot with a citable Zenodo DOI will be deposited upon acceptance.

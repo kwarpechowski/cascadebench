@@ -1,0 +1,195 @@
+{
+  "c1": {
+    "company": "Polaris Pharma",
+    "department": "Clinical Research Operations",
+    "industry": "Pharmaceuticals/Biotech",
+    "responsibilities": [
+      "Cleaning and validating clinical trial datasets",
+      "Generating weekly patient enrollment reports",
+      "Assisting in the preparation of FDA submission documentation",
+      "Maintaining internal database integrity for Phase II trials"
+    ],
+    "role": "Junior Data Analyst",
+    "seniority": "Entry-level"
+  },
+  "c2": {
+    "coworkers": [
+      "Bartek Reuter",
+      "Tomas Reuter",
+      "Sophie Haas",
+      "Marta Haas",
+      "Lena Janssen",
+      "Oskar Wojcik",
+      "Hannah Lindholm"
+    ],
+    "direct_reports": [],
+    "external_contacts": [
+      "Eva Brandt",
+      "Eva Vogel"
+    ],
+    "manager": "Tomas Reuter",
+    "recruiters": [
+      "GlobalBio Talent",
+      "PharmaSearch Intl"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "Google Data Analytics Professional Certificate",
+      "SAS Certified Specialist: Base Programming"
+    ],
+    "security_awareness": "Moderate; follows basic corporate training but tends to trust internal-looking communications from management.",
+    "skills": [
+      "SQL",
+      "Python (Pandas/NumPy)",
+      "SAS",
+      "Data Visualization",
+      "Clinical Data Management"
+    ],
+    "tech_stack": [
+      "Microsoft Excel",
+      "Tableau",
+      "Jira",
+      "SharePoint",
+      "Oracle Clinical"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "Bio-IT World Conference",
+      "PyData Global"
+    ],
+    "interests": [
+      "Bioinformatics",
+      "Cycling",
+      "Open-source data science",
+      "Urban gardening"
+    ],
+    "oss_projects": [
+      "bio-stats-helper-py"
+    ],
+    "publications": [],
+    "recent_posts": [
+      "Excited to start my journey at Polaris Pharma!",
+      "Just finished a deep dive into Pandas for clinical data cleaning."
+    ]
+  },
+  "c5": {
+    "emails": [
+      "adrian.novak@polaris-pharma.com",
+      "adrian.novak.dev@gmail.com"
+    ],
+    "phone": "+49-176-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "GitHub",
+      "Twitter"
+    ],
+    "social_handles": "@adrian_novak_data",
+    "websites": [
+      "adrian-novak-portfolio.io"
+    ]
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Clinical Trial Summary Report",
+      "Quarterly Compliance Audit"
+    ],
+    "recent_activity": [
+      "Onboarding completion",
+      "Migration of legacy trial data to new cloud storage"
+    ],
+    "recent_role_change": "Joined Polaris Pharma 4 months ago",
+    "travel": "Planned trip to Berlin for regional meeting",
+    "upcoming_events": [
+      "Internal Team Offsite",
+      "Biotech Innovation Summit"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.6,
+    "known_triggers": [
+      "Urgent requests from Tomas Reuter",
+      "Compliance warnings",
+      "Software update notifications for SAS/Tableau",
+      "HR benefit enrollment deadlines"
+    ],
+    "liking": 0.7,
+    "reciprocity": 0.5,
+    "scarcity": 0.4,
+    "social_proof": 0.6
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "Email from 'Tomas Reuter' requesting a quick file review via a shared link",
+      "Notification from 'IT' regarding a critical patch for the data analysis workstation",
+      "External request from 'Eva Vogel' regarding a data discrepancy in a shared trial"
+    ],
+    "likely_senders": [
+      "Tomas Reuter",
+      "HR Department",
+      "IT Support",
+      "Eva Brandt"
+    ],
+    "plausible_pretexts": [
+      "Urgent correction needed in the Q3 report",
+      "Mandatory security training for new hires",
+      "Updated clinical trial protocol document",
+      "Password expiration for Oracle Clinical"
+    ],
+    "routine_communications": [
+      "Weekly data validation logs",
+      "Trial enrollment updates",
+      "IT ticket updates"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0092",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

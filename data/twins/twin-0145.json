@@ -1,0 +1,192 @@
+{
+  "c1": {
+    "company": "Beacon Telecom",
+    "department": "Operations & Infrastructure",
+    "industry": "Telecommunications",
+    "responsibilities": [
+      "Overseeing 5G rollout strategy",
+      "Managing regional data center capacity",
+      "Budgeting for hardware lifecycle refreshes",
+      "Coordinating cross-functional engineering teams",
+      "Ensuring SLA compliance for enterprise clients"
+    ],
+    "role": "Senior Manager of Network Infrastructure",
+    "seniority": "Senior"
+  },
+  "c2": {
+    "coworkers": [
+      "Tomas Haas",
+      "Felix Lindqvist",
+      "Iris Janssen",
+      "Mira Reuter",
+      "Tomas Brandt",
+      "Anna Keller"
+    ],
+    "direct_reports": [
+      "Network Engineers",
+      "Infrastructure Analysts"
+    ],
+    "external_contacts": [],
+    "manager": "Tomas Haas",
+    "recruiters": [
+      "Global Tech Talent",
+      "Telecom Executive Search"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "PMP",
+      "CCNP Enterprise",
+      "ITIL Foundation"
+    ],
+    "security_awareness": "Moderate; follows corporate policy but tends to prioritize operational uptime over strict security friction.",
+    "skills": [
+      "Capacity Planning",
+      "SD-WAN Architecture",
+      "Vendor Management",
+      "Budgetary Oversight",
+      "Agile Project Management"
+    ],
+    "tech_stack": [
+      "Cisco IOS",
+      "Juniper Junos",
+      "VMware vSphere",
+      "ServiceNow",
+      "Microsoft Teams"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "MWC Barcelona",
+      "Broadband World Forum"
+    ],
+    "interests": [
+      "Edge Computing",
+      "Sustainable Energy in Data Centers",
+      "Mountain Biking",
+      "Industrial Architecture"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "Optimizing Latency in Urban 5G Grids (Internal Whitepaper)"
+    ],
+    "recent_posts": [
+      "Discussing the impact of satellite internet on rural connectivity",
+      "Sharing a link to a new energy-efficient cooling system"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "hannah.schmidt@beacon-telecom.net"
+    ],
+    "phone": "+49-172-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "X",
+      "Industry Forums"
+    ],
+    "social_handles": "@h_schmidt_telecom",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Infrastructure Budget Submission",
+      "Quarterly Performance Reviews"
+    ],
+    "recent_activity": [
+      "Reviewing hardware procurement contracts",
+      "Approving leave requests for the engineering team"
+    ],
+    "recent_role_change": "Promoted to Senior Manager 14 months ago",
+    "travel": "Upcoming trip to Frankfurt for data center audit",
+    "upcoming_events": [
+      "Annual Telecom Strategy Summit",
+      "Vendor Review Meeting"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.75,
+    "known_triggers": [
+      "Urgent network outages",
+      "Budgetary discrepancies",
+      "Direct requests from Tomas Haas",
+      "Compliance warnings"
+    ],
+    "liking": 0.5,
+    "reciprocity": 0.4,
+    "scarcity": 0.6,
+    "social_proof": 0.7
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "An email from 'Tomas Haas' requesting an immediate review of a confidential 'Restructuring Plan' PDF",
+      "A fake IT alert claiming her account will be locked due to a failed infrastructure audit"
+    ],
+    "likely_senders": [
+      "Tomas Haas",
+      "HR Department",
+      "Finance/Accounting",
+      "IT Support Desk"
+    ],
+    "plausible_pretexts": [
+      "Urgent update to the Q3 budget spreadsheet",
+      "Required signature for a new vendor contract",
+      "Mandatory security training for senior management",
+      "Notification of a critical network vulnerability"
+    ],
+    "routine_communications": [
+      "Weekly status reports",
+      "Budget approval threads",
+      "Infrastructure health alerts"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0145",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

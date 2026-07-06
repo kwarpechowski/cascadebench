@@ -1,0 +1,4 @@
+strategia,zasieg,1-hop,COMPA,hopper,anomaly-forest,GCN-statyczny,reczny-kontekst,temporalny-GNN,temporalny-GNN-uwaga
+naiwna,0.816,0.7087,0.8157,0.8023,0.6072,0.7769,0.7476,0.8493,0.8549
+stealth,0.816,0.7105,0.8109,0.5578,0.5995,0.7763,0.7044,0.8032,0.8
+niski-zasieg,0.267,0.515,0.6939,0.8502,0.8083,0.7847,0.8283,0.8377,0.852

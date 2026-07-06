@@ -1,0 +1,178 @@
+{
+  "c1": {
+    "company": "Meridian Health Group",
+    "department": "Clinical Informatics",
+    "industry": "Healthcare",
+    "responsibilities": [
+      "Cleaning and normalizing patient outcome datasets",
+      "Generating weekly KPI reports for department heads",
+      "Assisting in the migration of legacy patient records to new EHR systems",
+      "Monitoring data quality and reporting anomalies to senior analysts"
+    ],
+    "role": "Junior Health Data Analyst",
+    "seniority": "Entry-level"
+  },
+  "c2": {
+    "coworkers": [
+      "Marta Keller",
+      "Iris Janssen",
+      "Marta Reuter",
+      "Pawel Lindholm",
+      "Pawel Falk",
+      "Lena Vogel",
+      "Pawel Dvorak"
+    ],
+    "direct_reports": [],
+    "external_contacts": [],
+    "manager": "Iris Janssen",
+    "recruiters": []
+  },
+  "c3": {
+    "certifications": [
+      "Google Data Analytics Professional Certificate"
+    ],
+    "security_awareness": "Moderate; understands basic phishing but tends to trust internal-looking communications from management due to junior status.",
+    "skills": [
+      "SQL",
+      "Data Visualization",
+      "HIPAA Compliance Basics",
+      "Excel Pivot Tables",
+      "Python (Pandas)"
+    ],
+    "tech_stack": [
+      "Tableau",
+      "Microsoft SQL Server",
+      "Epic EHR",
+      "Microsoft Teams",
+      "SharePoint"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "HIMSS Annual Conference"
+    ],
+    "interests": [
+      "Public health trends",
+      "Data storytelling",
+      "Urban gardening",
+      "Digital minimalism"
+    ],
+    "oss_projects": [],
+    "publications": [],
+    "recent_posts": [
+      "Excited to start my journey in health informatics at Meridian!",
+      "Just finished a great course on data ethics in healthcare."
+    ]
+  },
+  "c5": {
+    "emails": [
+      "mira.moreau@meridian-health.org"
+    ],
+    "phone": "+1-555-012-8843",
+    "platforms": [
+      "LinkedIn",
+      "Twitter/X"
+    ],
+    "social_handles": "@mira_data_health",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Patient Satisfaction Report",
+      "Data validation for the oncology ward audit"
+    ],
+    "recent_activity": [
+      "Updating the patient demographic dashboard",
+      "Attending onboarding sessions with Iris Janssen"
+    ],
+    "recent_role_change": "Joined Meridian Health Group 4 months ago",
+    "travel": "None",
+    "upcoming_events": [
+      "Quarterly Departmental Review",
+      "Internal HIPAA Refresher Training"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.6,
+    "known_triggers": [
+      "Direct requests from Iris Janssen",
+      "Urgent compliance warnings",
+      "Requests for data correction from senior coworkers"
+    ],
+    "liking": 0.7,
+    "reciprocity": 0.5,
+    "scarcity": 0.4,
+    "social_proof": 0.6
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "An email appearing to be from Iris Janssen asking for a quick favor while she is in a meeting",
+      "A fake IT alert claiming her access to the EHR system will be revoked unless she re-authenticates"
+    ],
+    "likely_senders": [
+      "Iris Janssen",
+      "Marta Keller",
+      "IT Support Desk",
+      "HR Department"
+    ],
+    "plausible_pretexts": [
+      "Urgent request to review a 'corrected' dataset via a shared link",
+      "Notification of a mandatory HIPAA training module deadline",
+      "Request from Iris Janssen to update payroll information for new hires"
+    ],
+    "routine_communications": [
+      "Weekly data sync updates",
+      "Report submission emails",
+      "Compliance check-ins"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0016",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "c1": {
+    "company": "Greenfield Industries",
+    "department": "Executive Board",
+    "industry": "Manufacturing and Energy",
+    "responsibilities": [
+      "Strategic oversight of energy transition initiatives",
+      "P&L responsibility for European manufacturing plants",
+      "Board-level reporting and stakeholder management",
+      "Approval of high-value capital expenditure (CAPEX)",
+      "Corporate governance and regulatory compliance"
+    ],
+    "role": "Managing Director",
+    "seniority": "Executive"
+  },
+  "c2": {
+    "coworkers": [
+      "Adrian Reuter",
+      "Sophie Dvorak",
+      "Tomas Marchetti",
+      "Adrian Sundqvist",
+      "Hannah Marchetti",
+      "Greta Dvorak",
+      "Greta Dvorak"
+    ],
+    "direct_reports": [
+      "Adrian Reuter",
+      "Tomas Marchetti"
+    ],
+    "external_contacts": [
+      "Eva Berger",
+      "Marek Sokolov"
+    ],
+    "manager": "",
+    "recruiters": [
+      "Executive Search Global",
+      "Heidrick & Partners (Fictional)"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "MBA - INSEAD",
+      "Lean Six Sigma Black Belt"
+    ],
+    "security_awareness": "Moderate; understands corporate policy but often bypasses strict protocols for speed in high-pressure executive decision-making.",
+    "skills": [
+      "Strategic Planning",
+      "Operational Excellence",
+      "Energy Market Analysis",
+      "Crisis Management",
+      "Corporate Finance"
+    ],
+    "tech_stack": [
+      "Microsoft 365",
+      "SAP S/4HANA",
+      "Salesforce",
+      "Zoom",
+      "Bloomberg Terminal"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "World Energy Congress",
+      "Industrial Transformation Summit",
+      "Davos World Economic Forum"
+    ],
+    "interests": [
+      "Sustainable Energy",
+      "Industrial Automation",
+      "Philanthropy",
+      "Classical Music",
+      "Yachting"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "The Future of Green Steel (Whitepaper 2023)",
+      "Decarbonizing the Heavy Industry (Industry Journal)"
+    ],
+    "recent_posts": [
+      "Excited to announce our new hydrogen plant expansion in the Nordics.",
+      "Sustainability is not a cost, it is a competitive advantage."
+    ]
+  },
+  "c5": {
+    "emails": [
+      "sophie.novak@greenfield-ind.com",
+      "s.novak.private@protonmail.com"
+    ],
+    "phone": "+49-172-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "X (Twitter)",
+      "Bloomberg"
+    ],
+    "social_handles": "@SNovak_Greenfield",
+    "websites": [
+      "greenfield-ind.com"
+    ]
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Fiscal Report Submission",
+      "Annual Sustainability Audit",
+      "Board Meeting Presentation"
+    ],
+    "recent_activity": [
+      "Negotiating a merger with a regional wind farm operator",
+      "Reviewing new safety protocols for the smelting plant"
+    ],
+    "recent_role_change": "Promoted to Managing Director 18 months ago",
+    "travel": "Frequent travel between Berlin, Stockholm, and Singapore",
+    "upcoming_events": [
+      "European Energy Forum",
+      "Quarterly Shareholder Call"
+    ]
+  },
+  "c7": {
+    "authority": 0.95,
+    "commitment": 0.8,
+    "known_triggers": [
+      "Urgent regulatory compliance warnings",
+      "High-level board requests",
+      "Confidential M&A documents",
+      "Reputational risk alerts"
+    ],
+    "liking": 0.5,
+    "reciprocity": 0.4,
+    "scarcity": 0.7,
+    "social_proof": 0.6
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "CEO-fraud style requests for urgent wire transfers to a new vendor",
+      "Phishing via a fake 'Board Portal' login page",
+      "Malicious PDF disguised as a 'Confidential Q3 Financial Forecast'"
+    ],
+    "likely_senders": [
+      "Eva Berger",
+      "Oskar Moreau",
+      "Adrian Reuter",
+      "External Legal Counsel"
+    ],
+    "plausible_pretexts": [
+      "Urgent request for signature on a confidential acquisition agreement",
+      "Notification of a regulatory breach requiring immediate attention",
+      "Invitation to an exclusive executive roundtable on energy policy"
+    ],
+    "routine_communications": [
+      "Weekly operational updates",
+      "Budget approval requests",
+      "Strategic alignment emails with board members"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0033",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

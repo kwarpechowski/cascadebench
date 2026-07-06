@@ -1,0 +1,184 @@
+{
+  "c1": {
+    "company": "Beacon Telecom",
+    "department": "Network Operations Center (NOC)",
+    "industry": "Telecommunications",
+    "responsibilities": [
+      "Monitoring core network stability",
+      "Managing fiber optic routing protocols",
+      "Troubleshooting latency issues in regional hubs",
+      "Coordinating hardware upgrades with field technicians",
+      "Maintaining network topology documentation"
+    ],
+    "role": "Network Infrastructure Specialist",
+    "seniority": "Mid-level"
+  },
+  "c2": {
+    "coworkers": [
+      "Tomas Haas",
+      "Hannah Schmidt",
+      "Iris Janssen",
+      "Mira Reuter",
+      "Tomas Brandt",
+      "Anna Keller"
+    ],
+    "direct_reports": [],
+    "external_contacts": [],
+    "manager": "Hannah Schmidt",
+    "recruiters": []
+  },
+  "c3": {
+    "certifications": [
+      "CCNP Enterprise",
+      "JNCIP-ENT"
+    ],
+    "security_awareness": "Moderate; understands basic firewall rules but tends to bypass strict VPN protocols for faster troubleshooting during outages.",
+    "skills": [
+      "BGP Routing",
+      "MPLS",
+      "Packet Analysis",
+      "SD-WAN",
+      "Network Virtualization"
+    ],
+    "tech_stack": [
+      "Cisco IOS",
+      "Juniper Junos",
+      "Wireshark",
+      "SolarWinds",
+      "Ansible"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "NANOG",
+      "Broadband World Forum"
+    ],
+    "interests": [
+      "Home labbing",
+      "Amateur radio",
+      "Cycling",
+      "Open-source routing software"
+    ],
+    "oss_projects": [
+      "FRRouting (contributor)"
+    ],
+    "publications": [],
+    "recent_posts": [
+      "Discussion on IPv6 migration challenges in legacy telco environments",
+      "Review of new SFP+ modules for 10G uplinks"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "felix.lindqvist@beacon-telecom.net"
+    ],
+    "phone": "+46-70-555-0129",
+    "platforms": [
+      "LinkedIn",
+      "Reddit",
+      "GitHub"
+    ],
+    "social_handles": "@flindqvist_net",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Network Audit",
+      "Regional Hub Firmware Patching"
+    ],
+    "recent_activity": [
+      "Updating routing tables for the Northern sector",
+      "Collaborating with Mira Reuter on latency spikes"
+    ],
+    "recent_role_change": "Promoted to Specialist from Junior Engineer 14 months ago",
+    "travel": "Occasional site visits to regional data centers",
+    "upcoming_events": [
+      "Quarterly Infrastructure Review"
+    ]
+  },
+  "c7": {
+    "authority": 0.6,
+    "commitment": 0.8,
+    "known_triggers": [
+      "Urgent network outages",
+      "Hardware failure alerts",
+      "Direct requests from Hannah Schmidt",
+      "Compliance audit warnings"
+    ],
+    "liking": 0.6,
+    "reciprocity": 0.5,
+    "scarcity": 0.4,
+    "social_proof": 0.7
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "Phishing email mimicking a critical system alert requiring immediate login",
+      "Spoofed email from Hannah Schmidt requesting an urgent configuration change via an external link",
+      "Fake vendor notification regarding a delayed hardware shipment requiring a signature"
+    ],
+    "likely_senders": [
+      "Hannah Schmidt",
+      "Tomas Haas",
+      "IT Support Desk",
+      "Hardware Vendors"
+    ],
+    "plausible_pretexts": [
+      "Urgent request to review a network topology PDF",
+      "Notification of a critical security vulnerability in Cisco IOS",
+      "Request for updated credentials for the NOC monitoring tool"
+    ],
+    "routine_communications": [
+      "Daily status reports on network uptime",
+      "Ticket updates for latency issues",
+      "Coordination emails for maintenance windows"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0146",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

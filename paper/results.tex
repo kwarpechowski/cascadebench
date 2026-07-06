@@ -1,0 +1,92 @@
+\section{Illustrative examples}
+\label{sec:results}
+
+This section demonstrates \emph{how the tool is used} and the \emph{shape of its output}
+through four short example analyses. The numbers are real \tool runs, included to show that
+the instrument works and what it produces---not as standalone scientific findings; the
+substantive studies that \tool supports are reported in the authors' companion work on
+graph-based spear-phishing detection (in preparation). Each example reproduces from a bundled
+CSV via the matching \texttt{experiments} command.
+
+\subsection{Running the detector panel}
+A single command builds a labelled scenario and scores the whole panel:
+
+\begin{lstlisting}
+$ python -m cascadebench demo --graph enron --fanout 8
+graph: enron, 150 nodes
+scenario: 4213 events, 37 attacks, 12% infected
+  1-hop            AUC=0.65  R@1%=0.02
+  hand-context     AUC=0.77  R@1%=0.04
+  temporal-GNN     AUC=0.85  R@1%=0.07
+  ...                                  # abridged: the full run prints all 8 detectors
+\end{lstlisting}
+
+Running the panel under two attacker regimes (Table~\ref{tab:panel}) illustrates the kind of
+comparison \tool is built to surface: because the attacker is programmable, the same panel can
+be scored against a naive and a stealthy adversary, and the tool reports both side by side with
+confidence intervals. Whether and how the ranking changes between regimes is exactly the
+question a user studies with the tool---a comparison a fixed corpus cannot produce.
+
+\begin{table}[H]
+\centering
+\caption{Example \tool output: detector panel AUC under two attacker regimes (synthetic
+organization, $\ge$20 seeds, 95\% CI half-widths $\le 0.02$). Shown to illustrate the tool's
+output format, not as a benchmark result.}
+\label{tab:panel}
+\small
+\begin{tabular}{@{}lcc@{}}
+\toprule
+Detector & AUC (naive) & AUC (stealthy) \\
+\midrule
+1-hop baseline                       & 0.70 & 0.63 \\
+COMPA \cite{egele2013compa}          & 0.83 & 0.67 \\
+hopper \cite{ho2021hopper}           & 0.81 & 0.71 \\
+anomaly forest                       & 0.63 & 0.72 \\
+static GCN \cite{kipf2017semisupervised} & 0.80 & 0.84 \\
+hand-crafted context                 & 0.75 & 0.69 \\
+temporal GNN \cite{rossi2020temporal} & 0.87 & 0.75 \\
+temporal GNN + attention \cite{xu2020inductive} & 0.87 & 0.75 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Auditing for leakage}
+The \texttt{leak-audit} command applies the time-shuffle control and reports, as a first-class
+number, how much of a detector's advantage survives permuting the timestamps
+(Table~\ref{tab:leak}). This is the diagnostic \tool contributes: a user can check whether a
+``temporal'' result rests on genuine dynamics or on a timing confounder, and report the gap
+rather than a single optimistic score.
+
+\begin{table}[H]
+\centering
+\caption{Example \tool output: the time-shuffle leak audit (Enron graph, 8 seeds). The tool
+reports the shuffled and unshuffled scores so the confound-driven portion is explicit.}
+\label{tab:leak}
+\small
+\begin{tabular}{@{}lcc@{}}
+\toprule
+Setting & AUC & Recall@FPR=1\% \\
+\midrule
+temporal GNN                 & 0.85 & 0.072 \\
+temporal GNN (time-shuffled) & 0.77 & 0.049 \\
+1-hop baseline               & 0.65 & 0.022 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Sweeping the attacker}
+\texttt{pareto} and \texttt{adaptive} sweep the attacker's reach and record a curve rather than
+a point. In the example run, as \texttt{fanout} falls from 8 to 2 (infected fraction
+$0.92\!\to\!0.40$) the per-detector AUC curves cross, so the tool returns a reach--evasion
+\emph{frontier} for each detector. This is the output a user needs to reason about robustness
+against an adaptive opponent, and it is what the companion study consumes; the tool's job is to
+produce it reproducibly.
+
+\subsection{Transfer analysis}
+The \texttt{transferability} command optimizes an attack against \emph{each} detector and
+evaluates every optimized attack against \emph{all} detectors, emitting an
+attack$\times$detector matrix (\texttt{cb\_transfer.csv}); off-diagonal entries quantify how a
+tuned attack transfers. Because the same interface loads both the synthetic organization and
+the real Enron graph, the identical protocol runs on synthetic and real structure, so a user
+can inspect ranking concordance across graph sources. \tool thus also serves as a check on its
+own external validity---a capability a single-corpus study cannot offer.

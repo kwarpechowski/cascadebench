@@ -1,0 +1,201 @@
+{
+  "c1": {
+    "company": "Cobalt Systems",
+    "department": "Executive Board",
+    "industry": "Software/IT Infrastructure",
+    "responsibilities": [
+      "Strategic corporate planning",
+      "Investor relations and funding",
+      "High-level partnership acquisitions",
+      "Overseeing global operational efficiency",
+      "Final approval on enterprise software architecture"
+    ],
+    "role": "Managing Director",
+    "seniority": "Executive"
+  },
+  "c2": {
+    "coworkers": [
+      "Marek Schmidt",
+      "Tomas Lindholm",
+      "Sophie Lindholm",
+      "Lena Brandt",
+      "Bartek Janssen",
+      "Iris Novak",
+      "Stefan Lindholm"
+    ],
+    "direct_reports": [
+      "Marek Schmidt",
+      "Lena Brandt",
+      "Iris Novak"
+    ],
+    "external_contacts": [
+      "Marta Keller",
+      "Eva Berger"
+    ],
+    "manager": "",
+    "recruiters": [
+      "Executive Search Global",
+      "TechTalent Partners"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "MBA - INSEAD",
+      "PMP (Project Management Professional)"
+    ],
+    "security_awareness": "Moderate; understands high-level risks but often bypasses strict protocols for the sake of speed and efficiency in executive communication.",
+    "skills": [
+      "Strategic Leadership",
+      "Enterprise Resource Planning",
+      "Venture Capital Management",
+      "B2B Sales Strategy",
+      "Corporate Governance"
+    ],
+    "tech_stack": [
+      "Salesforce",
+      "Microsoft 365",
+      "Slack",
+      "SAP S/4HANA",
+      "Zoom"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "Web Summit",
+      "World Economic Forum",
+      "AWS re:Invent"
+    ],
+    "interests": [
+      "Sustainable Tech",
+      "Philanthropy",
+      "Modern Architecture",
+      "Sailing"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "The Future of Scalable Infrastructure (Whitepaper 2022)"
+    ],
+    "recent_posts": [
+      "Discussing the impact of AI on mid-market IT firms",
+      "Reflections on sustainable growth in the SaaS sector"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "mira.berger@cobaltsystems.io"
+    ],
+    "phone": "+49-170-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "X (Twitter)",
+      "Medium"
+    ],
+    "social_handles": "@mira_berger_cobalt",
+    "websites": [
+      "cobaltsystems.io"
+    ]
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Fiscal Report",
+      "Annual Partnership Review"
+    ],
+    "recent_activity": [
+      "Negotiating a merger with a boutique cloud provider",
+      "Updating the company's 5-year strategic roadmap"
+    ],
+    "recent_role_change": "Promoted to Managing Director 18 months ago",
+    "travel": "Frequent travel between Berlin, London, and San Francisco",
+    "upcoming_events": [
+      "Board Meeting - October 12th",
+      "Tech Leadership Summit - November"
+    ]
+  },
+  "c7": {
+    "authority": 0.95,
+    "commitment": 0.85,
+    "known_triggers": [
+      "Urgent board requests",
+      "Legal compliance warnings",
+      "High-value partnership opportunities",
+      "Reputational risk"
+    ],
+    "liking": 0.7,
+    "reciprocity": 0.4,
+    "scarcity": 0.6,
+    "social_proof": 0.8
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "CEO-fraud style requests for urgent wire transfers to secure a deal",
+      "Phishing via 'confidential' PDF attachments regarding company valuation",
+      "Credential harvesting via fake 'Executive Portal' login"
+    ],
+    "likely_senders": [
+      "Marta Keller",
+      "Eva Berger",
+      "Marek Schmidt",
+      "Legal Counsel",
+      "External Auditors"
+    ],
+    "plausible_pretexts": [
+      "Urgent signature required for a partnership agreement",
+      "Confidential board memo regarding restructuring",
+      "Invoice discrepancy from a key external partner",
+      "Invitation to an exclusive executive roundtable"
+    ],
+    "routine_communications": [
+      "Weekly executive syncs",
+      "Quarterly financial reviews",
+      "Investor updates"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0017",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

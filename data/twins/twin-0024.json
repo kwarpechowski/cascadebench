@@ -1,0 +1,188 @@
+{
+  "c1": {
+    "company": "Cobalt Systems",
+    "department": "Business Intelligence",
+    "industry": "Software/IT",
+    "responsibilities": [
+      "Data cleaning and preprocessing",
+      "Generating weekly performance reports",
+      "Maintaining internal KPI dashboards",
+      "Assisting senior analysts with market research"
+    ],
+    "role": "Junior Analyst",
+    "seniority": "Entry-level"
+  },
+  "c2": {
+    "coworkers": [
+      "Mira Berger",
+      "Marek Schmidt",
+      "Tomas Lindholm",
+      "Sophie Lindholm",
+      "Lena Brandt",
+      "Bartek Janssen",
+      "Iris Novak"
+    ],
+    "direct_reports": [],
+    "external_contacts": [],
+    "manager": "Marek Schmidt",
+    "recruiters": [
+      "TechTalent Global",
+      "Nordic IT Search"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "Microsoft Certified: Power BI Data Analyst Associate"
+    ],
+    "security_awareness": "Moderate; follows basic corporate guidelines but tends to trust internal communications from management without verification.",
+    "skills": [
+      "SQL",
+      "Python",
+      "Data Visualization",
+      "Excel VBA"
+    ],
+    "tech_stack": [
+      "Tableau",
+      "Jira",
+      "Confluence",
+      "PostgreSQL",
+      "Slack"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "PyCon",
+      "Data Science Summit 2023"
+    ],
+    "interests": [
+      "Mechanical keyboards",
+      "Procedural generation",
+      "Urban cycling",
+      "Nordic noir literature"
+    ],
+    "oss_projects": [
+      "py-data-cleaner-utils"
+    ],
+    "publications": [],
+    "recent_posts": [
+      "Excited to start my journey at Cobalt Systems!",
+      "Just finished my first Power BI certification."
+    ]
+  },
+  "c5": {
+    "emails": [
+      "stefan.lindholm@cobaltsystems.io",
+      "s.lindholm.dev@gmail.com"
+    ],
+    "phone": "+46-70-123-4567",
+    "platforms": [
+      "LinkedIn",
+      "GitHub",
+      "Reddit"
+    ],
+    "social_handles": "@stefan_l_data",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Performance Review Report",
+      "Onboarding probation period evaluation"
+    ],
+    "recent_activity": [
+      "Updating the client churn dashboard",
+      "Attending weekly 1:1 with Marek Schmidt"
+    ],
+    "recent_role_change": "Joined Cobalt Systems 4 months ago",
+    "travel": "None",
+    "upcoming_events": [
+      "Internal BI Team Sprint Planning",
+      "Company All-Hands Meeting"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.6,
+    "known_triggers": [
+      "Direct requests from Marek Schmidt",
+      "Urgent requests regarding report errors",
+      "HR policy updates",
+      "IT system maintenance alerts"
+    ],
+    "liking": 0.7,
+    "reciprocity": 0.5,
+    "scarcity": 0.4,
+    "social_proof": 0.6
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "Email from 'Marek Schmidt' requesting a quick task while he is in a meeting",
+      "Notification of a password expiration from 'Cobalt IT Support'",
+      "Invitation to a 'New Hire Welcome' document shared via a third-party link"
+    ],
+    "likely_senders": [
+      "Marek Schmidt",
+      "HR Department",
+      "IT Support",
+      "Mira Berger"
+    ],
+    "plausible_pretexts": [
+      "Urgent correction needed in the Q3 report",
+      "Mandatory security training for new hires",
+      "Updated employee handbook for Cobalt Systems",
+      "Request to review a shared spreadsheet on OneDrive"
+    ],
+    "routine_communications": [
+      "Weekly status updates",
+      "Data request tickets",
+      "Calendar invites for sprint reviews"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0024",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

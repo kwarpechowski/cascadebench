@@ -1,0 +1,182 @@
+{
+  "c1": {
+    "company": "Atlas Mining Corporation",
+    "department": "Sustainability and Regulatory Affairs",
+    "industry": "Mining and Natural Resources",
+    "responsibilities": [
+      "Monitoring tailings dam stability reports",
+      "Ensuring adherence to regional environmental laws",
+      "Coordinating soil and water quality audits",
+      "Preparing quarterly emissions reports for regulatory bodies",
+      "Managing site-specific reclamation plans"
+    ],
+    "role": "Environmental Compliance Specialist",
+    "seniority": "Mid-level"
+  },
+  "c2": {
+    "coworkers": [
+      "Lena Falk",
+      "Hannah Janssen",
+      "Viktor Schmidt",
+      "Pawel Falk",
+      "Sophie Wojcik",
+      "Iris Adamczyk",
+      "Oskar Lindqvist"
+    ],
+    "direct_reports": [],
+    "external_contacts": [],
+    "manager": "Hannah Janssen",
+    "recruiters": []
+  },
+  "c3": {
+    "certifications": [
+      "Certified Environmental Professional (CEP)",
+      "ISO 14001 Internal Auditor"
+    ],
+    "security_awareness": "Moderate; follows basic corporate training but tends to trust internal-looking documents and urgent requests from management.",
+    "skills": [
+      "Environmental Impact Assessment (EIA)",
+      "GIS Mapping",
+      "Regulatory Reporting",
+      "Hydrological Modeling"
+    ],
+    "tech_stack": [
+      "ArcGIS",
+      "Microsoft Excel (Advanced)",
+      "SAP EHS",
+      "SharePoint"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "International Mining Congress",
+      "Global Environmental Compliance Summit"
+    ],
+    "interests": [
+      "Sustainable mining practices",
+      "Geology",
+      "Mountain biking",
+      "Renewable energy integration"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "Analysis of Tailings Management in Sub-Arctic Climates (Internal Whitepaper)"
+    ],
+    "recent_posts": [
+      "Discussing the shift toward carbon-neutral extraction methods on professional forums."
+    ]
+  },
+  "c5": {
+    "emails": [
+      "tomas.dvorak@atlas-mining.com"
+    ],
+    "phone": "+420-555-012-884",
+    "platforms": [
+      "LinkedIn",
+      "Industry-specific forums"
+    ],
+    "social_handles": "@tdvorak_env",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Environmental Compliance Audit",
+      "Annual Sustainability Report submission"
+    ],
+    "recent_activity": [
+      "Updating the water runoff monitoring protocols",
+      "Reviewing new EPA guidelines for heavy metal discharge"
+    ],
+    "recent_role_change": "Promoted to Specialist 14 months ago",
+    "travel": "Frequent travel to remote mining sites",
+    "upcoming_events": [
+      "Site visit to the Northern Ridge mine",
+      "Quarterly review with Hannah Janssen"
+    ]
+  },
+  "c7": {
+    "authority": 0.75,
+    "commitment": 0.8,
+    "known_triggers": [
+      "Regulatory non-compliance warnings",
+      "Urgent requests from Hannah Janssen",
+      "Environmental safety alerts",
+      "Audit deadlines"
+    ],
+    "liking": 0.65,
+    "reciprocity": 0.5,
+    "scarcity": 0.4,
+    "social_proof": 0.6
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "An email appearing to be from Hannah Janssen requesting an immediate review of a 'confidential' compliance breach document",
+      "A notification from a fake regulatory body claiming a fine is pending unless a form is submitted via a link"
+    ],
+    "likely_senders": [
+      "Hannah Janssen",
+      "Viktor Schmidt",
+      "Regulatory Agency representatives",
+      "Internal Audit team"
+    ],
+    "plausible_pretexts": [
+      "Urgent update to the environmental safety protocol",
+      "Request to review a 'leaked' regulatory audit draft",
+      "Notification of a mandatory compliance training module",
+      "Shared folder link for the upcoming site visit itinerary"
+    ],
+    "routine_communications": [
+      "Weekly compliance status updates",
+      "Site inspection reports",
+      "Data requests for sustainability metrics"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0135",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

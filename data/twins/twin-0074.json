@@ -1,0 +1,195 @@
+{
+  "c1": {
+    "company": "Aurora Media",
+    "department": "Strategic Planning & Ad Ops",
+    "industry": "Media/Advertising",
+    "responsibilities": [
+      "Overseeing multi-channel campaign delivery",
+      "Managing high-value client budgets",
+      "Optimizing programmatic ad spend",
+      "Coordinating between creative and technical teams",
+      "Quarterly revenue forecasting"
+    ],
+    "role": "Senior Manager of Digital Strategy",
+    "seniority": "Senior"
+  },
+  "c2": {
+    "coworkers": [
+      "Felix Novak",
+      "Bartek Adamczyk",
+      "Hannah Haas",
+      "Lukas Adamczyk",
+      "Julia Marchetti",
+      "Felix Reuter",
+      "Tomas Falk"
+    ],
+    "direct_reports": [
+      "Hannah Haas",
+      "Tomas Falk"
+    ],
+    "external_contacts": [],
+    "manager": "Felix Novak",
+    "recruiters": [
+      "Global Talent Search",
+      "MediaExec Headhunters"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "Google Ads Professional",
+      "IAB Digital Media Certification"
+    ],
+    "security_awareness": "Moderate; follows basic corporate guidelines but tends to prioritize speed and efficiency over strict verification when dealing with internal requests.",
+    "skills": [
+      "Media Planning",
+      "KPI Analysis",
+      "Budget Management",
+      "Stakeholder Communication",
+      "Market Trend Analysis"
+    ],
+    "tech_stack": [
+      "Salesforce",
+      "Google Ad Manager",
+      "Microsoft Excel (Advanced)",
+      "Slack",
+      "Trello"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "AdWeek",
+      "Cannes Lions",
+      "DMEXCO"
+    ],
+    "interests": [
+      "Digital Art",
+      "Behavioral Economics",
+      "Sailing",
+      "Urban Architecture"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "The Future of Programmatic Buying (Internal Whitepaper)"
+    ],
+    "recent_posts": [
+      "Discussing the impact of cookie-less browsing on attribution models",
+      "Sharing insights on the 2024 Q3 media spend trends"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "viktor.brandt@aurora-media.tv"
+    ],
+    "phone": "+49-172-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "Twitter/X",
+      "Instagram"
+    ],
+    "social_handles": "@vbrandt_media",
+    "websites": [
+      "viktorbrandt-portfolio.me"
+    ]
+  },
+  "c6": {
+    "deadlines": [
+      "Q4 Budget Approval",
+      "Annual Client Performance Review"
+    ],
+    "recent_activity": [
+      "Reviewing campaign reports with Bartek Adamczyk",
+      "Updating the strategic roadmap for 2025"
+    ],
+    "recent_role_change": "Promoted to Senior Manager 14 months ago",
+    "travel": "Upcoming trip to Berlin for client workshops",
+    "upcoming_events": [
+      "Aurora Media Annual Summit",
+      "Quarterly Board Meeting"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.75,
+    "known_triggers": [
+      "Urgent requests from Felix Novak",
+      "Budget discrepancies",
+      "Client dissatisfaction alerts",
+      "Compliance deadlines"
+    ],
+    "liking": 0.6,
+    "reciprocity": 0.5,
+    "scarcity": 0.6,
+    "social_proof": 0.7
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "An urgent email from Felix Novak requesting a quick sign-off on a document via a shared link during a busy deadline",
+      "A notification about a 'security breach' in the Ad Manager account requiring immediate credential verification"
+    ],
+    "likely_senders": [
+      "Felix Novak",
+      "Bartek Adamczyk",
+      "HR Department",
+      "IT Support"
+    ],
+    "plausible_pretexts": [
+      "Urgent revision of the Q4 budget file",
+      "Confidential performance review for a direct report",
+      "Updated corporate policy on remote work",
+      "IT alert regarding email quota limits"
+    ],
+    "routine_communications": [
+      "Weekly status updates",
+      "Budget approval requests",
+      "Campaign performance spreadsheets"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0074",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

@@ -1,0 +1,13 @@
+\begin{abstract}
+\noindent
+Graph-based detectors of spear phishing, business email compromise, and lateral movement are
+evaluated on private corpora saturated with confounders---rhythm, degree, volume, and
+identity leakage---so reported scores reflect artefacts, not the attack mechanism.
+\emph{CascadeBench} is an installable Python toolkit that makes such evaluation controllable
+and reproducible: it builds communication graphs (synthetic, SNAP, Enron), injects a
+programmable cascade attacker that trades reach against evasion with ground-truth labels, and
+scores a detector panel under a \emph{leak-aware} protocol---matched-design benign traffic,
+victim-disjoint splits, a time-shuffle causality control, and operational Recall@low-FPR
+metrics. One interface lets researchers plug in new graphs, attacks, and detectors, turning
+confounder-prone results into a shared, falsifiable benchmark.
+\end{abstract}

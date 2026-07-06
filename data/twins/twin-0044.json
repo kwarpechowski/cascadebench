@@ -1,0 +1,191 @@
+{
+  "c1": {
+    "company": "Arcadia Logistics",
+    "department": "Supply Chain Optimization",
+    "industry": "Logistics and Supply Chain Management",
+    "responsibilities": [
+      "Monitoring shipment delays and bottleneck analysis",
+      "Updating freight cost spreadsheets",
+      "Coordinating with external carriers for route optimization",
+      "Preparing weekly KPI reports for management",
+      "Maintaining vendor contact databases"
+    ],
+    "role": "Junior Logistics Analyst",
+    "seniority": "Entry-level"
+  },
+  "c2": {
+    "coworkers": [
+      "Marek Sokolov",
+      "Lukas Lindholm",
+      "Stefan Kowalski",
+      "Sophie Schmidt",
+      "Eva Lindholm",
+      "Nina Berger",
+      "Greta Moreau"
+    ],
+    "direct_reports": [],
+    "external_contacts": [
+      "Tomas Marchetti",
+      "Daniel Keller"
+    ],
+    "manager": "Lukas Lindholm",
+    "recruiters": [
+      "Sarah Jenkins (Global Logistics Talent)",
+      "Marcus Thorne (SupplyChain Search)"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "APICS Certified Supply Chain Professional (CSCP) - In Progress"
+    ],
+    "security_awareness": "Moderate; has completed mandatory annual corporate training but tends to prioritize speed over verification when under deadline pressure.",
+    "skills": [
+      "Data Entry",
+      "Route Planning",
+      "Basic SQL",
+      "Advanced Excel",
+      "Inventory Management"
+    ],
+    "tech_stack": [
+      "SAP S/4HANA",
+      "Microsoft Excel",
+      "Tableau",
+      "Slack",
+      "Microsoft Outlook"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "LogiTech Expo 2023",
+      "Green Supply Chain Summit"
+    ],
+    "interests": [
+      "Sustainable shipping",
+      "Urban planning",
+      "Hiking",
+      "Digital organization tools"
+    ],
+    "oss_projects": [],
+    "publications": [],
+    "recent_posts": [
+      "Excited to start my journey at Arcadia Logistics!",
+      "Just read a fascinating piece on the future of autonomous trucking."
+    ]
+  },
+  "c5": {
+    "emails": [
+      "iris.reuter@arcadia-logistics.com",
+      "iris.reuter.private@webmail.com"
+    ],
+    "phone": "+49-152-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "Instagram",
+      "X"
+    ],
+    "social_handles": "@iris_reuter_logistics",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Freight Audit Report",
+      "Vendor Contract Renewal Review"
+    ],
+    "recent_activity": [
+      "Onboarding completed",
+      "Assigned to the North European corridor project"
+    ],
+    "recent_role_change": "Joined Arcadia Logistics 6 months ago",
+    "travel": "Planned trip to Hamburg for warehouse inspection next month",
+    "upcoming_events": [
+      "Quarterly Team Alignment Meeting",
+      "Logistics Certification Exam"
+    ]
+  },
+  "c7": {
+    "authority": 0.85,
+    "commitment": 0.6,
+    "known_triggers": [
+      "Urgent requests from Lukas Lindholm",
+      "Notifications regarding shipment errors",
+      "Professional certification opportunities",
+      "HR policy updates"
+    ],
+    "liking": 0.7,
+    "reciprocity": 0.4,
+    "scarcity": 0.6,
+    "social_proof": 0.5
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "An 'urgent' email from Lukas Lindholm requesting a quick file review while he is in a meeting",
+      "A phishing link disguised as a new SAP login portal for remote access",
+      "A fake notification about a missed deadline for the CSCP certification"
+    ],
+    "likely_senders": [
+      "Lukas Lindholm",
+      "Tomas Marchetti",
+      "HR Department",
+      "IT Support Desk"
+    ],
+    "plausible_pretexts": [
+      "Urgent correction needed in the Q3 Freight Audit",
+      "Updated shipping regulations for the North European corridor",
+      "Invitation to a mandatory logistics compliance webinar",
+      "Invoice discrepancy from Tomas Marchetti"
+    ],
+    "routine_communications": [
+      "Daily shipment status updates",
+      "Weekly KPI spreadsheets",
+      "Carrier invoice confirmations"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0044",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

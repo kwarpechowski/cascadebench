@@ -1,0 +1,51 @@
+\subsection{Related work}
+\label{sec:related}
+
+\subsubsection{Detecting targeted email attacks}
+Early defenses against account compromise keyed on behavioural profiles: COMPA
+\cite{egele2013compa} flags messages that deviate from a per-account statistical model, and
+\citet{stringhini2015thataint} block spearphishing by modelling each sender's habitual
+behaviour and raising an alert when a message does not match it. A parallel line detects
+spear phishing \emph{content-agnostically}, from email header and stylometric features
+\cite{duman2016emailprofiler} to transport- and behaviour-level traits
+\cite{gascon2018reading}, motivated by human-factors studies showing why targeted lures
+succeed \cite{halevi2015spearphishing}. For enterprise email specifically,
+\citet{ho2019detecting} characterize lateral phishing at scale, \citet{cidon2019high} target
+BEC with high-precision content and metadata signals, and \citet{ho2021hopper} model lateral
+\emph{movement} as suspicious login/access paths---directly inspiring our Hopper-style
+detector. More recent work applies GNNs to phishing email graphs \cite{safran2025phishinggnn}.
+These systems establish that relational and behavioural context is discriminative, but each is
+validated on a single proprietary corpus, so their reported operating points are not directly
+comparable---the gap \tool addresses.
+
+\subsubsection{Graph and GNN approaches}
+Graph neural networks---graph convolution \cite{kipf2017semisupervised}, inductive
+neighbourhood sampling \cite{hamilton2017inductive}, and attention
+\cite{velickovic2018graph}---are the default tool for relational anomaly and fraud detection,
+with known limits on expressive power \cite{xu2019how} and large surveys of the design space
+\cite{wu2021comprehensive,ma2021comprehensive,akoglu2015graph}. For fraud specifically, a
+recurring finding is that fraudsters \emph{camouflage} by attaching to benign neighbourhoods,
+which motivates label-imbalance- and camouflage-robust detectors
+\cite{dou2020enhancing,liu2021pick,tang2022rethinking} and large public graph-fraud benchmarks
+\cite{weber2019antimoney}. Because email is a \emph{dynamic} graph, temporal architectures are
+a natural fit: temporal graph networks \cite{rossi2020temporal}, temporal attention
+\cite{xu2020inductive}, and evolving GCNs \cite{pareja2020evolvegcn}. Finally, GNNs are
+themselves attackable through adversarial edges \cite{zugner2018adversarial}, with defenses
+such as \cite{zhang2020gnnguard}---exactly the adversarial regime \tool is built to probe. Our
+detector panel deliberately spans this range---tabular baselines, an account-compromise
+heuristic, an anomaly forest, a static GCN, and temporal GNNs with and without attention---so
+that architectural choices are compared on identical footing rather than across papers.
+
+\subsubsection{Evaluation pitfalls and the missing testbed}
+A parallel literature warns that security-ML results are frequently optimistic.
+\citet{arp2022dos} catalogue pervasive pitfalls---sampling bias, spurious correlations,
+inappropriate baselines---and \citet{pendlebury2019tesseract} show that ignoring temporal
+and spatial bias inflates malware-classification metrics that then collapse under realistic
+deployment. In the graph setting these hazards are sharpened: node degree, send-time, and a
+small set of repeated malicious identities are exactly the shortcuts a model will exploit.
+Despite this, phishing and lateral-movement detectors are still typically evaluated on
+closed corpora without leakage controls, matched benign designs, or operational metrics.
+There is, to our knowledge, no open, reusable testbed that supplies ground-truth labels, an
+adaptive attacker, and explicit confounder controls together. \tool is designed to be
+exactly that instrument: it does not propose a new detector but makes the comparison of
+existing and future detectors credible and reproducible.

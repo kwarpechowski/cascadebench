@@ -1,0 +1,204 @@
+{
+  "c1": {
+    "company": "Quantis Consulting",
+    "department": "Executive Board",
+    "industry": "Management Consulting",
+    "responsibilities": [
+      "Strategic firm growth and P&L management",
+      "High-level client relationship management",
+      "Overseeing cross-functional consulting teams",
+      "Final approval on partnership agreements",
+      "Defining long-term operational strategy"
+    ],
+    "role": "Managing Director",
+    "seniority": "Executive"
+  },
+  "c2": {
+    "coworkers": [
+      "Lena Wojcik",
+      "Tomas Wojcik",
+      "Sophie Moreau",
+      "Jonas Reuter",
+      "Daniel Keller",
+      "Jonas Moreau",
+      "Nina Sokolov"
+    ],
+    "direct_reports": [
+      "Lena Wojcik",
+      "Daniel Keller",
+      "Sophie Moreau"
+    ],
+    "external_contacts": [
+      "Viktor Kowalski",
+      "Lena Falk"
+    ],
+    "manager": "",
+    "recruiters": [
+      "Executive Search Global",
+      "Elite Partners Headhunting"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "MBA - INSEAD",
+      "PMP (Project Management Professional)"
+    ],
+    "security_awareness": "Moderate; understands corporate policy but often bypasses strict protocols for the sake of efficiency and speed in high-pressure situations.",
+    "skills": [
+      "Strategic Planning",
+      "Corporate Governance",
+      "Financial Modeling",
+      "Change Management",
+      "Negotiation"
+    ],
+    "tech_stack": [
+      "Microsoft 365",
+      "Salesforce",
+      "Tableau",
+      "Zoom",
+      "Slack"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "World Economic Forum",
+      "Consulting Excellence Summit 2024",
+      "Global Leadership Forum"
+    ],
+    "interests": [
+      "Sustainable Finance",
+      "Philanthropy",
+      "Modern Architecture",
+      "Wine Tasting"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "The Future of Agile Consulting (Whitepaper)",
+      "Scaling Mid-Market Firms in the EU (Journal of Management)"
+    ],
+    "recent_posts": [
+      "Reflecting on the shift toward AI-driven strategic analysis.",
+      "The importance of emotional intelligence in executive leadership."
+    ]
+  },
+  "c5": {
+    "emails": [
+      "hannah.berger@quantis-consult.com",
+      "h.berger.private@gmail.com"
+    ],
+    "phone": "+49-172-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "X (Twitter)",
+      "Instagram"
+    ],
+    "social_handles": "@hannah_berger_exec",
+    "websites": [
+      "quantis-consult.com"
+    ]
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Fiscal Review",
+      "Annual Partner Distribution Report",
+      "Client Contract Renewal - Project Alpha"
+    ],
+    "recent_activity": [
+      "Negotiating a new merger with a boutique firm",
+      "Reviewing internal restructuring plans"
+    ],
+    "recent_role_change": "Promoted to Managing Director 18 months ago",
+    "travel": "Frequent travel between Frankfurt, London, and Zurich",
+    "upcoming_events": [
+      "Board Meeting - October 12th",
+      "Industry Gala - November 5th"
+    ]
+  },
+  "c7": {
+    "authority": 0.95,
+    "commitment": 0.85,
+    "known_triggers": [
+      "Urgent requests from board members",
+      "Legal compliance threats",
+      "High-value client dissatisfaction",
+      "Confidential partnership leaks"
+    ],
+    "liking": 0.6,
+    "reciprocity": 0.4,
+    "scarcity": 0.7,
+    "social_proof": 0.8
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "Phishing email masquerading as a regulatory body demanding immediate compliance documentation",
+      "Spoofed email from a partner (e.g., Viktor Kowalski) requesting an urgent wire transfer for a project deposit",
+      "Malicious attachment disguised as a 'Confidential Q3 Financial Forecast' from a coworker"
+    ],
+    "likely_senders": [
+      "Viktor Kowalski",
+      "Lena Falk",
+      "Lena Wojcik",
+      "External Legal Counsel"
+    ],
+    "plausible_pretexts": [
+      "Urgent review of a confidential merger agreement",
+      "Notification of a legal dispute regarding a client contract",
+      "Invitation to an exclusive executive roundtable",
+      "Request for signature on a high-priority partnership NDA"
+    ],
+    "routine_communications": [
+      "Weekly performance updates",
+      "Expense approval requests",
+      "Strategic alignment emails",
+      "Client onboarding documents"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0121",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

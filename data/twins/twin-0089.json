@@ -1,0 +1,204 @@
+{
+  "c1": {
+    "company": "Polaris Pharma",
+    "department": "Executive Board",
+    "industry": "Pharmaceuticals / Biotechnology",
+    "responsibilities": [
+      "Strategic oversight of drug development pipeline",
+      "Managing investor relations and capital allocation",
+      "Regulatory compliance with EMA and FDA",
+      "Overseeing global market expansion",
+      "Final approval on R&D budget allocations"
+    ],
+    "role": "Managing Director",
+    "seniority": "Executive"
+  },
+  "c2": {
+    "coworkers": [
+      "Tomas Reuter",
+      "Sophie Haas",
+      "Adrian Novak",
+      "Marta Haas",
+      "Lena Janssen",
+      "Oskar Wojcik",
+      "Hannah Lindholm"
+    ],
+    "direct_reports": [
+      "Sophie Haas",
+      "Adrian Novak",
+      "Lena Janssen"
+    ],
+    "external_contacts": [
+      "Viktor Lindholm",
+      "Eva Moreau"
+    ],
+    "manager": "",
+    "recruiters": [
+      "Executive Search Global",
+      "BioTalent Partners"
+    ]
+  },
+  "c3": {
+    "certifications": [
+      "MBA - INSEAD",
+      "Certified Pharmaceutical Executive (CPE)"
+    ],
+    "security_awareness": "Moderate; understands high-level risks but often bypasses strict protocols for speed and convenience due to executive pressure.",
+    "skills": [
+      "Corporate Governance",
+      "Pharmaceutical Strategy",
+      "Venture Capital",
+      "Crisis Management",
+      "Clinical Trial Oversight"
+    ],
+    "tech_stack": [
+      "Microsoft 365",
+      "SAP S/4HANA",
+      "Salesforce Health Cloud",
+      "Zoom",
+      "Bloomberg Terminal"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "JP Morgan Healthcare Conference",
+      "BIO International Convention",
+      "World Health Summit"
+    ],
+    "interests": [
+      "Precision Medicine",
+      "Sailing",
+      "Philanthropy in Rare Diseases",
+      "Macroeconomics"
+    ],
+    "oss_projects": [],
+    "publications": [
+      "The Future of Biologics in Oncology (Whitepaper 2022)",
+      "Scaling Biotech Startups in the EU (Industry Journal)"
+    ],
+    "recent_posts": [
+      "Discussing the impact of AI on protein folding",
+      "Congratulating the R&D team on Phase II success"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "bartek.reuter@polaris-pharma.com",
+      "b.reuter.private@protonmail.com"
+    ],
+    "phone": "+49-172-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "Twitter/X",
+      "ResearchGate"
+    ],
+    "social_handles": "@BReuter_Polaris",
+    "websites": [
+      "polaris-pharma.com/leadership"
+    ]
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Financial Reporting",
+      "FDA Submission for Compound PX-402",
+      "Annual Board Meeting"
+    ],
+    "recent_activity": [
+      "Negotiating a partnership with a Swiss biotech firm",
+      "Reviewing internal audit reports"
+    ],
+    "recent_role_change": "Promoted to Managing Director 18 months ago",
+    "travel": "Frequent travel between Berlin, Basel, and Boston",
+    "upcoming_events": [
+      "Basel Life Sciences Symposium",
+      "Quarterly Investor Call"
+    ]
+  },
+  "c7": {
+    "authority": 0.95,
+    "commitment": 0.8,
+    "known_triggers": [
+      "Regulatory threats",
+      "Investor dissatisfaction",
+      "Competitive intelligence",
+      "Urgent legal notices"
+    ],
+    "liking": 0.5,
+    "reciprocity": 0.4,
+    "scarcity": 0.7,
+    "social_proof": 0.6
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "Phishing via a spoofed email from Eva Moreau regarding a 'leaked' clinical trial result",
+      "Urgent 'Action Required' email from the Board of Directors regarding a sudden stock price drop",
+      "Fake invoice from a high-end consultancy firm used for executive strategy"
+    ],
+    "likely_senders": [
+      "Viktor Lindholm",
+      "Eva Moreau",
+      "Sophie Haas",
+      "External Legal Counsel"
+    ],
+    "plausible_pretexts": [
+      "Urgent request for signature on a confidential merger document",
+      "Notification of a regulatory breach from a government agency",
+      "Invitation to an exclusive, high-level industry roundtable",
+      "Confidential whistleblower report regarding internal operations"
+    ],
+    "routine_communications": [
+      "Weekly executive summaries",
+      "Budget approval requests",
+      "Investor updates",
+      "Regulatory filings"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0089",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}

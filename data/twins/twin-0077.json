@@ -1,0 +1,181 @@
+{
+  "c1": {
+    "company": "Aurora Media",
+    "department": "AdTech & Distribution",
+    "industry": "Media/Advertising",
+    "responsibilities": [
+      "Managing programmatic ad campaigns",
+      "Optimizing CPM and CPC rates for clients",
+      "Troubleshooting ad server delivery issues",
+      "Coordinating with creative teams for asset implementation",
+      "Generating weekly performance reports for management"
+    ],
+    "role": "Digital Ad Operations Specialist",
+    "seniority": "Mid-level"
+  },
+  "c2": {
+    "coworkers": [
+      "Felix Novak",
+      "Viktor Brandt",
+      "Bartek Adamczyk",
+      "Hannah Haas",
+      "Julia Marchetti",
+      "Felix Reuter",
+      "Tomas Falk"
+    ],
+    "direct_reports": [],
+    "external_contacts": [],
+    "manager": "Viktor Brandt",
+    "recruiters": []
+  },
+  "c3": {
+    "certifications": [
+      "Google Ads Search Certification",
+      "IAB Digital Ad Ops Certification"
+    ],
+    "security_awareness": "Moderate; follows basic password hygiene but tends to click links in urgent internal-looking emails to avoid delaying campaign launches.",
+    "skills": [
+      "Google Ad Manager",
+      "RTB (Real-Time Bidding)",
+      "HTML5/CSS for Ads",
+      "Data Analysis",
+      "Campaign Forecasting"
+    ],
+    "tech_stack": [
+      "GAM",
+      "The Trade Desk",
+      "Microsoft Excel (Advanced)",
+      "Slack",
+      "Jira"
+    ]
+  },
+  "c4": {
+    "conferences": [
+      "AdWeek",
+      "DMEXCO"
+    ],
+    "interests": [
+      "Digital minimalism",
+      "Urban photography",
+      "Podcast production",
+      "Mechanical keyboards"
+    ],
+    "oss_projects": [],
+    "publications": [],
+    "recent_posts": [
+      "Thoughts on the deprecation of third-party cookies",
+      "Review of the latest programmatic bidding trends"
+    ]
+  },
+  "c5": {
+    "emails": [
+      "lukas.adamczyk@aurora-media.tv"
+    ],
+    "phone": "+49-176-555-0192",
+    "platforms": [
+      "LinkedIn",
+      "Twitter/X",
+      "Instagram"
+    ],
+    "social_handles": "@lukas_adops",
+    "websites": []
+  },
+  "c6": {
+    "deadlines": [
+      "Q3 Campaign Wrap-up Report",
+      "Client Budget Allocation for October"
+    ],
+    "recent_activity": [
+      "Migrating legacy ad tags to new server",
+      "Onboarding new creative assets for the autumn campaign"
+    ],
+    "recent_role_change": "Promoted to Specialist 6 months ago",
+    "travel": "None planned",
+    "upcoming_events": [
+      "Quarterly Performance Review with Viktor Brandt"
+    ]
+  },
+  "c7": {
+    "authority": 0.6,
+    "commitment": 0.8,
+    "known_triggers": [
+      "Urgent campaign errors",
+      "Direct requests from Viktor Brandt",
+      "Budget discrepancies",
+      "Client complaints"
+    ],
+    "liking": 0.6,
+    "reciprocity": 0.4,
+    "scarcity": 0.7,
+    "social_proof": 0.5
+  },
+  "c7_consent": true,
+  "c8": {
+    "high_risk_scenarios": [
+      "An email from 'Viktor Brandt' requesting an immediate login to a 'new reporting dashboard' to fix a campaign error",
+      "A notification about a 'failed ad delivery' requiring the user to download a diagnostic log"
+    ],
+    "likely_senders": [
+      "Viktor Brandt",
+      "Hannah Haas",
+      "Julia Marchetti"
+    ],
+    "plausible_pretexts": [
+      "Urgent correction needed for a live ad campaign",
+      "Updated budget spreadsheet for Q4",
+      "New corporate policy regarding remote work expenses"
+    ],
+    "routine_communications": [
+      "Daily stand-up summaries",
+      "Ad delivery status updates",
+      "Creative asset approval requests"
+    ]
+  },
+  "confidence": {},
+  "consent": true,
+  "profile_id": "twin-0077",
+  "provenance": {
+    "C1.company": "synthetic-digital-twin",
+    "C1.department": "synthetic-digital-twin",
+    "C1.industry": "synthetic-digital-twin",
+    "C1.responsibilities": "synthetic-digital-twin",
+    "C1.role": "synthetic-digital-twin",
+    "C1.seniority": "synthetic-digital-twin",
+    "C2.coworkers": "synthetic-digital-twin",
+    "C2.direct_reports": "synthetic-digital-twin",
+    "C2.external_contacts": "synthetic-digital-twin",
+    "C2.manager": "synthetic-digital-twin",
+    "C2.recruiters": "synthetic-digital-twin",
+    "C3.certifications": "synthetic-digital-twin",
+    "C3.security_awareness": "synthetic-digital-twin",
+    "C3.skills": "synthetic-digital-twin",
+    "C3.tech_stack": "synthetic-digital-twin",
+    "C4.conferences": "synthetic-digital-twin",
+    "C4.interests": "synthetic-digital-twin",
+    "C4.oss_projects": "synthetic-digital-twin",
+    "C4.publications": "synthetic-digital-twin",
+    "C4.recent_posts": "synthetic-digital-twin",
+    "C5.emails": "synthetic-digital-twin",
+    "C5.phone": "synthetic-digital-twin",
+    "C5.platforms": "synthetic-digital-twin",
+    "C5.social_handles": "synthetic-digital-twin",
+    "C5.websites": "synthetic-digital-twin",
+    "C6.deadlines": "synthetic-digital-twin",
+    "C6.recent_activity": "synthetic-digital-twin",
+    "C6.recent_role_change": "synthetic-digital-twin",
+    "C6.travel": "synthetic-digital-twin",
+    "C6.upcoming_events": "synthetic-digital-twin",
+    "C7.authority": "synthetic-digital-twin",
+    "C7.commitment": "synthetic-digital-twin",
+    "C7.known_triggers": "synthetic-digital-twin",
+    "C7.liking": "synthetic-digital-twin",
+    "C7.reciprocity": "synthetic-digital-twin",
+    "C7.scarcity": "synthetic-digital-twin",
+    "C7.social_proof": "synthetic-digital-twin",
+    "C8.high_risk_scenarios": "synthetic-digital-twin",
+    "C8.likely_senders": "synthetic-digital-twin",
+    "C8.plausible_pretexts": "synthetic-digital-twin",
+    "C8.routine_communications": "synthetic-digital-twin",
+    "__synthetic__": "synthetic-digital-twin"
+  }
+}
